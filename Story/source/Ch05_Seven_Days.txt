@@ -1,0 +1,791 @@
+CHAPTER| THE BULLOCK PRESIDENCY
+SUB| BOOK ONE: BEFORE
+SUB| Chapter 5 — "Seven Days"
+SUB| Tuesday, February 27, 2024
+PAGE|
+
+SUB| COLD OPEN
+
+SLUG| INT. SUNRISE HILL — THE TWINS' ROOM — BEL AIR — PRE-DAWN
+SUPER| TUESDAY, FEBRUARY 27, 2024 — 4:52 AM PST
+SUPER| SEVEN DAYS UNTIL SUPER TUESDAY
+ACT| Dark, except for the glow of a laptop. The glow-in-the-dark constellations on the ceiling. The Benny Bluebird nightlight.
+ACT| EMMA BULLOCK (11), sixth grade, sits cross-legged on her bed in pajamas with her hair wrapped, glasses on, a mug of hot chocolate going cold beside her. On the laptop: a spreadsheet so color-coded it looks like a quilt. The tab at the bottom reads "DADDY DELEGATES (DO NOT TOUCH, VICTORIA)."
+ACT| In the other bed, VICTORIA BULLOCK (11), face-down, one leg dangling off the mattress, snoring like a small chainsaw.
+ACT| Emma types. Mutters to herself.
+CHAR| EMMA
+DLG| Michigan... one hundred and seventeen pledged delegates... fifteen percent threshold... if Daddy gets forty-nine and Mr. President gets forty-one, and nobody else gets fifteen, then it's forty-nine over ninety, times one-seventeen...
+ACT| She types a formula. Hits enter. A cell turns green: 63.
+CHAR| EMMA
+DLG| Sixty-three.
+ACT| From the other bed, without lifting her face from the pillow:
+CHAR| VICTORIA
+DLG| It's five o'clock in the morning, nerd.
+CHAR| EMMA
+DLG| It's eight o'clock in Michigan. The polls opened an hour ago.
+CHAR| VICTORIA
+DLG| Then go to Michigan.
+CHAR| EMMA
+DLG| Daddy's IN Michigan.
+CHAR| VICTORIA
+PAR| (finally lifting her head, hair everywhere)
+DLG| ...Is he winning?
+ACT| Emma looks at the spreadsheet. At the cell marked "TOTAL — DADDY" and the cell marked "TOTAL — MR. PRESIDENT." She turns the laptop around.
+CHAR| EMMA
+DLG| If he wins Michigan tonight, he's ahead. By six delegates. Out of almost four thousand.
+CHAR| VICTORIA
+DLG| Six? That's nothing.
+CHAR| EMMA
+DLG| It's not nothing. It's six. Six is how many you need to be ahead.
+ACT| Victoria flops back down onto her pillow.
+CHAR| VICTORIA
+DLG| Wake me up when it's a thousand.
+CHAR| EMMA
+DLG| That's Super Tuesday. Next week.
+CHAR| VICTORIA
+PAR| (into the pillow)
+DLG| Then wake me up next week.
+TRANS| CUT TO:
+
+SLUG| EXT. LAFAYETTE CONEY ISLAND — WEST LAFAYETTE BOULEVARD — DOWNTOWN DETROIT — MORNING
+SUPER| 9:14 AM EST
+ACT| Twenty-two degrees. Gray sky over the Guardian Building. Steam rising from manholes. A narrow Detroit institution with a counter, a grill, and a famous hot-dog rivalry with the restaurant next door that has outlived every mayor since 1917.
+ACT| Through the window: Marc-Anthony Bullock (32), in a navy peacoat and a "BET." beanie Elxa has explicitly told him not to wear in public, at the counter, eating a Coney dog with chili, mustard, and onions at nine in the morning like a man with nothing to lose.
+ACT| Next to him, in a Detroit Tigers jacket, laughing so hard she's crying: TAYIA BOYD (32). Born and raised on the east side. She has introduced Marc at every Michigan rally since October. Tonight she introduces him at the victory party, if there's a victory.
+ACT| Outside on the sidewalk, four Secret Service agents in dark overcoats, earpieces, eyes on the rooftops. Since February ninth, Marc has had a federal protective detail. Dante Reyes (43) stands with them, no longer the man in charge. Now he's "liaison." He doesn't love the demotion. He doesn't hate the agents. He used to be one.
+CHAR| TAYIA
+DLG| You are NOT supposed to eat at Lafayette. You're supposed to eat at American. Next door. They're going to put this on the news.
+CHAR| MARC
+DLG| Tayia, I've eaten at American three times this month. I'm a uniter. I'm splitting my Coney delegates.
+CHAR| TAYIA
+DLG| Detroit doesn't split. Detroit picks a side and dies on that hill.
+CHAR| MARC
+DLG| That's what Patti says about Michigan.
+ACT| The COUNTERMAN (60s), Greek-American, gray mustache, apron, has worked here since the Carter administration. He sets a fresh cup of coffee in front of Marc without being asked.
+CHAR| COUNTERMAN
+DLG| My wife voted for you at seven this morning. I'm voting at lunch.
+CHAR| MARC
+DLG| For me?
+CHAR| COUNTERMAN
+DLG| Depends how you tip.
+ACT| Marc laughs. Pulls out his wallet. Puts down a hundred-dollar bill for a four-dollar hot dog. The counterman looks at it.
+CHAR| COUNTERMAN
+DLG| ...That's illegal, I think. You can't buy votes.
+CHAR| MARC
+DLG| Then give it to American. Next door. Tell them it's from me.
+ACT| The counterman stares at him. Then, slowly, he starts to laugh, a big, Greek, full-body laugh, and slaps the counter.
+CHAR| COUNTERMAN
+DLG| You're a crazy son of a bitch. I'm voting for you anyway.
+
+POST| TikTok | @detroitfoodie313 | [Video: Marc at Lafayette Coney Island with a hot dog, then walking next door to American Coney Island with a hundred-dollar bill] "HE TIPPED THE RIVAL CONEY ISLAND. THIS MAN IS TRYING TO END A 107 YEAR WAR ON PRIMARY DAY" | 4.1M views · 812K likes · 10:02 AM EST
+POST| Twitter | @PattiGrove | I would like to remind the candidate that I have a schedule. It does not include "start a Coney Island peace process." That said, it's polling well. | 8,904 Retweets · 61K Likes
+PAGE|
+
+SUB| ACT ONE — "THE ROAD SO FAR"
+
+SLUG| INT. ABC NEWS — ELECTION HEADQUARTERS — TIMES SQUARE, NEW YORK CITY — NIGHT
+SUPER| TUESDAY, FEBRUARY 27, 2024 — 8:00 PM EST / 5:00 PM PST
+ACT| ABC's election-night set: a wall of screens, a giant interactive map of the United States, a "DECISION DESK" alcove with analysts behind glass. A clock on the screen counts down: "MICHIGAN — FINAL POLLS CLOSE: 00:59:58."
+ACT| At the center desk: DAVID MUIR (50) and GEORGE STEPHANOPOULOS (63). Beside the map, a touchscreen wall operated by ABC's POLITICAL DIRECTOR (40s), sleeves rolled up, a stylus behind one ear.
+CHAR| DAVID MUIR
+DLG| Good evening, and welcome to our special coverage of the Michigan primary. It is primary night in the Great Lakes State, the last big contest before Super Tuesday, one week from tonight, when sixteen states and territories will vote and more than a third of all the delegates in each party will be awarded in a single night.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| Most polls in Michigan closed at 8 PM Eastern, just now. A small sliver of the Upper Peninsula, the four counties on Central Time, closes at nine. So we won't be making any projections for another hour. We'll use that hour to tell you how we got here, because it has been, to put it mildly, an extraordinary ten months.
+CHYRON| MICHIGAN PRIMARY — FINAL POLLS CLOSE 9 PM EST — SUPER TUESDAY: 7 DAYS
+CHAR| DAVID MUIR
+DLG| Let's start with the Republicans, where the story has been remarkably simple.
+
+SLUG| MONTAGE — THE REPUBLICAN PRIMARY — JANUARY 15 TO FEBRUARY 24, 2024
+ACT| JAN 15 — IOWA. Brutal cold. The coldest caucus night in Iowa history: minus-twenty wind chill. Voters in snow boots in a school gym.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| On the coldest caucus night in Iowa history, Donald Trump won with fifty-one percent, the largest margin ever in a contested Iowa Republican caucus. Ron DeSantis was a distant second. Nikki Haley third. Vivek Ramaswamy dropped out that night and endorsed Trump.
+ACT| JAN 21 — A video: Ron DeSantis, at a desk, suspending his campaign.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| Six days later, DeSantis, who entered the race as the future of the party, quit and endorsed Trump.
+ACT| JAN 23 — NEW HAMPSHIRE. Snow. Haley in a parka on a stage in Concord.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| In New Hampshire, Haley's best state, Trump beat her by eleven points. She stayed in.
+ACT| FEB 6 — NEVADA. A graphic: "NEVADA GOP PRIMARY (NON-BINDING): NONE OF THESE CANDIDATES — 63% · HALEY — 31%."
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| In Nevada, in one of the strangest results in modern primary history, Haley lost a non-binding primary to an option on the ballot called "None of These Candidates." Trump skipped the primary, ran in the state party's caucus two days later instead, and won every delegate.
+ACT| FEB 24 — SOUTH CAROLINA. Haley's home state. A ballroom in Charleston.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| And on Saturday, in the state where she served two terms as governor, Haley lost to Trump by twenty points. She vowed to fight on through Super Tuesday.
+CHYRON| GOP DELEGATES (BEFORE TONIGHT): TRUMP 110 · HALEY 20 — 1,215 NEEDED TO CLINCH
+
+SLUG| INT. HALEY FOR PRESIDENT — WAR ROOM — CHARLESTON, SOUTH CAROLINA — NIGHT
+SUPER| 8:06 PM EST
+ACT| A rented office above a closed boutique on King Street. Folding tables. Half-eaten barbecue. A wall map of the Super Tuesday states with Haley's targets circled in red marker: Vermont. Massachusetts. Virginia. Minnesota. Colorado. Utah. Some of the circles have question marks.
+ACT| At a laptop near the window, in a blazer and sneakers: SIMONE SMILLEY (36). Since November she's been a senior adviser to the Haley campaign, the most prominent Black woman on its strategy team, and as of Saturday night, one of the few people in the building who still thinks there's a path.
+ACT| A YOUNG HALEY STAFFER (24) drops into the chair next to her.
+CHAR| YOUNG HALEY STAFFER
+DLG| Michigan's going to be thirty points. Maybe forty.
+CHAR| SIMONE
+DLG| Michigan was always going to be thirty points. Michigan's a pit stop. We're fighting for Vermont, Virginia, Massachusetts. Open primaries. Independents. College towns.
+CHAR| YOUNG HALEY STAFFER
+DLG| And then what?
+ACT| Simone doesn't answer. On the TV, the ABC broadcast cuts to footage of Marc in Detroit, at a rally the night before, a crowd of twelve thousand at Little Caesars Arena.
+CHAR| YOUNG HALEY STAFFER
+DLG| Is it true he's your brother-in-law?
+CHAR| SIMONE
+DLG| It's true.
+CHAR| YOUNG HALEY STAFFER
+DLG| And you work for Nikki.
+CHAR| SIMONE
+DLG| I work for Nikki.
+CHAR| YOUNG HALEY STAFFER
+DLG| And your dad works for Biden.
+CHAR| SIMONE
+DLG| My dad works for Biden.
+CHAR| YOUNG HALEY STAFFER
+DLG| What's Thanksgiving like?
+ACT| Simone takes a long pull of sweet tea.
+CHAR| SIMONE
+DLG| Last year, my grandmother made everyone put their phones in a cooler. Then she sat at the head of the table and said grace for eleven minutes. It was mostly about my father. By name. He didn't come to Christmas.
+
+SLUG| BACK TO: ABC NEWS ELECTION HEADQUARTERS
+CHAR| DAVID MUIR
+DLG| Trump's legal calendar is now colliding with the political calendar. Just eleven days ago, a New York judge ordered him to pay more than three hundred and fifty million dollars in his civil fraud case, plus interest. His criminal trial in Manhattan, the hush-money case, is scheduled to begin March twenty-fifth. And the Supreme Court could rule any day now, possibly before Super Tuesday, on whether Colorado can remove him from its ballot under the Fourteenth Amendment.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| And that Colorado case, David, has an unusual connection to the Democratic race. Because it isn't the only presidential ballot-eligibility case in America right now.
+CHAR| DAVID MUIR
+DLG| Which brings us to the other side. And here, nothing has been simple.
+
+SLUG| MONTAGE — THE DEMOCRATIC PRIMARY — OCTOBER 2023 TO FEBRUARY 2024
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| Ten months ago, Marc-Anthony Bullock was a thirty-one-year-old movie star announcing a presidential campaign at a child's birthday party. Tonight he's thirty-two. And he's in a real race with the sitting President of the United States.
+ACT| OCT 9, 2023 — Philadelphia. RFK Jr. at a podium in front of a banner: "DECLARATION OF INDEPENDENCE."
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| In October, Robert F. Kennedy Jr. left the Democratic primary to run as an independent. Two weeks later, Minnesota Congressman Dean Phillips jumped in, arguing the party needed a younger candidate. Bullock's response: "Dean, welcome. I'm younger."
+ACT| NOV 9 — Burbank. Picketers in red WGA and SAG shirts cheering in front of Donohue Studios. Marc hugging a crying writer.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| In November, the actors' strike ended. Bullock, who had picketed outside his own mother's studio for months, called it "a win for every worker who's ever been told to be grateful for crumbs."
+ACT| NOV 28 — A TV ad. Grainy footage of a younger Marc on a comedy stage, saying something that's been bleeped. The words "THE REAL MARC" in red letters. A narrator's voice: "He thinks it's funny. Do you?"
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| In late November, a Republican-aligned super PAC launched a seven-figure ad campaign built around clips from Bullock's stand-up comedy over the past fifteen years, much of it crude, some of it deeply offensive. The ads ran heavily on Black radio and church broadcasting in South Carolina. The source of the clips, many of which had never been public, has never been revealed.
+ACT| DEC 4 — A late-night comedy stage. Marc, alone, in a plain black t-shirt, holding a microphone.
+CHAR| MARC (ON SCREEN)
+DLG| Some of the jokes in that ad were wrong. I said them because I was twenty-three and I thought cruelty was the same thing as courage. It isn't. I'm sorry to anybody who got hurt.
+PAR| (beat)
+DLG| Some of the jokes in that ad were hilarious. I'm not sorry about those. Have a nice night.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| His non-apology apology was viewed sixty million times. It didn't stop the ads.
+ACT| JAN 23, 2024 — NEW HAMPSHIRE. A packed gym in Manchester. Confetti. Marc on stage.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| In January, New Hampshire held an unsanctioned primary. The DNC had moved South Carolina first, so no delegates were at stake, and President Biden kept his name off the ballot. His supporters ran a write-in campaign. Bullock won anyway, fifty-four percent to the President's thirty-three.
+ACT| FEB 3 — SOUTH CAROLINA. Columbia. A Black church fellowship hall. Victory balloons. On a riser, applauding, a man in a perfect navy suit: Cornelius Smilley.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| Then the first sanctioned primary. South Carolina. The President's firewall. The state that resurrected his campaign in 2020. And it held. Biden fifty-four, Bullock forty-one. The President won Black voters over fifty by nearly forty points. Bullock won Black voters under thirty. A generational split inside the Democratic Party's most loyal constituency.
+ACT| FEB 6 — NEVADA. Las Vegas. A union hall full of casino workers in red Culinary Union shirts.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| Three days later, Nevada. Younger, more Latino, heavily unionized. Bullock fifty-one, Biden forty-four.
+ACT| FEB 8 — WASHINGTON. A thick report on a table. A headline: "SPECIAL COUNSEL WON'T CHARGE BIDEN, DESCRIBES HIM AS 'ELDERLY MAN WITH A POOR MEMORY.'"
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| Two days after that, Special Counsel Robert Hur released his report on President Biden's handling of classified documents. No charges. But the report described the President as, quote, "a sympathetic, well-meaning, elderly man with a poor memory." The White House blasted the description as gratuitous and inaccurate. An evening press conference only intensified the questions.
+ACT| FEB 9 — A sidewalk in Los Angeles. Reporters shouting at Marc as he walks to a car.
+CHAR| REPORTER (ON SCREEN)
+DLG| Mr. Bullock! Is the President too old? Is he fit to serve?
+CHAR| MARC (ON SCREEN)
+PAR| (stopping, turning, serious)
+DLG| I'm not gonna attack a man's memory. My wife's grandmother is ninety-five, she remembers everything, and she'll fight you. I'm not doing it. Joe Biden has served this country for fifty years. I'm running on the future, not on his birthday.
+ACT| He gets in the car. Then the window rolls back down.
+CHAR| MARC (ON SCREEN)
+DLG| ...But I do remember where I put my documents. I'm just saying.
+ACT| The window rolls up.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| Even that drew criticism from both directions: from Biden allies who called it a cheap shot, and from some Bullock supporters who wanted him to go further. The same day, the Department of Homeland Security, citing "an elevated threat environment," granted Bullock a Secret Service protective detail.
+CHYRON| DEM DELEGATES (BEFORE TONIGHT): BIDEN 47 · BULLOCK 44 — 1,968 NEEDED (PLEDGED)
+
+SLUG| INT. HUNTINGTON PLACE — BACKSTAGE GREEN ROOM — DETROIT — SAME TIME
+SUPER| 8:19 PM EST
+ACT| A cinder-block room behind the main hall of Detroit's convention center, overlooking the frozen Detroit River and the lights of Windsor, Ontario across the water. Through the walls: the muffled roar of nine thousand people in the hall, a DJ playing Motown remixes, a chant that keeps starting and dying: "BET... BET... BET..."
+ACT| Inside: the campaign's inner circle, crammed into a space meant for a quarter of them.
+ACT| PATTI GROVE (60), at a folding table with four phones and a county-by-county Michigan spreadsheet. ELXA BULLOCK (33), standing, of course. GRACE BULLOCK (29), Communications Director since January, verified, $8 a month, still bitter. AMOND BAKER (32), campaign co-chair, sitting on a road case, tie loosened. And ESTHER BULLOCK (31), in a winter-white suit, quietly watching her husband watch the TV.
+ACT| Marc (32) is in a chair directly in front of the TV, elbows on his knees, completely still. He hasn't touched the tray of Detroit-style pizza that arrived twenty minutes ago. It's the stillest he has been in ten months.
+CHAR| PATTI
+DLG| Wayne County's coming in early. Detroit's strong. We're at fifty-eight in the city. Oakland's coming in good. Ann Arbor's a blowout, the students turned out. Grand Rapids is close. Macomb is close. Dearborn —
+ACT| She stops. Everyone looks up.
+CHAR| ELXA
+DLG| Dearborn?
+CHAR| PATTI
+DLG| Dearborn's early. Very early. But it looks like the "Uncommitted" vote is under ten percent. In 2020 terms that'd be nothing. In this race, after Gaza, after October, with what Arab-American families have been through, that's...
+PAR| (beat)
+DLG| That's people who didn't trust the President and decided to trust us anyway.
+ACT| Marc doesn't move. But something changes in his face.
+CHAR| MARC
+DLG| I didn't win that, Patti. I sat in their living rooms and listened. Six times since November. They didn't give me their votes. They loaned them to me.
+CHAR| PATTI
+DLG| Loans count, baby. In Michigan, loans count double.
+ACT| Esther crosses the room. Sits on the arm of his chair. Puts a hand on his shoulder.
+CHAR| ESTHER
+DLG| You should eat.
+CHAR| MARC
+DLG| I'll eat when they call it.
+CHAR| ESTHER
+DLG| You'll eat now or I'll tell Tayia you went to Lafayette on purpose.
+CHAR| MARC
+DLG| I did go to Lafayette on purpose.
+CHAR| ESTHER
+DLG| She thinks you were tricked.
+ACT| Marc picks up a slice of pizza. Takes a bite. Esther pats his shoulder like a coach.
+
+SLUG| INT. MARRIOTT HOTEL — SUITE 1104 — RALEIGH, NORTH CAROLINA — SAME TIME
+SUPER| 8:22 PM EST
+ACT| A business-hotel suite seven days before Super Tuesday. North Carolina votes on March fifth. A hundred and sixteen Democratic delegates.
+ACT| The coffee table is covered with printouts. Precinct maps of Durham, Charlotte, Greensboro, Fayetteville. A list of names with phone numbers: pastors, AME presiding elders, NAACP branch presidents, Divine Nine chapter heads. Half of the names have check marks.
+ACT| Cornelius Smilley (65), jacket off, sleeves rolled, phone to his ear. Senior Adviser for Southern Outreach, Biden for President. Since August, the architect of the South Carolina firewall. Since February third, the most quietly celebrated Democratic operative in the South.
+CHAR| CORNELIUS
+PAR| (into phone, warm, Southern, a pastor's cadence)
+DLG| — Reverend, I know. I know. Your grandchildren love him. Everybody's grandchildren love him. My granddaughters love him. But Reverend, love is not a qualification. Love doesn't negotiate with Congress. Love doesn't sit across from Xi Jinping. The President has done this for fifty years.
+PAR| (listens)
+DLG| ...Yes. Sunday. I'll be there. I'll bring the Vice President's people. God bless you, Reverend.
+ACT| He hangs up. Makes a check mark next to a name. On the TV, muted: ABC, footage of Marc at the Lafayette counter with the hundred-dollar bill.
+ACT| Cornelius looks at it for a long moment. Then his phone buzzes. A text.
+TEXT| WES THORNTON — 8:23 PM | Watching ABC. Your boy's going to win Michigan. Big week for you next week. Alabama's a lock, he's not even on the ballot. Virginia and NC are coin flips. You got this?
+ACT| Cornelius types, deletes, types again.
+TEXT| CORNELIUS — 8:24 PM | Don't text me on primary nights.
+TEXT| WES THORNTON — 8:24 PM | Don't let him take the South and I'll never text you again. Scout's honor.
+ACT| He puts the phone face-down on the coffee table. Beside it, in a small frame, propped up like a family photo in a hotel room, a card in an eleven-year-old's handwriting. "P.P.S. from Emma: (Footnote: This is true.)" He brought it from Atlanta. He brings it everywhere. He has never told anyone why.
+
+SLUG| BACK TO: ABC NEWS ELECTION HEADQUARTERS
+SUPER| 8:31 PM EST
+ACT| George walks to the touchscreen wall.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| And then there's the other eligibility fight. The one with Bullock's name on it.
+ACT| The Political Director taps the screen. A map. Two states highlighted in red: ALABAMA and OKLAHOMA.
+CHAR| ABC POLITICAL DIRECTOR
+DLG| Two states tried to keep Marc-Anthony Bullock off their Democratic primary ballots, citing his age. Article Two, Section One: a President must be at least thirty-five. Bullock's lawyers, led by his campaign counsel Arianna Cummings, a Harvard Law graduate and yes, the actress from "Justice Cole," argued that the Constitution sets qualifications for holding office, not for running, and that it's for voters, Congress, and the Twentieth Amendment to sort out, not secretaries of state.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| And the results?
+CHAR| ABC POLITICAL DIRECTOR
+DLG| Split decision. Yesterday the Oklahoma Supreme Court ordered him put back on the ballot, five to four. But in Alabama, a federal judge upheld the Secretary of State's decision. The Eleventh Circuit refused to intervene Friday. So next Tuesday, Bullock is not on the ballot in Alabama. Fifty-two delegates there, effectively forfeited to the President.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| And this connects to the Trump case.
+CHAR| ABC POLITICAL DIRECTOR
+DLG| It does. If the Supreme Court rules in the Colorado case that states can't remove federal candidates on their own, and most legal experts think that's where it's headed, Bullock's lawyers will argue that logic applies to them too. It might be too late for Alabama. But it'd matter for every state after Super Tuesday.
+
+SLUG| INT. U.S. DISTRICT COURTHOUSE — CORRIDOR — MONTGOMERY, ALABAMA — NIGHT
+SUPER| 7:33 PM CST / 8:33 PM EST
+ACT| A marble corridor in the federal courthouse in Montgomery, a building with the names of civil-rights cases carved into its history. The courtrooms are dark. Just a cleaning crew and a vending machine.
+ACT| Arianna Cummings (31) sits alone on a wooden bench in a black suit, a legal pad on her lap, her phone on speaker on the bench beside her. She lost here on Friday. She came back tonight anyway, to file an emergency petition with the Supreme Court. It's sitting in the clerk's electronic queue.
+CHAR| ARIANNA
+PAR| (to phone)
+DLG| — no, I know it won't be granted before Tuesday. I'm filing it so it's in the record. When Colorado comes down, I want the Court to have our petition in front of them the same week.
+CHAR| ELXA (V.O.)
+PAR| (through the speaker)
+DLG| You're in Montgomery. On Michigan night. Alone.
+CHAR| ARIANNA
+DLG| Somebody has to be.
+CHAR| ELXA (V.O.)
+DLG| Arianna —
+CHAR| ARIANNA
+DLG| This is the courthouse where Judge Frank Johnson ordered the Selma march allowed to proceed in 1965. Right over there. I'm not going to sit in a hotel bar in Detroit and watch a TV while there's a filing to make in this building.
+ACT| A pause on the line.
+CHAR| ELXA (V.O.)
+DLG| ...Marc says you're the most dramatic person on the campaign.
+CHAR| ARIANNA
+DLG| Marc announced for President at a nine-year-old's birthday party.
+CHAR| ELXA (V.O.)
+DLG| He says "second most."
+ACT| Arianna almost smiles. Her laptop pings. "FILING RECEIVED — SUPREME COURT OF THE UNITED STATES — APPLICATION NO. 23A—."
+CHAR| ARIANNA
+DLG| It's in.
+CHAR| ELXA (V.O.)
+DLG| Come home, counselor.
+CHAR| ARIANNA
+DLG| Tomorrow. I want to sit here a minute.
+ACT| She hangs up. Sits in the empty corridor. Looks at the marble. Opens her legal pad to a fresh page and writes, at the top, in perfect small handwriting: "THE 28TH AMENDMENT — DRAFT 14."
+PAGE|
+
+SUB| ACT TWO — "9:00 PM"
+
+SLUG| INT. ABC NEWS ELECTION HEADQUARTERS — CONTINUOUS
+SUPER| 8:59:50 PM EST
+ACT| The countdown clock on screen: 00:00:10. 00:00:09. The studio goes quiet. George and David face the camera.
+ACT| 00:00:00.
+ACT| A chime. The ABC News projection graphic slides in with a whoosh.
+CHAR| DAVID MUIR
+DLG| It is nine o'clock, and all the polls in Michigan are now closed. And ABC News can now project: in the Michigan Republican primary, Donald Trump is the winner.
+CHYRON| ABC NEWS PROJECTS: TRUMP WINS MICHIGAN GOP PRIMARY
+CHAR| DAVID MUIR
+DLG| On the Democratic side, the race between President Biden and Marc-Anthony Bullock is, at this hour...
+ACT| A beat. A new graphic.
+CHAR| DAVID MUIR
+DLG| ...too early to call. Bullock currently leads with about eighteen percent of the expected vote counted.
+CHYRON| MICHIGAN DEM PRIMARY: TOO EARLY TO CALL — BULLOCK LEADS (18% EXPECTED VOTE IN)
+
+SLUG| INT. HUNTINGTON PLACE — MAIN HALL — DETROIT — CONTINUOUS
+SUPER| 9:00 PM EST
+ACT| Nine thousand people. A sea of navy "BET." hats and "LET'S FIX IT" signs. UAW jackets. Wayne State sweatshirts. Grandmothers in church hats. Teenagers who can't vote yet but came anyway. A giant screen over the stage showing ABC.
+ACT| When "TOO EARLY TO CALL — BULLOCK LEADS" appears, the hall makes a noise like a stadium when the home team gets a first down. Not a touchdown. Not yet.
+ACT| A chant rolls through the hall:
+CHAR| CROWD
+DLG| BET! BET! BET! BET!
+
+SLUG| INT. HUNTINGTON PLACE — GREEN ROOM — CONTINUOUS
+CHAR| GRACE
+DLG| Too early. TOO EARLY. They called Trump in one second and we're "too early"?
+CHAR| PATTI
+DLG| Trump's up forty points over a woman whose home state just beat her by twenty, Grace. We're up eight over a sitting President with half of Macomb outstanding. That's "too early." That's what "too early" means.
+CHAR| ELXA
+DLG| How long?
+CHAR| PATTI
+DLG| Macomb, Kent, and the rest of Oakland. An hour. Maybe ninety minutes.
+ACT| Marc stands. Paces. Stops at the window. The frozen river. The lights of Canada.
+CHAR| MARC
+DLG| Amond.
+CHAR| AMOND
+DLG| Yeah.
+CHAR| MARC
+DLG| Remember the Kid Mayor finale? When I had to wait for the town council vote?
+CHAR| AMOND
+DLG| You threw up in the prop trash can.
+CHAR| MARC
+DLG| I threw up in the prop trash can.
+PAR| (beat)
+DLG| Where's the trash can?
+ACT| Amond, without a word, slides a plastic bin across the floor with his foot. Everyone laughs. The tension breaks, a little.
+
+SLUG| INT. SMILLEY HOUSE — PARLOR — ATLANTA — CONTINUOUS
+SUPER| 9:04 PM EST
+ACT| Odessa (95) in her chair. She turned ninety-five in October. The whole family came, even Cornelius, for exactly ninety minutes. Lorraine (62) on the settee, a legal pad on her knee. Since Christmas, Lorraine has been keeping her own delegate count.
+ACT| And, for the first time in this parlor during this campaign: Neil (39), sitting forward on the edge of the sofa, phone in his hand, a "BET." pin on his lapel.
+CHAR| ODESSA
+DLG| Neil. What is that on your jacket?
+CHAR| NEIL
+DLG| It's a pin, Big Mama.
+CHAR| ODESSA
+DLG| I can see it's a pin. Your father is in North Carolina tonight working for the President of the United States.
+CHAR| NEIL
+DLG| I know.
+CHAR| ODESSA
+DLG| And you're a Georgia state senator wearing your brother-in-law's pin in your grandmother's parlor.
+CHAR| NEIL
+DLG| Georgia votes March twelfth, Big Mama. The week after Super Tuesday. I'm endorsing him on Thursday. I'm telling Daddy tomorrow.
+ACT| Lorraine's pen stops. Odessa sets down her coffee cup very carefully.
+CHAR| LORRAINE
+DLG| Neil.
+CHAR| NEIL
+DLG| Mama, I've done everything he ever asked me. Every race. Every endorsement. I've been the backup heir for thirty-nine years. He passed me over for Esther, and then Esther said no, and he still didn't look at me. He looked at a Republican. And then he looked at Joe Biden.
+PAR| (beat)
+DLG| I'm forty in three weeks. I'd like to do one thing in my life because I believe in it.
+ACT| A long silence. Odessa looks at her grandson for a long time.
+CHAR| ODESSA
+DLG| Your granddaddy endorsed Jesse Jackson in 1988 against the whole Georgia establishment, including half his own church board. You know what they called him?
+CHAR| NEIL
+DLG| What?
+CHAR| ODESSA
+DLG| A fool. For about six months. Then they called him a prophet.
+PAR| (she picks her coffee back up)
+DLG| Tell your father to his face. Not on the phone. Not by text. In this house. At that table. Like a Smilley.
+
+SLUG| INT. HOUSTON — ROY CHAPMAN'S HOUSE — MEYERLAND — NIGHT
+SUPER| 8:06 PM CST / 9:06 PM EST
+ACT| A brick ranch house in southwest Houston. A recliner older than Tyler. Framed photographs of a high-school football team, a wedding, a son in a guitar case. A small American flag in a planter. A "TRUMP 2020" yard sign, faded, now living in the garage behind the lawn mower.
+ACT| ROY CHAPMAN (66), retired refinery foreman, Navy veteran, reading glasses on a lanyard, in the recliner. Next to him on the couch, TYLER CHAPMAN (32), in a "REPUBLICANS FOR BULLOCK — TEXAS CHAPTER" t-shirt. The organization now has a hundred and forty thousand members.
+ACT| On the TV, the Michigan results.
+CHAR| ROY
+DLG| He's gonna win Michigan.
+CHAR| TYLER
+DLG| They haven't called it.
+CHAR| ROY
+DLG| He's gonna win it. Union guys. I know union guys. I WAS a union guy. Those boys in Macomb aren't voting for an eighty-one-year-old who can't climb Air Force One stairs without a handrail. And they aren't voting for Nikki, either. They're voting for the kid with the hot dog.
+ACT| Tyler stares at his father.
+CHAR| TYLER
+DLG| Daddy, you just described the entire Patti Grove strategy memo.
+CHAR| ROY
+DLG| I've been reading the memos. You leave them on the kitchen table.
+CHAR| TYLER
+DLG| Those are CONFIDENTIAL.
+CHAR| ROY
+DLG| Then don't leave them next to the coffee maker.
+ACT| A beat. Roy points the remote at the TV, at the Super Tuesday map that has just appeared, with Texas glowing in the middle of it.
+CHAR| ROY
+DLG| Texas votes in a week. Open primary. Any registered voter can pick either ballot.
+CHAR| TYLER
+DLG| I know.
+CHAR| ROY
+DLG| Fifty years I've voted in the Republican primary. Every time. Even when I didn't like any of 'em. Even in '08 when I had to pick between McCain and that Huckabee fella who played the bass guitar.
+PAR| (beat)
+DLG| Next Tuesday, I'm taking the Democratic ballot.
+ACT| Tyler's mouth opens. Nothing comes out.
+CHAR| ROY
+DLG| Don't make it a whole thing.
+CHAR| TYLER
+DLG| Daddy, it's a whole thing.
+CHAR| ROY
+DLG| It's ONE vote. In a primary. For a boy who sent forty-two thousand dollars to the Meyerland food bank because a bunch of retired Republicans gave him twenty bucks apiece. That's not politics. That's manners.
+ACT| Tyler pulls out his phone. Starts typing a post. Roy, without looking:
+CHAR| ROY
+DLG| You post that, I'll vote for Nikki out of spite.
+ACT| Tyler slowly puts the phone back in his pocket.
+
+SLUG| INT. UNDISCLOSED SOUNDSTAGE — "PROJECT CHRONOPOLIS" — NIGHT
+SUPER| LOCATION AND LOCAL TIME WITHHELD
+ACT| A soundstage so vast its far wall disappears into darkness. A partially built set: brutal, gleaming architecture, something between a palace and a weapon. A throne.
+ACT| In a folding chair at the edge of the set, a figure in a black hoodie and a motion-capture vest, face hidden by a hood, half a suit of violet-and-green armor on a rack beside him. On the back of the chair, where a name should be stenciled, there's only: "C.R."
+ACT| He looks at his phone. A group chat. "BALDWIN HILLS HOOLIGANS."
+TEXT| AMOND — 9:09 PM EST | too early to call. marc made me give him a trash can
+TEXT| TYLER — 8:09 PM CST | My daddy's voting in the Dem primary in Texas next week. I can't post it or he votes Nikki
+TEXT| MARC — 9:10 PM EST | ROY CHAPMAN FOR SECRETARY OF MANNERS
+TEXT| TYRESE — [TIME WITHHELD] | Proud of you bro. Can't watch live. "Sabbatical." You know. Wish I was there.
+TEXT| MARC — 9:11 PM EST | I know exactly where you are and I'm not saying a word. Go be terrifying
+TEXT| AMOND — 9:11 PM EST | wait where is he
+TEXT| TYLER — 8:11 PM CST | where IS he
+TEXT| MARC — 9:11 PM EST | sabbatical
+ACT| The hooded figure laughs once, quietly, and puts the phone face-down. An ASSISTANT DIRECTOR leans in.
+CHAR| ASSISTANT DIRECTOR
+DLG| We're ready for you, sir. Throne room. Scene 114. Full helmet.
+ACT| The figure stands. Reaches for the armor.
+TRANS| CUT TO:
+
+HEAD| BILLBOARD — JAN 12, 2024 | Tyrese Avery Postpones 2024 World Tour for 'Creative Sabbatical' | The pop superstar, fresh off the biggest-grossing tour of his career, says he's "stepping back to work on something I can't talk about yet."
+POST| Twitter | @tyreseslayss_ | it's been 46 days since tyrese posted. he said "creative sabbatical." i'm not okay. is he alive. blink twice | 22K Retweets · 151K Likes
+PAGE|
+
+SUB| ACT THREE — "WHAT MIGHT HAPPEN"
+
+SLUG| INT. ABC NEWS ELECTION HEADQUARTERS — THE MAP — NIGHT
+SUPER| 9:24 PM EST
+ACT| George at the giant touchscreen map, with the Political Director. The Super Tuesday states light up one by one.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| While we wait for Michigan, let's look ahead to next Tuesday. March fifth. Super Tuesday. Walk us through it.
+CHAR| ABC POLITICAL DIRECTOR
+DLG| Fourteen states plus American Samoa vote on the Democratic side, and Iowa's Democrats will release the results of their mail-in caucus. More than fourteen hundred pledged Democratic delegates, about thirty-six percent of the total, in a single night. On the Republican side, eight hundred sixty-five.
+ACT| He taps. The map fills with numbers.
+CHAR| ABC POLITICAL DIRECTOR
+DLG| The big prizes. California: four hundred twenty-four Democratic delegates, more than a tenth of the entire nomination. Texas: two hundred forty-four. North Carolina: one sixteen. Virginia: ninety-nine. Massachusetts: ninety-two. Minnesota, Colorado, Tennessee, Alabama, Oklahoma, Arkansas, Utah, Maine, Vermont, Iowa, and American Samoa make up the rest.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| And the math to win?
+CHAR| ABC POLITICAL DIRECTOR
+DLG| Nineteen sixty-eight pledged delegates for a first-ballot majority. Under Democratic Party rules since 2018, the roughly seven hundred automatic delegates, the so-called superdelegates, don't vote on the first ballot unless a candidate already has a majority without them. If nobody gets there with pledged delegates alone by the convention in Chicago in August, the superdelegates come back on the second ballot. And there hasn't been a second ballot at a Democratic convention since 1952.
+CHYRON| SUPER TUESDAY: MARCH 5 — 1,400+ DEM DELEGATES — 865 GOP — 1,968 / 1,215 TO WIN
+
+SLUG| INT. HUNTINGTON PLACE — GREEN ROOM — CONTINUOUS
+ACT| Patti at a whiteboard propped on a road case. She has drawn the map of the Super Tuesday states from memory. Every person in the room watches her like a tactics meeting before a championship.
+CHAR| PATTI
+DLG| Okay. While the TV people do the TV version, here's the real version. Three scenarios. Ranked.
+ACT| She writes "1. THE SPLIT" in big letters.
+CHAR| PATTI
+DLG| Most likely. Sixty percent, if you believe the 538 model. And I do, because I've watched it be right more often than I've watched it be wrong.
+CHAR| GRACE
+DLG| ABC owns 538. Doesn't that make it Grandma Natasha's model?
+CHAR| PATTI
+DLG| Not relevant. The Split: we win California, big. Colorado, Massachusetts, Minnesota, Vermont, Maine, Utah. Probably Texas, because of the open primary and Tyler's angry Republicans. Biden wins Alabama, because we're not on the ballot. Tennessee. Arkansas. Probably Oklahoma, even with us back on. And then North Carolina and Virginia are coin flips. The whole South.
+ACT| She circles North Carolina and Virginia twice.
+CHAR| PATTI
+DLG| In the Split, we come out of next Tuesday up maybe a hundred, hundred-fifty delegates. Not decisive. A long march. Georgia and Mississippi on the twelfth. Illinois, Ohio, Arizona, Kansas, and Florida on the nineteenth, and Florida's back on because we filed, which the Florida party absolutely hated. We grind it out through June.
+CHAR| ELXA
+DLG| Two.
+ACT| Patti writes "2. THE SWEEP."
+CHAR| PATTI
+DLG| Twenty-five percent. We win California, Texas, AND North Carolina and Virginia. The South cracks. Younger Black voters in Charlotte and Richmond and Durham come out the way they did in Nevada. We come out of Tuesday up three hundred-plus.
+CHAR| AMOND
+DLG| And then?
+CHAR| PATTI
+DLG| And then on Wednesday morning, the phones start ringing at the White House. Senators. Governors. Donors. Old friends of the President's. And they all start their calls the same way: "Joe, I love you, but..."
+ACT| Silence. Everyone looks at Marc. Marc doesn't react.
+CHAR| ESTHER
+DLG| And three?
+ACT| Patti writes "3. THE FIREWALL."
+CHAR| PATTI
+DLG| Fifteen percent. Biden holds the whole South: Virginia, North Carolina, Tennessee, Arkansas, Alabama, Oklahoma. And he steals Texas, because the Latino vote along the border breaks his way and the crossover Republicans don't show. Then we're roughly tied coming out of Tuesday, or slightly behind. Then it's a war for Georgia on the twelfth.
+PAR| (a beat; she doesn't look at Esther)
+DLG| Which is your father's home state.
+ACT| Esther doesn't flinch.
+CHAR| ESTHER
+DLG| And North Carolina? Virginia? The whole firewall?
+CHAR| PATTI
+DLG| Is his. Every pastor. Every presiding elder. Every Divine Nine chapter. He's in Raleigh tonight. I'd bet my house on it.
+CHAR| ESTHER
+DLG| He's at the Marriott downtown. Suite eleven-oh-four.
+ACT| Everyone turns to look at her.
+CHAR| ESTHER
+DLG| Mama told me an hour ago.
+CHAR| PATTI
+DLG| Your mother is the single most valuable person in this campaign, and she isn't on the payroll.
+CHAR| ESTHER
+DLG| She'd never take a payroll. She'd take a thank-you note.
+CHAR| MARC
+DLG| Grace, send Lorraine a thank-you note.
+CHAR| GRACE
+DLG| On it.
+CHAR| ELXA
+DLG| And the wildcards?
+ACT| Patti draws a line under the three scenarios. Writes "WILD CARDS." Starts listing.
+CHAR| PATTI
+DLG| One. The Supreme Court rules on Colorado before Tuesday. If they say states can't kick Trump off, Arianna's petition gets real oxygen and the Alabama fight becomes national news. Two. Turnout. Crossover. The open primaries: Texas, Virginia, Tennessee, Alabama, Arkansas, Vermont, Minnesota. If Tyler's Republicans and the unaffiliated twenty-somethings in Colorado and North Carolina show up in our primary instead of Trump's, every model is wrong. Three.
+PAR| (beat)
+DLG| Three is the one nobody says out loud. The President's health. He's eighty-one. Every cough is a news cycle. If something happens, God forbid, the whole race changes in an afternoon.
+CHAR| MARC
+DLG| We don't talk about that.
+CHAR| PATTI
+DLG| I'm not talking about it. I'm planning for it. That's my job.
+CHAR| MARC
+DLG| Then plan quietly. Not on a whiteboard. Not where Grace can photograph it.
+CHAR| GRACE
+DLG| I wasn't going to —
+ACT| Grace slowly lowers her phone.
+CHAR| PATTI
+DLG| Four. The thing we can't control: Chicago. August nineteenth through twenty-second. If it's the Split and the grind goes all the way to June with neither of you at nineteen sixty-eight, we go into the convention with nobody holding a majority, and on the second ballot, seven hundred superdelegates decide. Senators. Governors. Party chairs. Former Presidents.
+CHAR| AMOND
+DLG| Who are mostly...
+CHAR| PATTI
+DLG| Mostly people who've known Joe Biden for thirty years. And who have known Cornelius Smilley for thirty years.
+ACT| Silence. Marc walks to the whiteboard. Looks at the four scenarios. Picks up a marker.
+ACT| He crosses out "WILD CARDS." And writes beneath it, in his huge looping autograph handwriting: "5. WE JUST WIN."
+CHAR| PATTI
+DLG| ...That's not a scenario.
+CHAR| MARC
+DLG| It's my favorite one.
+CHAR| PATTI
+DLG| Marc —
+CHAR| MARC
+DLG| Patti, I love you. I love your memo. I love your whiteboard. You're the best in the world at this. But I didn't get into this to tie with Joe Biden in Chicago and let seven hundred people in a back room pick the President. We win. We win the voters. All of them. In every state, even the ones that took my name off the ballot. We just win.
+ACT| Patti stares at him. Then at Elxa. Elxa shrugs: since 1992.
+CHAR| PATTI
+DLG| ...Fine. Five. "We Just Win." Grace, don't photograph that either.
+CHAR| GRACE
+DLG| I'm literally holding my phone in my lap.
+
+SLUG| BACK TO: ABC NEWS ELECTION HEADQUARTERS — THE MAP
+SUPER| 9:41 PM EST
+CHAR| GEORGE STEPHANOPOULOS
+DLG| And what about the general election? Where does all this leave November?
+ACT| The Political Director pulls up a graphic: "NATIONAL POLLING AVERAGE — FEBRUARY 2024."
+CHAR| ABC POLITICAL DIRECTOR
+DLG| In the Democratic primary nationally, Bullock now leads for the first time: forty-eight to forty-four, after his New Hampshire and Nevada wins and the Hur report. The Republican primary is effectively over: Trump seventy-seven, Haley nineteen. In a Biden-Trump general election, Trump now leads by two, forty-six to forty-four, within the margin of error. In a Bullock-Trump matchup...
+ACT| Graphic: "HYPOTHETICAL: BULLOCK 52% · TRUMP 40%."
+CHAR| ABC POLITICAL DIRECTOR
+DLG| ...Bullock leads by twelve. That gap, between how Biden and Bullock each poll against Trump, has become the central argument of the entire Democratic primary.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| With the asterisk.
+CHAR| ABC POLITICAL DIRECTOR
+DLG| With the asterisk. The age amendment has two hundred and twelve House co-sponsors now, including thirty-one Republicans. The House Judiciary Committee held its first hearing on it two weeks ago. Speaker Mike Johnson has not committed to bringing it to the floor. A two-thirds vote has never been scheduled. Without it, even if he wins the nomination and the election, under current law a Vice President would be acting President until January 2027.
+CHAR| DAVID MUIR
+DLG| Which makes the running mate question...
+CHAR| ABC POLITICAL DIRECTOR
+DLG| ...the most important vice-presidential pick in American history, potentially. And the Bullock campaign has said nothing about it.
+
+SLUG| INT. HUNTINGTON PLACE — GREEN ROOM — CONTINUOUS
+ACT| On the TV: "the most important vice-presidential pick in American history." The room goes quiet.
+ACT| Without anyone meaning to, eyes drift toward Amond, sitting on the road case, tie loosened, trash can at his feet.
+ACT| Amond notices. Looks up.
+CHAR| AMOND
+DLG| What?
+CHAR| GRACE
+DLG| Nothing.
+CHAR| ELXA
+DLG| Nothing.
+CHAR| PATTI
+DLG| Thirty-two-year-old campaign co-chair. Not legally eligible either. Next question.
+ACT| Marc doesn't look at Amond. He looks at the TV. But his jaw moves, just once, like a man holding something in.
+ACT| Esther sees it.
+PAGE|
+
+SUB| ACT FOUR — "MICHIGAN"
+
+SLUG| INT. ABC NEWS ELECTION HEADQUARTERS — CONTINUOUS
+SUPER| 10:41 PM EST
+ACT| The chime. The whoosh. David Muir sits up straight.
+CHAR| DAVID MUIR
+DLG| And ABC News can now project: Marc-Anthony Bullock will win the Michigan Democratic primary.
+CHYRON| ABC NEWS PROJECTS: BULLOCK WINS MICHIGAN DEMOCRATIC PRIMARY
+CHAR| DAVID MUIR
+DLG| A significant victory for the thirty-two-year-old challenger in a state President Biden has called central to his re-election, and a state Democrats must win in November. With about seventy-two percent of the expected vote counted, Bullock leads forty-nine percent to forty-one. "Uncommitted," the protest vote organized over the President's handling of the war in Gaza, at about seven percent. Phillips and Williamson in the low single digits.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| And this means, David, that for the first time in this race, Bullock will lead in pledged delegates heading into Super Tuesday.
+ACT| Graphic: "DEM PLEDGED DELEGATES (EST.): BULLOCK 107 · BIDEN 101."
+CHAR| GEORGE STEPHANOPOULOS
+DLG| A lead of six. Out of more than thirty-nine hundred.
+
+SLUG| INT. SUNRISE HILL — FAMILY ROOM — BEL AIR — CONTINUOUS
+SUPER| 7:41 PM PST
+ACT| Emma, Victoria, and LYRIC BAKER (9), fourth grade, are on the floor in front of the TV in pajamas. Natasha (52) and Robert (55) on the couch behind them. Harmony (31) in the doorway.
+ACT| When "BULLOCK WINS MICHIGAN" appears, Victoria leaps up, screaming, and runs a full lap of the room. Lyric jumps up and down holding her new dog, a scruffy rescue terrier named BET, who barks in confusion.
+ACT| Emma doesn't move. She's on her laptop. She types. Hits enter.
+CHAR| EMMA
+DLG| One hundred and seven to one hundred and one.
+CHAR| VICTORIA
+DLG| SIX! SIX! YOU SAID SIX!
+CHAR| EMMA
+DLG| I said six this MORNING. At four fifty-two. I was right.
+ACT| Victoria grabs Emma's face with both hands and kisses her on the forehead. Emma lets her.
+CHAR| VICTORIA
+DLG| You're a NERD and you're RIGHT.
+CHAR| LYRIC
+DLG| Is Uncle Marc President now?
+CHAR| ROBERT
+DLG| Not yet, baby.
+CHAR| LYRIC
+DLG| When?
+CHAR| NATASHA
+DLG| Next Tuesday we'll know a lot more.
+ACT| Natasha watches her granddaughters dance around the room with a look Robert hasn't seen on her face in a very long time. Not the CEO. Just a grandmother.
+CHAR| ROBERT
+DLG| You okay, Tasha?
+CHAR| NATASHA
+DLG| ABC's going to call Super Tuesday for my son or against him, Robert, and I run the network, and I'm not allowed to say a word to anyone in that building about it.
+CHAR| ROBERT
+DLG| I know.
+CHAR| NATASHA
+DLG| I just want to call Paul and tell him to call it faster.
+CHAR| ROBERT
+DLG| I know, baby.
+CHAR| NATASHA
+DLG| I won't.
+CHAR| ROBERT
+DLG| I know.
+
+SLUG| INT. MARRIOTT — SUITE 1104 — RALEIGH — CONTINUOUS
+SUPER| 10:42 PM EST
+ACT| Cornelius watches the projection. Doesn't move. On the coffee table, his phone buzzes once. Twice. Ten times. Biden campaign staff. Reporters. Pastors.
+ACT| He picks it up. Ignores all of them. Scrolls to one name: "LORRAINE." Hovers. Doesn't call.
+ACT| Then a new text appears on the screen, from a number he doesn't have saved.
+TEXT| UNKNOWN NUMBER — 10:43 PM | Granddaddy, this is Emma. I'm using Grandma Natasha's iPad. Daddy won Michigan. I know you work for the other side. That's okay. I just wanted to say I hope you're not too sad. You can be sad a little. Footnote: Victoria says hi too.
+ACT| Cornelius reads it. Reads it again. His thumb hovers over the reply field for a very long time.
+ACT| Then he types two words.
+TEXT| CORNELIUS — 10:46 PM | Thank you, sweetheart.
+ACT| He stares at what he sent. Then, after a long moment, adds one more line.
+TEXT| CORNELIUS — 10:47 PM | Tell your father congratulations. From Granddaddy.
+ACT| He sets the phone down. Puts his face in his hands. Stays like that.
+
+SLUG| INT. HUNTINGTON PLACE — MAIN HALL — DETROIT — NIGHT
+SUPER| 11:14 PM EST
+ACT| The hall has gone from loud to deafening. Nine thousand people, standing on chairs, waving signs, chanting.
+ACT| On stage, Tayia, in the Tigers jacket and a "BET." hat, at the microphone. Tears streaming. She's been crying since 10:41.
+CHAR| TAYIA
+DLG| DETROIT!
+ACT| The crowd ROARS.
+CHAR| TAYIA
+DLG| I was born at Henry Ford Hospital. I grew up on the east side. I went to Cass Tech. And when I was eleven years old I got on a plane to Los Angeles to play the best friend on a Donohue Channel show, and the first thing the boy playing the lead ever said to me was, "You're from Detroit? That's the coolest thing anybody's ever been from."
+PAR| (laughter)
+DLG| Twenty years later he's still saying it! Ladies and gentlemen, the winner of the Michigan primary, my best friend, your next President —
+PAR| (beat, through tears)
+DLG| — when he's old enough —
+PAR| (huge laughter)
+DLG| — MARC-ANTHONY BULLOCK!
+ACT| The hall EXPLODES. Motown, "Ain't No Mountain High Enough," the Marvin and Tammi version. Marc walks on stage holding Esther's hand. Behind them, Amond, Elxa, Grace, Patti, who stays at the edge of the stage looking like she'd rather be anywhere else and also exactly here.
+ACT| Marc gets to the podium. Lets the noise go on. And on. He tries to speak three times and has to stop.
+CHAR| MARC
+DLG| Detroit. Michigan. Thank you.
+PAR| (beat)
+DLG| Ten months ago a nine-year-old girl asked me why I couldn't fix it. Tonight, Michigan answered.
+ACT| Roar.
+CHAR| MARC
+DLG| I want to say something before anything else. I want to say thank you to President Biden. I mean it. He's spent fifty years in public service. He's my opponent, not my enemy. And somewhere tonight, there are people in this state who voted for him, people who love him, and I want them to know: I see you. I want to earn you too.
+ACT| Applause. Respectful. Real.
+CHAR| MARC
+DLG| And I want to say something to the people of Dearborn. You let me sit in your living rooms. You fed me. You told me about your families. People you've lost. People who are still over there. You didn't owe me anything. You loaned me your trust. I won't forget it. I won't waste it. And if I'm President, every life, every child, Israeli and Palestinian, every single one, will count the same in my White House.
+ACT| A deeper, longer applause. In one section of the hall, a group of young Arab-American women holding a hand-painted sign, "DEARBORN LOANED YOU THIS," cheering and crying at once.
+CHAR| MARC
+DLG| Next Tuesday, sixteen states vote. Some of them took my name off the ballot. Alabama, I love you anyway. Some of them think I'm too young. Some of them think I'm too rich. Some of them saw my old comedy specials and want to talk to my mother.
+PAR| (laughter)
+DLG| To all of you: I'm coming. I'm coming to Raleigh and Richmond and Houston and Denver and Boston and Minneapolis and Little Rock and Oklahoma City and Salt Lake. I'm coming to every state that'll have me and a couple that won't.
+PAR| (beat, a smile)
+DLG| We don't need a convention to decide this. We don't need a back room. We don't need a second ballot.
+PAR| (beat)
+DLG| We just need to win.
+ACT| Pause.
+CHAR| MARC
+DLG| So, Super Tuesday...
+ACT| He leans into the mic. The hall knows what's coming.
+CHAR| CROWD
+DLG| BET!
+CHAR| MARC
+DLG| BET!
+ACT| Confetti cannons. Navy and white. Esther kisses him. Amond hugs him so hard he lifts him off his feet. Tayia is jumping up and down on the side of the stage.
+ACT| And at the edge of the stage, Patti Grove, arms crossed, taps her watch, and holds up seven fingers to Elxa. Seven days.
+ACT| Elxa nods. Pulls out her phone. Opens a document titled "SUPER TUESDAY — 7-DAY SCHEDULE — 16 STATES." It's forty-one pages long.
+
+SLUG| MONTAGE — THE INTERNET — TUESDAY NIGHT INTO WEDNESDAY MORNING, FEB 27–28, 2024
+
+POST| Twitter | #MichiganPrimary | Trending #1 in United States · 1.9M Tweets
+POST| Twitter | #Bet | Trending #2 Worldwide · 2.4M Tweets
+POST| Twitter | @TheBullpenDaily | WE'RE AHEAD. WE'RE AHEAD IN DELEGATES. 107 TO 101. SIX DELEGATES. EMMA BULLOCK CALLED IT AT 4:52 AM, WE SAW HER SPREADSHEET IN THE BACKGROUND OF GRACE'S STORY. THE TWINS ARE THE REAL CAMPAIGN MANAGERS | 92K Retweets · 501K Likes
+POST| Twitter | @PattiGrove | The candidate went off-script and added a scenario to my whiteboard called "We Just Win." I'd like it on the record that I object. I'd also like it on the record that it's currently undefeated. | 41K Retweets · 260K Likes
+POST| Twitter | @UAWfan_Macomb | Macomb County union guy here. Voted Trump 2016, Biden 2020, Bullock tonight. Not because he's a Democrat. Because he walked a picket line outside his own mother's studio. You can't fake that. | 33K Retweets · 188K Likes
+POST| TikTok | @dearborn.voices | [Video: young Arab-American women at the Detroit party, tearful, as Marc says "every life will count the same"] "we loaned him our trust. watch him earn it." | 9.4M views · 2.1M likes
+POST| Twitter | @ConstitutionCarl | Congratulations to Mr. Bullock on winning a primary for an office he is constitutionally barred from holding. Truly a historic night for the Article II deniers. | 4,102 Retweets · 19K Likes
+POST| Twitter | @ConstitutionCarl's replies | @ArizonaGrandpa: "Carl you've been mad since January 2023 and he's only gotten more popular. Take a walk." | 22K Likes
+POST| Twitter | @jaxonwilde | Michigan voted for a man who told jokes about their mothers on HBO in 2015. Keep watching Wilde Card. The clips aren't done. | 3,808 Retweets · 11K Likes
+POST| Twitter | @TayiaBoyd | @jaxonwilde Jaxon, Detroit doesn't care what you think. Detroit doesn't care what anybody thinks. That's why we're the coolest place anybody's ever been from. | 144K Retweets · 1.1M Likes
+POST| Reddit | r/politics | "Bullock wins Michigan, takes first delegate lead of the race; AP calls state at 10:40 PM" | 98K upvotes · 14,221 comments · Top comment: "A 32-year-old who can't legally be President just beat the sitting President in the most important swing state, and the most impressive part is he did it by being nice to the people the party ignored."
+POST| Reddit | r/neoliberal | "Patti Grove's whiteboard leaked (allegedly). It has a scenario on it called 'We Just Win.'" | 21K upvotes · Top comment: "This campaign is held together by vibes, twelve-year-olds' spreadsheets, and the most terrifying campaign manager in America and somehow it's working."
+POST| Twitter | @SimoneSmilley | Congratulations to my brother-in-law on Michigan. As a senior adviser to the Haley campaign I have no further comment. As his sister-in-law, I'm going to bed proud. Separate feelings. I contain multitudes. | 61K Retweets · 491K Likes
+
+HEAD| ASSOCIATED PRESS — 10:40 PM EST | Bullock wins Michigan Democratic primary, edging ahead of Biden in delegates heading into Super Tuesday
+HEAD| THE NEW YORK TIMES | Bullock Wins Michigan, Delivering a Blow to Biden in a Critical Battleground | The 32-year-old challenger won young voters, union households, and a significant share of Arab American voters, as the protest "uncommitted" movement drew a smaller-than-expected share.
+HEAD| THE WASHINGTON POST | Biden's Southern Firewall Faces Its Biggest Test on Super Tuesday
+HEAD| POLITICO PLAYBOOK — WED, FEB 28 | 'Joe, I love you, but...' — Democrats brace for a make-or-break week | Inside the Biden campaign's Super Tuesday plan: the South, the superdelegates, and the man running the firewall, Cornelius Smilley.
+HEAD| AXIOS | By the numbers: Super Tuesday's 1,400+ delegates and the paths for Biden and Bullock
+HEAD| FIVETHIRTYEIGHT | Our Super Tuesday forecast: Bullock is favored to win the most delegates, but a decisive night is far from certain
+HEAD| FOX NEWS | Trump cruises in Michigan as Haley vows to stay in; Biden suffers embarrassing loss to 'unconstitutional' Bullock
+HEAD| THE DETROIT FREE PRESS | Bullock Wins Michigan — and Ends a Coney Island War? | The candidate tipped both Lafayette and American on primary morning. Both restaurants say they're "voting for peace."
+HEAD| THE ATLANTA JOURNAL-CONSTITUTION | State Sen. Neil Smilley Expected to Break With Father, Endorse Bullock Ahead of Georgia Primary
+HEAD| VARIETY | Grace Bullock, Communications Director, Confirms She Still Pays for Twitter Verification: 'It's a Matter of National Security'
+HEAD| DEADLINE | Where in the World Is Tyrese Avery? Pop Star's 'Sabbatical' Hits Day 46 as Fans Theorize
+PAGE|
+
+SUB| TAG
+
+SLUG| INT. DETROIT MARRIOTT AT THE RENAISSANCE CENTER — SUITE — NIGHT
+SUPER| WEDNESDAY, FEBRUARY 28, 2024 — 1:58 AM EST
+ACT| The highest floor of the tallest building in Michigan. Floor-to-ceiling windows. The frozen river. The lights of Windsor. Confetti still stuck in Marc's hair.
+ACT| Esther is asleep on the couch in her winter-white suit, shoes kicked off. Marc sits on the floor beside her with his back against the couch, a cold Coney dog on a paper plate, and his phone in his hand.
+ACT| A text on the screen, forwarded from Natasha's iPad:
+TEXT| CORNELIUS (via Emma) — 10:47 PM | Tell your father congratulations. From Granddaddy.
+ACT| He reads it over and over.
+ACT| A soft knock. Amond, in a hoodie, two hotel-minibar ginger ales in his hands. He slides down the wall to sit next to Marc on the floor. Hands him one.
+CHAR| AMOND
+DLG| Patti's asleep in a chair in the hallway. Fully dressed. Shoes on. Holding a phone.
+CHAR| MARC
+DLG| She doesn't sleep. She powers down.
+ACT| They drink. Look out at Canada.
+CHAR| AMOND
+DLG| They said on TV it's the most important VP pick in history.
+ACT| Marc doesn't answer.
+CHAR| AMOND
+DLG| They said if the amendment fails, whoever you pick is President for two years.
+CHAR| MARC
+DLG| I heard.
+CHAR| AMOND
+DLG| So you need somebody thirty-five. Somebody safe. A governor. A senator. Somebody Patti can sell to Pennsylvania.
+ACT| Marc turns and looks at him for the first time.
+CHAR| MARC
+DLG| Is that what you think?
+CHAR| AMOND
+DLG| It's what everybody thinks.
+CHAR| MARC
+DLG| I didn't ask what everybody thinks. I asked what you think.
+ACT| Amond looks at him. Twenty-eight years of trampolines and Power Wheels and prop trash cans.
+CHAR| AMOND
+DLG| I think if you pick somebody "safe," you're telling the whole country the thing you've been fighting since that birthday party is just a slogan. That age doesn't matter, unless it's for real. Then it matters.
+PAR| (beat)
+DLG| But I'm not gonna tell you who to pick, bro. That's not my call. That's yours.
+ACT| Marc looks at him for a long time. Then he looks back out the window.
+CHAR| MARC
+DLG| Ask me in July.
+CHAR| AMOND
+DLG| Why July?
+CHAR| MARC
+DLG| Because by July, I'm gonna have either fixed thirty-five or I'm gonna have to tell the country why I'm betting everything on it anyway.
+PAR| (beat)
+DLG| And either way, I'm not doing it without you.
+ACT| Amond doesn't say anything. He doesn't need to. He clinks his ginger ale against Marc's. They sit on the floor of a hotel suite in Detroit with confetti in their hair, two boys from Baldwin Hills, looking at the lights of a foreign country across a frozen river.
+ACT| On the coffee table behind them, Marc's phone lights up with a calendar alert:
+ACT| INSERT — PHONE SCREEN: "SUPER TUESDAY — MARCH 5 — 6 DAYS, 22 HRS"
+ACT| Then a second alert. A news notification:
+ACT| INSERT — PHONE SCREEN: "COURT WATCH — Supreme Court could rule on Trump Colorado ballot case as soon as Monday, the day before Super Tuesday. Legal experts: ruling could affect Bullock's age-eligibility fights."
+ACT| Neither of them sees it. They're looking at Canada.
+TRANS| SMASH TO BLACK.
+SUPER| END OF CHAPTER FIVE
+
+PAGE|
+SUB| CONTINUITY LEDGER — CHAPTER 5
+ACT| **Timeline:** Tue Feb 27, 2024, 4:52 AM PST → Wed Feb 28, 2024, 1:58 AM EST (Standard Time; DST begins Sun Mar 10, 2024). **Super Tuesday: Tue Mar 5, 2024.** Michigan polls close 8 PM EST (most of the state) and 9 PM EST (four western Upper Peninsula counties on Central Time).
+ACT| **Ages (Feb 27, 2024):** Marc 32 · Esther 31 · Emma & Victoria 11 (6th grade) · Lyric 9 (4th grade) · Amond 32 · Harmony 31 · Tyrese 32 · Arianna 31 · Tyler 32 · Tayia 32 · Elxa 33 · Grace 29 · Natasha 52 · Robert 55 · Odessa 95 (turned 95 Oct 3, 2023) · Cornelius 65 · Lorraine 62 · Neil 39 (turns 40 Mar 22) · Simone 36 · Patti Grove 60 · Dante 43 · Wes Thornton 44 · Roy Chapman 66 (fictional). Real people: Biden 81 · Trump 77 · Haley 52 · Phillips 55 · Williamson 71 · RFK Jr. 70 · David Muir 50 · George Stephanopoulos 63 · Speaker Mike Johnson 52.
+ACT| **Real events depicted (GOP & general):** McCarthy ousted (Oct 3, 2023); Hamas attack and Israel–Hamas war (Oct 7, 2023); Speaker Johnson (Oct 25, 2023); RFK Jr. independent (Oct 9, 2023); Phillips enters (Oct 27, 2023); SAG-AFTRA strike ends (Nov 9, 2023); Iowa caucus (Jan 15: Trump 51%, coldest ever; Ramaswamy exits); DeSantis exits (Jan 21); NH (Jan 23: Trump +11 over Haley); Nevada GOP primary "None of These Candidates" beats Haley (Feb 6) and Trump wins the caucus (Feb 8); Hur report "elderly man with a poor memory" (Feb 8); Trump civil fraud judgment of about $355M plus interest (Feb 16); SC GOP (Feb 24: Trump +20); Trump wins Michigan GOP (Feb 27, projected 9 PM); Colorado ballot case (Trump v. Anderson) argued Feb 8, decision pending; Manhattan trial set for Mar 25 at this point. DNC calendar; ~700 superdelegates who don't vote on the first ballot (2018 rule); 1,968 pledged to win; Super Tuesday 1,400+ Dem and 865 GOP delegates; CA 424, TX 244, NC 116, VA 99, MA 92; DNC convention Chicago Aug 19–22, 2024; last multi-ballot Dem convention 1952; Iowa Dem mail-in results Mar 5; Florida's primary (canceled in real life) reinstated in our world because Bullock filed.
+ACT| **Our-world Democratic results:** NH (unsanctioned, Jan 23): Bullock 54, Biden (write-in) 33, no delegates. SC (Feb 3): Biden 54, Bullock 41 (Cornelius's firewall). NV (Feb 6): Bullock 51, Biden 44. **MI (Feb 27): Bullock 49, Biden 41, Uncommitted ~7, projected 10:41 PM EST (AP 10:40).** Pledged delegates after MI (est.): **Bullock 107, Biden 101.** National Dem: Bullock 48, Biden 44 (first lead). GOP national: Trump 77, Haley 19. General: Trump 46, Biden 44; Bullock 52, Trump 40. Age amendment: 212 House co-sponsors (31 Republicans), first Judiciary Committee hearing mid-February, and Speaker Johnson hasn't committed to a floor vote.
+ACT| **Our-world events Aug 2023–Feb 2024:** After Labor Day, Cornelius gives Wes Thornton the "2017 — THE ROAST" material. A GOP-aligned super PAC runs "THE REAL MARC" comedy-clip ads from Nov 28, heavy on SC Black radio and church broadcasting (source never revealed). Marc's Dec 4 non-apology apology. The Secret Service detail is granted Feb 9, 2024; Dante becomes liaison. Simone has been a senior adviser to the Haley campaign since Nov 2023. Neil will endorse Marc Thursday (Feb 29) and tell Cornelius face to face. Josiah endorsed Jesse Jackson in 1988. Odessa's 95th birthday (Oct 3, 2023), and Cornelius attended for 90 minutes and skipped Christmas. Arianna wins in Oklahoma (state Supreme Court, 5–4, Feb 26), loses in Alabama (federal court; 11th Circuit declined Feb 23), and files a SCOTUS application on Feb 27 from the Montgomery federal courthouse; she's on "28th Amendment Draft 14." Grace has been Communications Director since Jan 2024. Republicans for Bullock has 140,000 members. Roy Chapman (66, Meyerland, Houston, Navy veteran, retired refinery foreman) will take the Democratic ballot in the Texas open primary; the Meyerland food bank received $42,000 through the charity match. Tyrese's "creative sabbatical" (announced Jan 12, 2024) is cover for Project Chronopolis; his chair reads "C.R."; only Marc knows. Lyric's dog is named BET (a rescue terrier). Campaign HQ in Century City. The Detroit victory party is at Huntington Place, where Tayia (Henry Ford Hospital, Cass Tech) introduces him. Lafayette/American Coney Island double tip. Emma's spreadsheet "DADDY DELEGATES (DO NOT TOUCH, VICTORIA)." Cornelius carries the twins' card everywhere and texts back: "Tell your father congratulations. From Granddaddy." Marc to Amond on the running mate: "Ask me in July."
+ACT| **Looming event (in-world):** SUPER TUESDAY, Tue Mar 5, 2024 (6 days, 22 hours).
