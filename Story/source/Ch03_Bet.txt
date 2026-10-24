@@ -1,0 +1,755 @@
+CHAPTER| THE BULLOCK PRESIDENCY
+SUB| BOOK ONE: BEFORE
+SUB| Chapter 3 — "Bet."
+SUB| Thursday, April 20, 2023
+PAGE|
+
+SUB| COLD OPEN
+
+SLUG| EXT. SPACEX STARBASE — BOCA CHICA, TEXAS — MORNING
+SUPER| THURSDAY, APRIL 20, 2023 — 8:33 AM CDT
+SUPER| 108 DAYS AFTER CHAPTER TWO
+ACT| Flat Gulf Coast scrubland. Pelicans. A wall of spectators along the beach road with lawn chairs and coolers and phones held up like candles.
+ACT| On the pad, the tallest and most powerful rocket ever built: STARSHIP, stainless steel, almost four hundred feet, gleaming like a skyscraper someone decided should fly.
+ACT| Thirty-three engines ignite. The ground shakes. The sound arrives a second later, a physical thing that pushes against your chest.
+ACT| It rises. Slowly. Impossibly. The crowd screams.
+ACT| Three minutes later, high over the Gulf, it starts to tumble end over end.
+ACT| And then it becomes a fireball.
+ACT| On the beach road, a long, stunned silence. Then, somewhere, one man starts clapping. Then everyone does.
+
+POST| Twitter | @SpaceX | As if the flight test was not exciting enough, Starship experienced a rapid unscheduled disassembly before stage separation. Teams will continue to review data and work toward our next flight test. | 61K Retweets · 402K Likes · 9:08 AM CDT
+POST| Twitter | @rocketgirl_tx | "Rapid unscheduled disassembly" is the most corporate way anyone has ever said "it blew up." Anyway, I cried. That was beautiful. | 18K Retweets · 140K Likes
+POST| Twitter | @420memelord | a rocket exploded on 4/20 at 8:33am and somehow that's still not the weirdest thing that's gonna happen today | 9,402 Retweets · 66K Likes · 9:41 AM CDT
+
+SLUG| INT. BAKER HOUSE — LYRIC'S BEDROOM — VIEW PARK, LOS ANGELES — MORNING
+SUPER| THURSDAY, APRIL 20, 2023 — 6:58 AM PDT
+ACT| A pastel bedroom in the hills above Baldwin Hills, two neighborhoods from where her father and Marc grew up. Playbills framed on the walls, all from her mother's shows. A ballet barre. A shelf of trophies from dance competitions, and one small, misshapen clay sculpture labeled "UNCLE MARC (HEAD)."
+ACT| LYRIC BAKER, NINE YEARS OLD TODAY, asleep in a tangle of sheets.
+ACT| Her bedside phone, a pink landline because she's being raised as a Millennial, RINGS.
+ACT| She gropes for it without opening her eyes.
+CHAR| LYRIC
+PAR| (groggy)
+DLG| Hello, Baker residence, Lyric speaking...
+CHAR| MARC (V.O.)
+PAR| (singing, loud, terrible, through the phone)
+DLG| HAPPY BIRTHDAY TO YOUUUUU —
+ACT| Lyric's eyes fly open. She sits bolt upright and screams with joy.
+CHAR| LYRIC
+DLG| UNCLE MARC!
+CHAR| MARC (V.O.)
+DLG| — HAPPY BIRTHDAY, DEAR LYRIC-BIRD, YOU ARE NINE NOW AND I AM OLD —
+CHAR| LYRIC
+DLG| THAT'S NOT THE WORDS!
+CHAR| MARC (V.O.)
+DLG| THEY'RE MY WORDS. I'M A SCREENWRITER. I'M ALLOWED.
+ACT| In the doorway, Amond (31) and Harmony (30), in robes, coffee mugs, watching their daughter scream-laugh into a landline at seven in the morning.
+CHAR| HARMONY
+DLG| He's been awake since five. He texted me at 5:14 asking if it was "too early to sing."
+CHAR| AMOND
+DLG| What'd you say?
+CHAR| HARMONY
+DLG| I said yes. He said "Copy" and called at 6:58.
+CHAR| AMOND
+DLG| That's his idea of restraint.
+TRANS| CUT TO:
+PAGE|
+
+SUB| ACT ONE — "ONE HUNDRED AND TEN DAYS"
+
+SLUG| INT. ABC NEWS — "WORLD NEWS TONIGHT" STUDIO — NEW YORK CITY — EVENING
+SUPER| THURSDAY, APRIL 20, 2023 — 6:30 PM EDT / 3:30 PM PDT
+ACT| The familiar blue set. The globe. The music.
+ACT| DAVID MUIR (49), the most-watched anchor in America, standing at the desk, leaning forward the way he always does when the night's news is heavy.
+CHAR| DAVID MUIR
+DLG| Good evening. It's great to have you with us on this Thursday night. And we begin tonight with the race for the White House, and it is taking shape fast. In just the last forty-eight hours: a Kennedy jumps in, the President prepares to make it official, and the former President, the first in American history to be charged with a crime, is leading his party's field by more than twenty points.
+CHYRON| RACE FOR 2024: KENNEDY JUMPS IN — BIDEN EXPECTED TO ANNOUNCE TUESDAY — TRUMP LEADS GOP FIELD
+ACT| Footage: Boston, yesterday. A packed ballroom at the Boston Park Plaza. ROBERT F. KENNEDY JR. (69) at a podium, his voice rasping.
+CHAR| DAVID MUIR (V.O.)
+DLG| In Boston yesterday, Robert F. Kennedy Jr., the son of Senator Robert F. Kennedy and the nephew of President John F. Kennedy, launched a long-shot challenge to President Biden for the Democratic nomination, the first Kennedy to seek the presidency in more than forty years.
+ACT| Footage: the White House South Lawn. A helicopter. PRESIDENT JOE BIDEN (80) waving.
+CHAR| DAVID MUIR (V.O.)
+DLG| And sources tell ABC News President Biden is expected to formally announce his re-election campaign next Tuesday, in a video, four years to the day after launching his 2020 run. At eighty, he is already the oldest President in history. If he wins, he would be eighty-six at the end of a second term.
+ACT| Footage: Manhattan, April 4. A motorcade. DONALD TRUMP (76) walking into the Manhattan Criminal Courthouse, unsmiling.
+CHAR| DAVID MUIR (V.O.)
+DLG| On the Republican side, it was just over two weeks ago that Donald Trump was arraigned in Manhattan on thirty-four felony counts of falsifying business records, charges he denies, pleading not guilty. Instead of hurting him, his poll numbers went up. Tonight he leads the Republican field by more than twenty points. Florida Governor Ron DeSantis is in second, and still hasn't officially entered.
+ACT| A graphic: the GOP field. TRUMP (declared Nov 15). HALEY (declared Feb 14). RAMASWAMY (declared Feb 21). DESANTIS (expected). PENCE (expected). SCOTT (exploratory).
+CHAR| DAVID MUIR
+DLG| And then there's the news that's been shaking up a different kind of politics this week. Here's our correspondent.
+
+SLUG| INT. SMILLEY HOUSE — PARLOR — CASCADE HEIGHTS, ATLANTA — SAME TIME
+SUPER| 6:31 PM EDT
+ACT| Spring in Atlanta. Dogwoods blooming outside the tall windows. The parlor unchanged since January: Josiah's portrait, the church hat, the coffee service. Odessa (94) in her chair. Lorraine (61) on the settee. Neil (39) by the window.
+ACT| Cornelius (64) isn't on the sofa this time. He's standing behind it with his arms crossed, like a man watching a horse race he has money on.
+CHAR| ODESSA
+DLG| A Kennedy. Lord, the Kennedys never learn. They see a microphone and they hear Camelot.
+CHAR| CORNELIUS
+DLG| He's a protest candidate. He'll get twelve percent from people who hate vaccines and miss his uncle. Biden announces Tuesday and the primary is over by Labor Day.
+CHAR| NEIL
+DLG| You sound sure.
+CHAR| CORNELIUS
+DLG| I'm always sure, Neil. That's the job.
+CHAR| LORRAINE
+DLG| And Esther?
+ACT| A beat. Cornelius doesn't look away from the screen.
+CHAR| CORNELIUS
+DLG| Esther has until Memorial Day. I told her that on the phone Sunday. Whitfield's seat opened five weeks ago. The AJC has already written "Esther Bullock?" in a headline with a question mark. Every week she waits, that question mark gets heavier.
+CHAR| ODESSA
+DLG| And what did she say?
+CHAR| CORNELIUS
+DLG| She said she'd tell me after Lyric's birthday party.
+CHAR| ODESSA
+DLG| Lyric. That's Amond's baby.
+CHAR| CORNELIUS
+DLG| That's Marc's goddaughter.
+CHAR| ODESSA
+PAR| (sipping her coffee)
+DLG| Mm. She's nine today. It's a Thursday. She's having a party at your son-in-law's house, and you're standing behind my sofa like a bailiff. Sit down, Cornelius. You're blocking the Kennedys.
+
+SLUG| BACK TO: "WORLD NEWS TONIGHT"
+ACT| A rapid-fire package. A correspondent's voice over a montage. Each moment gets a date graphic in the corner of the screen.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| It's been a hundred and ten days since the start of 2023, and it's been a year's worth of news.
+ACT| JAN 7: The House floor at 12:39 AM. Kevin McCarthy raising the gavel after FIFTEEN BALLOTS. Exhausted applause.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| It took Kevin McCarthy fifteen ballots and four days to become Speaker of the House, the longest Speaker election since before the Civil War.
+ACT| JAN 9–12: Boxes. A garage in Wilmington. Attorney General Merrick Garland at a podium.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| Classified documents were found at President Biden's former office and his Delaware home. A second special counsel was appointed.
+ACT| JAN 11: A hospital exit. A thumbs-up from a young man in a Bills hoodie.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| Damar Hamlin, the Bills safety whose heart stopped on Monday Night Football, walked out of a Buffalo hospital nine days later.
+ACT| FEB 3: Black smoke over East Palestine, Ohio. FEB 4: A white balloon, a jet, a puff of smoke over the Atlantic off South Carolina.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| A toxic train derailment in Ohio. A Chinese surveillance balloon shot down off the Carolina coast.
+ACT| FEB 6: Rubble in Turkey and Syria. Rescuers digging with bare hands.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| An earthquake in Turkey and Syria killed more than fifty thousand people.
+ACT| FEB 20: President Biden walking through Kyiv beside President Zelenskyy as air-raid sirens wail.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| A secret presidential trip into a war zone.
+ACT| MAR 10: A line outside Silicon Valley Bank. Panic on a trading floor.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| The second-largest bank failure in American history, and a scramble to stop a banking panic.
+ACT| MAR 27: A Nashville church school. Candles. Children's backpacks on a fence.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| Another school shooting. Three children and three adults at the Covenant School in Nashville.
+ACT| MAR 30 / APR 4: Trump Tower. A courthouse. Crowds. Barricades.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| A former President indicted. Then arraigned.
+ACT| APR 18: A Delaware courthouse. Lawyers on the steps.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| And just this Tuesday, Fox News agreed to pay Dominion Voting Systems more than seven hundred and eighty-seven million dollars to settle a defamation lawsuit over false claims about the 2020 election, on the day the trial was set to begin.
+ACT| And, finally, APR 20: the Starship fireball over the Gulf.
+CHAR| ABC CORRESPONDENT (V.O.)
+DLG| And this morning, one of the most spectacular explosions in the history of spaceflight.
+CHYRON| 110 DAYS: THE YEAR SO FAR
+
+SLUG| BACK TO: "WORLD NEWS TONIGHT" STUDIO
+CHAR| DAVID MUIR
+DLG| The economy tonight. Inflation is cooling. It was five percent in March, the lowest in nearly two years, but still well above the Fed's target. The Federal Reserve kept raising rates, even through the banking crisis, and it's expected to raise them again next month. Gas is averaging about three sixty-six a gallon. And in Washington, a fight over the debt ceiling: yesterday Speaker McCarthy unveiled a Republican plan to raise the limit in exchange for deep spending cuts, which the White House quickly rejected. The Treasury warns the government could default as early as this summer.
+CHYRON| DEBT CEILING STANDOFF: McCARTHY UNVEILS PLAN — WHITE HOUSE REJECTS IT
+CHAR| DAVID MUIR
+DLG| And Hollywood may be headed for its first major strike in fifteen years. On Monday, ninety-seven point eight five percent of the Writers Guild voted to authorize a strike if no deal is reached before their contract expires May first. Talks with the studios resume this week. The biggest of them, Donohue Entertainment, which also owns this network, says it is "committed to a fair agreement."
+ACT| On screen: Natasha Bullock at a Donohue shareholder meeting in March, poised, unreadable, mid-sentence.
+CHAR| DAVID MUIR (V.O.)
+DLG| Donohue is also locked in an escalating war with Florida Governor Ron DeSantis over control of the special district around its Orlando resort. On Monday the governor floated the idea of building a state prison next to the property. Donohue's response, via a spokesperson: quote, "Benny Bluebird has survived a Great Depression, a world war, and three recessions. We think he'll survive this."
+ACT| Muir allows himself a small smile.
+CHAR| DAVID MUIR
+DLG| And finally tonight, Twitter today began removing the blue verification checkmarks from accounts that don't pay eight dollars a month, including, as of this afternoon, some of the most famous people on the planet. Among the celebrities who woke up unverified: actress and singer Grace Bullock, who posted, quote, "I've been demoted to peasant. Please respect my privacy during this difficult time."
+CHYRON| TWITTER REMOVES "LEGACY" BLUE CHECKMARKS
+
+SLUG| MONTAGE — HEADLINES & POSTS — JANUARY 3 TO APRIL 19, 2023
+
+HEAD| THE NEW YORK TIMES — JAN 7 | McCarthy Wins Speakership on 15th Vote After Concessions to Hard Right
+HEAD| THE HOLLYWOOD REPORTER — JAN 5 | Marc-Anthony Bullock Celebrates 31st Birthday by Paying Off Every Remaining Student Lunch Debt in the Buffalo Public Schools | "Bills fan, remember?" the actor wrote. School officials say the gift arrived with "no press release and no conditions."
+POST| Twitter | @TheBullpenDaily — JAN 5 | HE PAID OFF THE LUNCH DEBT IN BUFFALO ON HIS BIRTHDAY. A BILLS FAN IN LA. WE WERE RIGHT. WE WERE RIGHT IN JANUARY. | 88K Retweets · 410K Likes
+HEAD| ESPN — JAN 9 | Hamlin awake, communicating; 'He has a long way to go,' doctors say
+HEAD| POLITICO — FEB 10 | DOT closes review of Bullock 'airlift' with warning letter, no fine | The department said the flights raised "regulatory concerns" but cited "the extraordinary circumstances of the Southwest disruption."
+POST| Instagram | @marcanthonybullock — FEB 11 | [Photo: a framed DOT warning letter hanging next to an Emmy] Caption: As promised. Thank you, Secretary Buttigieg. I will now be on my best behavior for at least a fiscal quarter. | 38.4M likes
+HEAD| VARIETY — FEB 21 | 'Ant-Man and the Wasp: Quantumania' Soars to $230M Opening Worldwide; Critics Call Kang 'the Most Terrifying Villain Marvel Has Ever Made'
+HEAD| DEADLINE — MAR 2 | 'The Mandalorian' Season 3 Premiere Breaks Donohue+ Record
+HEAD| THE ATLANTA JOURNAL-CONSTITUTION — MAR 14 | Rep. Harlan Whitfield to Retire After 13 Terms; Wide-Open Race Expected | Whispers about Atlanta's Smilley family, including actress Esther Bullock, begin almost immediately.
+HEAD| THE ATLANTA JOURNAL-CONSTITUTION — MAR 16 | Esther Bullock for Congress? | The Hollywood star's father held a metro Atlanta seat for 16 years. She lives in Bel Air. Neither she nor her family would comment.
+POST| Twitter | @ATLpoliticsjunkie — MAR 16 | Esther Bullock running for Whitfield's seat would be the most Smilley thing that's ever happened. Cornelius has been planning this since she was in diapers. | 4,201 Retweets · 22K Likes
+HEAD| ROLLING STONE — MAR 21 | Former Child Star Jaxon Wilde Launches 'Wilde Card' Podcast; First Episode Takes Aim at Ex-Co-Star Marc-Anthony Bullock | "Everyone thinks he's a saint," Wilde says. "I was there. I know where the bodies are buried."
+POST| Twitter | @TayiaBoyd — MAR 21 | I was ALSO there. The only body buried on that set was Jaxon's career, and he dug the hole himself. | 71K Retweets · 520K Likes
+HEAD| FOX NEWS — MAR 29 | Donohue quietly stripped DeSantis' new board of power before it took office, documents show
+HEAD| THE WALL STREET JOURNAL — APR 12 | Inflation Cools to 5%, Lowest in Nearly Two Years
+POST| Instagram | @gracebullock — APR 12 | 29. Still unverified on Twitter but verified in my heart. Thank you to my brother for the cake shaped like a USC trophy we will never win again. | 9.2M likes
+HEAD| DEADLINE — APR 17 | WGA Members Authorize Strike With 97.85% Vote
+HEAD| ESPN — APR 18 | Bills GM: Damar Hamlin 'fully cleared' to resume football
+POST| Twitter | @DamarHamlin's fans | @bullpenbrigade: "Damar Hamlin cleared to play football again 3 months after his heart stopped. I'm crying at work." | 33K Likes
+HEAD| ASSOCIATED PRESS — APR 19 | Robert F. Kennedy Jr. Launches Democratic Primary Challenge to Biden
+
+SLUG| INT. SMILLEY HOUSE — PARLOR — CONTINUOUS
+SUPER| 6:52 PM EDT
+CHAR| NEIL
+DLG| Did you see Tayia Boyd's reply to Jaxon Wilde? Half a million likes.
+CHAR| CORNELIUS
+DLG| Jaxon Wilde is a useful idiot with a microphone and a grudge.
+CHAR| LORRAINE
+PAR| (very evenly)
+DLG| And whose money is paying for that microphone, Cornelius?
+ACT| Cornelius doesn't answer. Odessa slowly turns her head to look at her son. Neil looks at his father, then at his mother, then at the floor.
+CHAR| ODESSA
+DLG| Cornelius Augustus.
+CHAR| CORNELIUS
+DLG| Mother, I don't fund podcasts.
+CHAR| ODESSA
+DLG| No. You fund the people who fund the podcasts. Your daddy did the same thing with newspapers. I married him anyway. Don't think I don't know the smell.
+PAGE|
+
+SUB| ACT TWO — "LYRIC ON BROADWAY"
+
+SLUG| EXT. SUNRISE HILL — BACK LAWN — BEL AIR — AFTERNOON
+SUPER| THURSDAY, APRIL 20, 2023 — 3:35 PM PDT / 6:35 PM EDT
+ACT| The back lawn of Sunrise Hill, transformed into a pocket-sized Broadway. A real marquee, borrowed from the Pantages and lit with real bulbs, reads: "LYRIC ON BROADWAY — ONE NIGHT ONLY — AGE 9." A miniature stage. Red velvet ropes. A cotton-candy cart. A "stage door" where a security guard in a tuxedo signs autographs for nine-year-olds as a bit.
+ACT| Thirty third-graders from Lyric's school in Windsor Hills, in costumes from every musical ever written. A Hamilton. Three Elphabas. One very committed Phantom of the Opera.
+ACT| Thirty parents. Doctors, teachers, a city councilman's chief of staff, two talent agents, a dentist, and one man who seems to be filming everything for "content."
+ACT| In the middle of it, the birthday girl. Lyric, in a sequined gold dress Harmony made by hand, a tiara, and Marc's old Bills hat, because she refused to take it off.
+ACT| Marc (31) is in a striped Broadway usher's vest and bow tie, handing out Playbills he designed himself. The cover: "LYRIC: THE MUSICAL. Book by Lyric. Music by Lyric. Starring Lyric."
+CHAR| MARC
+PAR| (to a third-grader dressed as the Phantom)
+DLG| Sir, I'm going to need you to take off the mask in the theater.
+CHAR| THIRD-GRADE PHANTOM
+DLG| No.
+CHAR| MARC
+DLG| Respect.
+ACT| Esther (30) at a refreshments table with Harmony and Tayia (31), slicing an enormous cake: four tiers, decorated like a Broadway curtain, with a sugar-glass "9" on top.
+CHAR| TAYIA
+DLG| He built a marquee.
+CHAR| ESTHER
+DLG| He borrowed a marquee.
+CHAR| TAYIA
+DLG| From the Pantages.
+CHAR| ESTHER
+DLG| He called the Pantages, said "It's for Lyric," and they put it on a truck.
+CHAR| HARMONY
+DLG| I asked him for balloons. He said "Of course," and then he called the Pantages.
+ACT| A small cluster of adults by the bar under the pergola: Tyler (31), with his hat on sincerely today; Arianna (30), with a sparkling water; Elxa (32), clipboard; Grace (29), phone in hand, aggrieved.
+CHAR| GRACE
+DLG| I'm unverified. I've been unverified since 9 AM. I was a blue check for ten years. I had the check before I had a driver's license.
+CHAR| ARIANNA
+DLG| Just pay the eight dollars.
+CHAR| GRACE
+DLG| I will NOT pay the eight dollars. It's not about the eight dollars. It's about the principle of the eight dollars.
+CHAR| TYLER
+DLG| As a Republican, I find this very relatable. It's always the principle of the eight dollars.
+ACT| One of the talent-agent dads drifts over with a beer: TODD WEXLER (44), Beverly Hills, white, very tan, speaks exclusively in industry shorthand.
+CHAR| TODD WEXLER
+DLG| You guys see the Kennedy thing? Insane. Total third act. Nobody asked for it.
+CHAR| TYLER
+DLG| Nobody asked for any of it, Todd. You've got an eighty-year-old, a seventy-six-year-old with thirty-four felony counts, and a Kennedy who thinks the CIA is in the Wi-Fi.
+CHAR| TODD WEXLER
+DLG| And Ron's still circling. And Nikki. And the Vivek guy. It's a franchise nobody wanted a reboot of.
+CHAR| ELXA
+PAR| (not looking up)
+DLG| It's the 2024 election, Todd. Not a franchise.
+CHAR| TODD WEXLER
+DLG| Everything's a franchise, Elxa. Even America.
+ACT| Elxa looks at him with a level of disdain that could cut glass.
+CHAR| TODD WEXLER
+DLG| Honestly? Swear to God? We'd all be better off if Marc ran.
+ACT| A beat. Tyler laughs. Arianna snorts into her water. Grace looks up from her phone.
+CHAR| GRACE
+DLG| That's what the lady said on This Week. In January.
+CHAR| ARIANNA
+DLG| Constitutionally, he can't. Article Two, Section One, Clause Five. Thirty-five years old. He's thirty-one.
+CHAR| TYLER
+DLG| He's thirty-one and he's wearing an usher's vest.
+CHAR| TODD WEXLER
+DLG| So? Reagan wore a cowboy hat.
+CHAR| ELXA
+DLG| Reagan was sixty-nine.
+CHAR| TODD WEXLER
+DLG| See, that's the thing. We keep electing people who remember the Korean War. Marc remembers the Donohue Channel. The kid was a Bluebird kid. My kids grew up on him —
+CHAR| GRACE
+DLG| You've had three beers, Todd.
+CHAR| TODD WEXLER
+DLG| — I'm just saying. Kid's the most famous person on earth, he gives away money like it's oxygen, he flew six thousand people home for Christmas, and he's never once been in a scandal that wasn't him being too nice to somebody. Put him in a debate with any of these guys, he wipes the floor.
+CHAR| ARIANNA
+DLG| He'd also say something unhinged in the first ninety seconds.
+CHAR| TODD WEXLER
+DLG| And they'd LOVE it. Everybody loves it. That's the whole thing.
+ACT| Tyler goes quiet for a second. Looks across the lawn at Marc, who is currently being chased in circles by six third-graders dressed as the cast of "Cats."
+CHAR| TYLER
+PAR| (half to himself)
+DLG| ...My daddy said the same thing. In January. Said he'd vote for him. Hasn't voted for a Democrat since Carter.
+ACT| Elxa lowers her clipboard. Looks at Tyler. Then at her brother. Then at the clipboard. Then she writes something on it and doesn't let anyone see.
+
+SLUG| EXT. SUNRISE HILL — THE MINIATURE STAGE — CONTINUOUS
+SUPER| 4:07 PM PDT / 7:07 PM EDT
+ACT| Amond (31) taps a microphone. Feedback squeals. Thirty children scream.
+CHAR| AMOND
+DLG| Ladies and gentlemen! Parents! Phantoms! Please take your seats, the show is about to begin!
+ACT| The kids pile onto picnic blankets in front of the stage. Lyric takes center stage behind the four-tier cake. Harmony lights nine candles plus one "to grow on."
+ACT| Grace hands Marc his phone.
+CHAR| GRACE
+DLG| The Bullpen's been asking all day. Go live for the song. Thirty seconds. Then hang up. You promised Lyric.
+CHAR| MARC
+DLG| I promised Lyric "the whole world" would sing her happy birthday.
+CHAR| GRACE
+DLG| Six hundred and forty million people. That's most of the whole world.
+ACT| Marc takes the phone. Hits "LIVE." The screen fills with hearts instantly. Viewer count: 400,000. 900,000. 1.8 million.
+CHAR| MARC
+PAR| (to the phone, grinning)
+DLG| Hi, Bullpen. Real quick. It's my goddaughter Lyric's ninth birthday. She's the best kid in the world, tied with my two kids. Don't tell them I said "tied." We're about to sing. Sing with us. Wherever you are. Even if you're at work. ESPECIALLY if you're at work.
+ACT| Viewer count: 3.1 MILLION.
+
+POST| Instagram Live comments | @marcanthonybullock LIVE | "HAPPY BIRTHDAY LYRIC" · "singing from my office in Ohio" · "singing in a Wendy's drive thru" · "LYRIC IS WEARING THE BILLS HAT CRYINGGG" · "is that a MARQUEE" · "marc in a bow tie my god" · "HAPPY BIRTHDAY FROM MANILA" · "Happy birthday from Lagos!!!" · "HAPPY 4/20 LYRIC lmaooo" | 3.1M watching
+
+ACT| Marc turns the camera to face the stage. Everyone sings: thirty kids, thirty parents, the caterers, the security guard in the tuxedo. And on three million phones around the world, people sing along.
+CHAR| EVERYONE
+DLG| Happy birthday, dear Ly-ric... happy birthday to youuuu!
+ACT| Applause. Lyric squeezes her eyes shut. Makes a wish, holding it in with her whole body. And blows. All ten candles go out at once.
+ACT| Cheers. Amond picks her up and spins her. Harmony is crying, because Harmony always cries.
+CHAR| AMOND
+DLG| What'd you wish for, baby?
+CHAR| HARMONY
+DLG| Amond, you can't ask her that, it won't come true —
+ACT| But Lyric, nine years old, on a stage, with a microphone right in front of her that she was told not to touch, leans forward and says it into the microphone anyway, because she has never once in her life kept a secret from her godfather.
+CHAR| LYRIC
+PAR| (into the mic, totally earnest)
+DLG| I wished that Uncle Marc would be the President.
+ACT| Laughter ripples across the lawn. Parents chuckle. Somebody says "Aww." Todd Wexler raises his beer and shouts "THAT'S WHAT I SAID!"
+ACT| Lyric frowns. It's not a joke to her. She looks straight at Marc, who is standing at the edge of the stage, still holding the phone, still live.
+CHAR| LYRIC
+DLG| I'm serious. Why can't you be the President, Uncle Marc? You fix everything. You fixed the toy drive man. You fixed the airplanes. You fixed Auntie Grace's car when it was on fire. Why can't you fix the President?
+ACT| The lawn gets quieter. Not silent, but quieter. The parents are still smiling, but they're listening now.
+ACT| Marc laughs. He opens his mouth to make a joke. You can see the joke: something about the Constitution, something about his age, something about how he can't even braid hair.
+ACT| And then he looks at Lyric.
+ACT| At her tiara. At the Bills hat. At her face: nine years old, completely sure, waiting for the answer from the one adult who has never lied to her.
+ACT| He looks past her at the third-graders on the blankets, at the Elphabas and the Hamilton and the very committed Phantom. Thirty kids. He looks at Emma and Victoria in the front row, holding hands, watching him.
+ACT| He looks at the phone in his hand. The viewer count is still climbing. 4.4 million.
+ACT| He looks at Esther.
+ACT| Esther, at the cake table, knife in her hand, sees something cross his face that she has seen exactly three times in twenty years: the night he decided to pull six thousand people out of airports, the day the twins were born, and the night he asked her to marry him.
+ACT| Her lips part. Very softly, almost a whisper:
+CHAR| ESTHER
+DLG| ...Marc.
+ACT| Marc turns back to Lyric. The joke is gone from his face. Something else is there now.
+SUPER| THURSDAY, APRIL 20, 2023 — 4:20 PM PDT / 7:20 PM EDT
+CHAR| MARC
+DLG| ...You know what?
+ACT| Beat.
+CHAR| MARC
+DLG| Bet.
+ACT| Nobody moves.
+CHAR| MARC
+DLG| I'm running for President of the United States.
+ACT| Silence. Thirty parents, completely still. The cotton-candy machine hums. Somewhere, a sprinkler ticks.
+ACT| Todd Wexler's beer slips out of his hand and hits the grass.
+ACT| Lyric's mouth falls open in a perfect O. And then she SHRIEKS, a pure, uncomplicated nine-year-old shriek of joy, and throws both arms in the air.
+CHAR| LYRIC
+DLG| BEST BIRTHDAY EVER!
+ACT| Grace has both hands over her mouth. Tyler has taken his hat off. Arianna has put down her water. Tayia says "Oh my God" four times in a row, each one louder.
+ACT| Elxa is the first adult to speak. Her voice is perfectly calm. Her clipboard is shaking.
+CHAR| ELXA
+DLG| Marc. You're live.
+CHAR| MARC
+DLG| I know.
+CHAR| ELXA
+DLG| You're live to four million people.
+ACT| Marc glances at the phone.
+ACT| INSERT — THE PHONE SCREEN: viewer count: 4,402,118... 7,915,330... 12,006,441...
+CHAR| MARC
+DLG| Twelve million. Hi, everybody. I'm serious.
+ACT| He turns the camera on himself. His face, close-up. Not grinning. Calm. The calmest anyone has ever seen him.
+CHAR| MARC
+PAR| (to the camera)
+DLG| Hi. I'm Marc-Anthony Bullock. I'm thirty-one years old. I know, I know. Thirty-five, Article Two, Arianna's already said it twice today.
+PAR| (beat)
+DLG| I've spent my whole life watching people be told "that's just the way it is." That's the rule. Can't change it. Too young, too old, too poor, too late, too complicated. I've spent my whole life watching good people get stuck behind stupid rules. And today a nine-year-old asked me why I can't fix it.
+PAR| (beat)
+DLG| And I didn't have a good answer. So I'm gonna go find one.
+PAR| (beat)
+DLG| I'm a Democrat. I'll run as a Democrat. I'll file the paperwork as soon as my sister lets me. And as for thirty-five...
+ACT| He glances at Arianna. A small, crooked, unmistakably Marc smile.
+CHAR| MARC
+DLG| ...we'll fix that too.
+ACT| Viewer count: 19,882,004.
+CHAR| MARC
+DLG| Okay. That's it. I love you. Lyric's opening her presents now, and I'm not missing that for anybody. Not even America.
+ACT| He ends the live stream.
+ACT| And the lawn explodes.
+PAGE|
+
+SUB| ACT THREE — "EVERYONE"
+
+SLUG| INT. SMILLEY HOUSE — PARLOR — ATLANTA — SAME TIME
+SUPER| 7:21 PM EDT
+ACT| Neil is staring at his phone, which is buzzing so hard it's sliding across the side table.
+CHAR| NEIL
+DLG| Daddy.
+CHAR| CORNELIUS
+DLG| What.
+CHAR| NEIL
+DLG| Daddy, you need to look at your phone.
+ACT| Cornelius, still behind the sofa, pulls out his phone. Forty-one notifications. Then fifty. Then a hundred. The top one is from Simone:
+TEXT| SIMONE — 7:20 PM | DADDY. HE JUST DID IT. ON INSTAGRAM LIVE. AT LYRIC'S PARTY. HE SAID HE'S RUNNING. TURN ON ANYTHING.
+ACT| He grabs the remote. Changes the channel. CNN. A banner: "BREAKING: MARC-ANTHONY BULLOCK SAYS HE IS RUNNING FOR PRESIDENT." Changes it. MSNBC: same. Fox News: "BREAKING: HOLLYWOOD BILLIONAIRE BULLOCK, 31, ANNOUNCES 2024 RUN."
+ACT| Lorraine stands up very slowly.
+ACT| Odessa sets down her coffee.
+ACT| And Cornelius Smilley, who has never once in his public life been caught without the right words, stands perfectly still in his mother's parlor, remote in hand, and says nothing at all.
+ACT| On the screen, the clip plays: Lyric in her tiara. "Why can't you fix the President?" Marc's face. "Bet."
+ACT| Odessa starts to laugh. Low at first. Then rising. A deep, rolling, ninety-four-year-old church laugh that fills the room and bounces off the portrait of her husband over the mantel.
+CHAR| ODESSA
+DLG| Lord have mercy. Lord have MERCY. "Bet." He said "BET." To the United States of America. At a child's birthday party. On a Thursday.
+CHAR| CORNELIUS
+PAR| (barely audible)
+DLG| He can't run. He's thirty-one.
+CHAR| ODESSA
+DLG| He just did run, baby. Didn't you see?
+ACT| Cornelius turns, finally, and looks at his wife.
+ACT| Lorraine is not laughing. Lorraine is not panicking. Lorraine is looking at the screen with an expression Cornelius has seen only on campaign nights, the look of a woman doing math.
+CHAR| CORNELIUS
+DLG| Lorraine.
+CHAR| LORRAINE
+PAR| (eyes on the screen)
+DLG| Twenty million people watched that live, Cornelius.
+CHAR| CORNELIUS
+DLG| I know.
+CHAR| LORRAINE
+DLG| Twenty million. Live. On a Thursday. The President's announcement video next week will be lucky to do half that in a week.
+CHAR| CORNELIUS
+DLG| It's a stunt.
+CHAR| LORRAINE
+DLG| It's a nine-year-old in a tiara asking a man who's never lied to her why he can't fix the country, and the man saying yes. It isn't a stunt, Cornelius. It's an ad. It's the best ad anyone has made since "Morning in America." And it cost nothing.
+ACT| Cornelius looks at her as though she's speaking a language he has never heard.
+CHAR| CORNELIUS
+DLG| Our daughter's seat —
+CHAR| LORRAINE
+DLG| Our daughter is married to the man on that screen.
+ACT| A long, terrible silence.
+ACT| Neil, quietly, sits back down. Odessa wipes her eyes, still chuckling. Josiah's portrait watches all of them.
+ACT| Cornelius turns and walks out of the parlor without a word. A door closes down the hall. Not a slam. Worse. A click.
+CHAR| ODESSA
+PAR| (to no one, still smiling)
+DLG| Well. That's the first time in sixty-four years that boy didn't have a speech ready.
+
+SLUG| INT. DONOHUE ESTATE — LIBRARY — HOLMBY HILLS — SAME TIME
+SUPER| 4:22 PM PDT
+ACT| Victor (76) and Joan (75) on the sofa, still in their gardening clothes, Joan with dirt on her gloves. Natasha (51), standing, phone pressed to her ear, already mid-call. Robert (54) in the doorway, holding an iPad showing the live stream frozen on Marc's face.
+CHAR| NATASHA
+PAR| (into phone)
+DLG| — no, Dani, I did NOT know. Nobody knew. HE didn't know. I watched him decide it on camera. ...Yes. ...Get Legal. All of them. Get the FEC lawyers, get the securities lawyers, get anybody who's ever read the Constitution. ...Because he owns twelve percent of a company that owns ABC News, Dani, and he just announced for President in front of twenty million people. That's why.
+ACT| She hangs up. Turns to the room.
+CHAR| NATASHA
+DLG| The stock's moving after hours.
+CHAR| ROBERT
+DLG| Which way?
+CHAR| NATASHA
+DLG| Up.
+ACT| Victor starts to laugh. Joan puts a gloved hand on his arm.
+CHAR| JOAN
+DLG| Victor.
+CHAR| VICTOR
+DLG| I'm sorry. I'm sorry. I asked you in January, Natasha. I asked you if you understood what the rest of the world was going to do when they figured it out.
+CHAR| NATASHA
+DLG| Daddy, the world didn't figure it out. A nine-year-old figured it out.
+CHAR| VICTOR
+DLG| They always do first.
+ACT| Robert steps into the room, the iPad still in his hand. He looks at his son's frozen face on the screen.
+CHAR| ROBERT
+DLG| Did you see his face? Right before he said it?
+CHAR| NATASHA
+DLG| I saw it.
+CHAR| ROBERT
+DLG| That's the face he made on the tarmac at Van Nuys. And in the delivery room. He's not going to take it back, Tasha.
+CHAR| NATASHA
+DLG| I know.
+CHAR| ROBERT
+DLG| Then what do we do?
+ACT| Natasha looks at the screen. At her son. At the man the network she runs is about to cover twenty-four hours a day.
+CHAR| NATASHA
+DLG| We do what this family has done for a hundred years, Robert. We stand in front of it. And we take the hit.
+ACT| Joan, quietly, peels off one gardening glove and then the other. She looks out the window, east, toward somewhere very far away.
+CHAR| JOAN
+PAR| (almost to herself)
+DLG| Cornelius is going to lose his mind.
+
+SLUG| INT. ABC NEWS — SPECIAL REPORT — NEW YORK CITY — NIGHT
+SUPER| 7:31 PM EDT / 4:31 PM PDT
+ACT| The "ABC NEWS SPECIAL REPORT" graphic: the urgent music that has interrupted programming for assassinations, moon landings, and wars.
+ACT| David Muir, called back to the anchor desk, tie freshly knotted, a sheaf of papers in hand.
+CHAR| DAVID MUIR
+DLG| Good evening. We're coming on the air because of a remarkable and, to be honest, entirely unexpected development in the 2024 presidential race. About ten minutes ago, during a live stream on Instagram from a child's birthday party in Los Angeles, actor, filmmaker, and businessman Marc-Anthony Bullock announced that he is running for President of the United States as a Democrat.
+CHYRON| ABC NEWS SPECIAL REPORT: MARC-ANTHONY BULLOCK ANNOUNCES 2024 PRESIDENTIAL RUN
+ACT| The clip rolls. Lyric. The tiara. "Why can't you fix the President?" "Bet." "I'm running for President of the United States."
+CHAR| DAVID MUIR
+DLG| Bullock is thirty-one years old. The Constitution requires a President to be at least thirty-five. He would be thirty-three on Inauguration Day in 2025, two years short, and he acknowledged that, saying, quote, "we'll fix that too." It's not clear what he means. Changing the age requirement would require a constitutional amendment, which needs two-thirds of both houses of Congress and ratification by thirty-eight states.
+ACT| Muir pauses. Touches his earpiece.
+CHAR| DAVID MUIR
+DLG| We should note, in the interest of full transparency, that Mr. Bullock is a major shareholder in Donohue Entertainment, the parent company of ABC News, and is the son of its chief executive. ABC News will cover his campaign as it would any other. Our chief Washington correspondent joins us now.
+
+SLUG| INTERCUT — EXT. WHITE HOUSE — NORTH LAWN — NIGHT (LIVE)
+ACT| The White House lit behind an ABC CORRESPONDENT.
+CHAR| ABC CORRESPONDENT
+DLG| David, the White House has no comment tonight, but I can tell you that two Democratic officials texted me within five minutes, and the same word appeared in both texts. That word was "Wow."
+CHAR| DAVID MUIR
+DLG| Five days before the President is expected to announce.
+CHAR| ABC CORRESPONDENT
+DLG| Five days. And one Democratic strategist close to the White House told me, quote, "On Tuesday we were going to have the first video of the cycle. Now we're going to be the second."
+
+SLUG| INT. CNN — STUDIO — NIGHT
+SUPER| 7:38 PM EDT
+ACT| A panel. A CNN ANCHOR. Four guests. One of them, connected by remote from a Washington studio, is Simone Smilley (35), who was booked to discuss the Fox–Dominion settlement and is now discussing her brother-in-law.
+CHYRON| BREAKING: BULLOCK, 31, ANNOUNCES WHITE HOUSE BID AT CHILD'S BIRTHDAY PARTY
+CHAR| CNN ANCHOR
+DLG| Simone Smilley, I have to ask. You are a Republican strategist. You are also Marc-Anthony Bullock's sister-in-law. In January on ABC you said, quote, "no comment." Do you still have no comment?
+ACT| Simone takes a long, slow breath. She looks into the camera.
+CHAR| SIMONE
+DLG| I said in January that the era of the celebrity candidate was over.
+CHAR| CNN ANCHOR
+DLG| You did.
+CHAR| SIMONE
+DLG| I would like to formally request that clip be removed from the internet.
+ACT| The panel laughs. She doesn't.
+CHAR| SIMONE
+DLG| Look. I'm a Republican. I'm not going to vote for him in a Democratic primary. I'm not going to endorse him. But I've known that man since he was eleven years old and my baby sister brought him home from a Donohue Channel event and my father told him to leave. And he left. And he came back the next week with a casserole. For my father. Who had just thrown him out.
+PAR| (beat)
+DLG| Everybody watching tonight thinks this is a joke. A thirty-one-year-old movie star at a kid's party. I'd be careful. The last person who underestimated Marc-Anthony Bullock is currently a podcast.
+CHAR| CNN ANCHOR
+DLG| Is that a reference to —
+CHAR| SIMONE
+DLG| I'm not going to say Jaxon Wilde's name on national television. He'd enjoy it too much.
+
+SLUG| MONTAGE — THE INTERNET — THURSDAY, APRIL 20, 2023 — 4:20 PM PDT ONWARD
+
+POST| Twitter | #Bet | Trending #1 Worldwide · 4.8M Tweets
+POST| Twitter | #MarcForPresident | Trending #2 Worldwide · 3.9M Tweets
+POST| Twitter | #KidMayor | Trending #4 in United States · 612K Tweets
+POST| Twitter | @TheBullpenDaily | HE SAID BET. HE SAID BET TO AMERICA. A NINE YEAR OLD IN A BILLS HAT ASKED HIM AND HE SAID BET. WE HAVE A PRESIDENTIAL CANDIDATE. I'M IN MY CAR. I CAN'T DRIVE. | 211K Retweets · 1.2M Likes · 4:22 PM PDT
+POST| Twitter | @420memelord | told y'all this morning. rocket blew up at 8:33. man announced for president at 4:20 ON 4/20. this is the most 4/20 day in human history | 301K Retweets · 1.8M Likes · 4:24 PM PDT
+POST| Twitter | @420memelord's replies | @NotMarcBullock: "he's a dad at a kids party, he's not high, he's just like that" | 88K Likes
+POST| Twitter | @ConstitutionCarl | He's 31. Article II, Section 1, Clause 5. This is not a campaign. It's a publicity stunt from a man who has never read the document he wants to "fix." | 14K Retweets · 61K Likes
+POST| Twitter | @ConstitutionCarl's replies | @ArizonaGrandpa: "Carl the man has a reported IQ of 250 he's read it in more languages than you've read it in English" | 41K Likes
+POST| TikTok | @lyrics.bday.party.guest | [Video: shaky phone footage from a parent at the party, the exact moment. Todd Wexler's beer hitting the grass in slow motion, set to dramatic orchestral music] "my daughter's classmate's birthday party just became a history textbook" | 41.2M views · 9.8M likes
+POST| TikTok | @kidmayormemes | [Side-by-side: 14-year-old Marc in Kid Mayor saying "I'll make Wednesday a second Saturday!" / 31-year-old Marc saying "Bet."] "he was literally training for this" | 28.6M views
+POST| Twitter | @gramma.flies.free | That boy got me home at Christmas. I'm 81. I'll be 83 at the election. Hope I make it. I'll crawl to the polls. #Bet | 92K Retweets · 690K Likes
+POST| Twitter | @DemStrategist_anon | Every Democratic consultant in Washington is currently on a group text that just says "??????" | 38K Retweets · 201K Likes
+POST| Twitter | @MAGA_Mike1776 | LOL a Hollywood billionaire nepo baby announcing at a kids birthday party. This is the Democrat party now. Trump 2024. | 9,102 Retweets · 31K Likes
+POST| Twitter | @MAGA_Mike1776's replies | @TexasRancher_88: "Mike I'm a Trump voter and he flew my daughter home from Dallas Love Field at Christmas. I'm just saying I'm gonna listen to what he has to say." | 61K Likes
+POST| Reddit | r/politics | "Marc-Anthony Bullock, 31, announces run for President at goddaughter's birthday party; says 'we'll fix' the age requirement" | 112K upvotes · 31,240 comments · Top comment: "The 26th Amendment went from Congress to ratified in 100 days. I'm not saying it's possible. I'm saying it's happened."
+POST| Reddit | r/law | "Megathread: Can Marc-Anthony Bullock legally run for President at 31? (Short answer: he can run. He can't serve. Long answer: inside.)" | 41K upvotes
+POST| Twitter | @jaxonwilde | He's running for President because he's never been told no in his life. I'll be breaking it all down on Wilde Card tomorrow. Link in bio. | 3,401 Retweets · 12K Likes
+POST| Twitter | @TayiaBoyd | @jaxonwilde I told you no in 2005. You cried. On set. In front of craft services. | 189K Retweets · 1.4M Likes · 5:02 PM PDT
+POST| Twitter | @SimoneSmilley | For the record, I'd like to retract my January "no comment." My new comment is "Lord have mercy." That was my grandmother's comment too, word for word, about 40 minutes ago. | 81K Retweets · 702K Likes
+
+HEAD| ASSOCIATED PRESS — 7:29 PM EDT | Actor Marc-Anthony Bullock, 31, says he will run for president as a Democrat; Constitution requires candidates to be 35
+HEAD| THE NEW YORK TIMES — 7:44 PM EDT | At a Child's Birthday Party, the World's Richest Man Says He Will Run for President | Marc-Anthony Bullock, 31, announced his candidacy during a live stream watched by roughly 20 million people. He is ineligible under the Constitution's age requirement, a hurdle he vowed to "fix."
+HEAD| THE WASHINGTON POST | Bullock's Surprise Announcement Upends Democratic Primary Five Days Before Biden's Expected Launch
+HEAD| POLITICO | 'Wow': Democrats stunned as Bullock jumps in | White House staff caught flat-footed; DNC officials scramble to understand whether a 31-year-old can appear on primary ballots.
+HEAD| AXIOS | Bullock's announcement, by the numbers | 20M live viewers · $990B net worth · 640M Instagram followers · 31 years old · 4 years too young
+HEAD| FOX NEWS | Hollywood nepo-billionaire Bullock, 31, launches 'unconstitutional' 2024 bid at kid's party
+HEAD| THE WALL STREET JOURNAL | Donohue Shares Jump 3% After Hours on Bullock Announcement; Analysts Weigh Conflict-of-Interest Risks
+HEAD| FORBES | The Richest Presidential Candidate in History Is Also the Youngest. He's Also Not Eligible.
+HEAD| VARIETY | Marc-Anthony Bullock Announces Presidential Run — What It Means for His Films, Donohue, and the WGA Talks
+HEAD| DEADLINE | Bullock 2024: Hollywood Reacts — 'Speechless,' 'Iconic,' and 'Is This a Bit?'
+HEAD| THE HOLLYWOOD REPORTER | Inside the Birthday Party Where Marc-Anthony Bullock Decided to Run for President | A borrowed Pantages marquee, 30 third-graders, and a nine-year-old's wish.
+HEAD| TMZ | MARC-ANTHONY: 'BET.' — AT 4:20 ON 4/20 | We're told the decision was "100% spontaneous." We're also told a talent agent dropped his beer.
+HEAD| THE ATLANTA JOURNAL-CONSTITUTION | Bullock's Bid Scrambles Speculation Over Wife Esther's Rumored Run for Whitfield's Seat
+HEAD| ROLLING STONE | The 'Kid Mayor' Was Always Running
+
+SLUG| EXT. SUNRISE HILL — BACK LAWN — CONTINUOUS
+SUPER| 4:33 PM PDT
+ACT| Pandemonium, but a joyful kind. Lyric is opening presents on the stage in front of thirty shrieking third-graders who have no idea what just happened and don't care, because one of the presents is a puppy.
+ACT| The adults are another story. Every parent is on a phone. Todd Wexler is giving an interview to his own Instagram Story. The councilman's chief of staff is on the phone with the councilman, saying "I don't know, I don't know, he just SAID it."
+ACT| Marc's private head of security, DANTE REYES (42), former Secret Service, has materialized at the edge of the lawn with four more agents than were here ten minutes ago. His face is calm. His earpiece is very busy.
+CHAR| DANTE
+PAR| (into his wrist)
+DLG| Lock the gates. Nobody in, nobody out except families. Get me the Westwood Village perimeter. And somebody call the LAPD West L.A. desk, because in about twenty minutes there's going to be four hundred people on Bellagio Road with signs.
+ACT| Elxa (32), already on two phones at once, a third ringing in her pocket, walking fast toward the house.
+CHAR| ELXA
+PAR| (phone one)
+DLG| — FEC Form 2, Statement of Candidacy, within fifteen days of raising or spending five thousand dollars. He hasn't raised a dime. Nobody file anything. Don't let anybody send him money yet —
+PAR| (phone two)
+DLG| — No, Mama, he did NOT tell me first, I'm his SISTER, he doesn't tell me ANYTHING first, he tells a nine-year-old —
+ACT| Grace (29) chases after her, holding her own phone up.
+CHAR| GRACE
+DLG| Elxa. ELXA. My Twitter notifications just broke. Like physically. The app crashed. Also I'm still unverified. On the day my brother announced for President. I'm a PEASANT on the most important day of our family's life.
+CHAR| ELXA
+DLG| Pay the eight dollars, Grace.
+CHAR| GRACE
+DLG| NEVER.
+ACT| Arianna (30) is sitting on the edge of the stage, very still, with her legal thriller in her lap. She's not reading it. She's looking at Marc across the lawn.
+ACT| Tyler (31) sits down next to her.
+CHAR| TYLER
+DLG| Can he do it? The "fix that too" thing?
+CHAR| ARIANNA
+DLG| Two-thirds of the House. Two-thirds of the Senate. Thirty-eight state legislatures. Before January twentieth, 2025.
+CHAR| TYLER
+DLG| So, no.
+CHAR| ARIANNA
+DLG| The 26th Amendment passed Congress on March 23, 1971, and was ratified on July 1. A hundred days.
+PAR| (beat)
+DLG| I'm not saying yes. I'm saying I've never seen anyone make more people do impossible things than that man in the usher's vest.
+ACT| Tyler looks at her. Then out at Marc. Then he takes out his phone and starts typing.
+TEXT| TYLER — to DADDY (Houston) — 4:36 PM PDT | You see it?
+TEXT| DADDY — 6:36 PM CDT | Saw it. Your mama cried. I'm gonna need to know his position on the Second Amendment before I say anything else. But son... I'm listening.
+ACT| Tyler stares at the text. Then he laughs once, out loud, a disbelieving sound.
+CHAR| TYLER
+DLG| My daddy's listening.
+CHAR| ARIANNA
+DLG| Your daddy voted for Reagan.
+CHAR| TYLER
+DLG| Twice.
+ACT| Across the lawn, Tyrese (31) arrives late, still in a hoodie, carrying an enormous gift bag with a guitar sticking out of it. He walks through the gate, sees every adult on a phone, sees the puppy, sees Dante's extra agents, and stops dead next to Amond, who is standing alone near the stage with a strange look on his face.
+CHAR| TYRESE
+DLG| I got stuck on the 405 for an hour, my phone died, what did I miss?
+ACT| Amond turns to him slowly.
+CHAR| AMOND
+DLG| Your boy's running for President.
+CHAR| TYRESE
+DLG| Of what?
+CHAR| AMOND
+DLG| Of the country.
+CHAR| TYRESE
+DLG| WHICH country?
+CHAR| AMOND
+DLG| THIS ONE, TYRESE.
+ACT| Tyrese looks across the lawn at Marc, who is on his knees on the stage helping Lyric name her new puppy, completely ignoring the eleven phones ringing in his pockets.
+CHAR| TYRESE
+DLG| ...Huh.
+PAR| (beat)
+DLG| He'd win, though.
+CHAR| AMOND
+DLG| That's what everybody keeps saying.
+ACT| Amond looks at his best friend: the boy from next door, the trampoline, the Power Wheels, Kid Mayor, the wedding, every single day of his life since he was four.
+CHAR| AMOND
+PAR| (quietly)
+DLG| He didn't ask me.
+CHAR| TYRESE
+DLG| What?
+CHAR| AMOND
+DLG| Twenty-seven years. He didn't ask me. He didn't ask anybody. He asked my daughter. Or she asked him.
+PAR| (beat, a slow smile)
+DLG| ...That's the most Marc thing that's ever happened.
+
+SLUG| EXT. SUNRISE HILL — UPPER TERRACE — DUSK
+SUPER| 7:48 PM PDT / 10:48 PM EDT
+ACT| The party is over. The marquee is dark. The Pantages' truck is idling at the side gate. On Bellagio Road, past the trees, the noise of the crowd that has gathered: three hundred people, maybe more, chanting something that sounds, faintly, like "BET! BET! BET!"
+ACT| Helicopters overhead. Two of them. News.
+ACT| Marc stands at the railing in the same place he stood at midnight on New Year's, still in the usher's vest, bow tie untied, hanging around his neck. He looks wrecked and lit up at the same time.
+ACT| Esther comes out onto the terrace. Closes the door behind her. For a while she just stands next to him.
+CHAR| ESTHER
+DLG| The girls are asleep. Victoria says if you're President she wants to be "Secretary of Snacks." Emma has already written you a twelve-point plan. On notebook paper. It has footnotes.
+CHAR| MARC
+DLG| Of course it has footnotes.
+CHAR| ESTHER
+DLG| Lyric wants to know if she gets credit.
+CHAR| MARC
+DLG| Lyric gets everything. Lyric gets a building.
+ACT| Silence. The helicopters circle. The chant drifts up from the road.
+CHAR| ESTHER
+DLG| Did you mean it?
+ACT| He turns to look at her. No joke. None.
+CHAR| MARC
+DLG| Yeah. I meant it the second I said it. I didn't know I meant it until I heard myself say it. But I meant it.
+CHAR| ESTHER
+DLG| You didn't ask me.
+CHAR| MARC
+DLG| I know.
+CHAR| ESTHER
+DLG| You didn't ask anybody.
+CHAR| MARC
+DLG| I know. And I'm sorry. Not for saying it. For not asking first. That part I'm sorry about.
+PAR| (beat)
+DLG| If you want me to take it back, I'll take it back. Tonight. I'll go live and say it was a bit for Lyric's birthday, and everybody will laugh, and in a week nobody'll remember. And you can call your father and tell him yes about Atlanta, and I'll buy you a house in Buckhead with a porch, and I'll knock on doors for you in a district I've never been to, in the heat, in a suit, and I'll be the happiest congressional husband in America.
+ACT| Esther looks at him for a long time. Her phone buzzes in her pocket. She doesn't take it out. She knows exactly who it is. It buzzes again. And again.
+CHAR| ESTHER
+DLG| You know what I was going to tell him? After the party?
+CHAR| MARC
+DLG| What?
+CHAR| ESTHER
+DLG| I was going to tell him no.
+ACT| Marc blinks.
+CHAR| ESTHER
+DLG| You asked me in January if I wanted to run. Nobody had ever asked me that. And I've had three and a half months to think about it, and the answer is no. Not because I can't. Because it's his dream, Marc. It's never been mine. I was going to tell him tonight.
+PAR| (beat)
+DLG| And then you went and stood on a stage and said "Bet," and now I don't have to.
+CHAR| MARC
+DLG| So you're not mad.
+CHAR| ESTHER
+DLG| I'm furious. You announced for President of the United States at a nine-year-old's birthday party in an usher's vest without telling your wife.
+CHAR| MARC
+DLG| Okay. Fair.
+CHAR| ESTHER
+DLG| But I'm not going to make you take it back.
+ACT| She turns to face him fully.
+CHAR| ESTHER
+DLG| I've watched you fix things my whole life. Airplanes. Toy drives. Grace's car. My father's cruelty, every single holiday, with a smile. You've never once walked past someone who was stuck. And Lyric is right. This whole country is stuck.
+PAR| (beat)
+DLG| So if you're going to do it, Marc-Anthony Bullock, then you do it right. All the way. No bits. No backing down. And you never, ever announce anything again without telling me first.
+CHAR| MARC
+DLG| Never again.
+CHAR| ESTHER
+DLG| Say it like you mean it.
+CHAR| MARC
+DLG| Esther Smilley Bullock, I will never again announce a presidential campaign without telling you first.
+CHAR| ESTHER
+DLG| Thank you.
+ACT| He kisses her. Below, the chanting from the road gets louder, as if the crowd somehow knows.
+ACT| Her phone buzzes again. Finally she takes it out. Looks at the screen.
+ACT| INSERT — ESTHER'S PHONE: "DADDY — 23 MISSED CALLS."
+ACT| She looks at it for a long time. Then she turns the phone face-down on the railing and leaves it there.
+CHAR| MARC
+DLG| You should call him back.
+CHAR| ESTHER
+DLG| Tomorrow.
+CHAR| MARC
+DLG| He's going to say I stole your seat.
+CHAR| ESTHER
+DLG| He's going to say a lot of things.
+PAR| (beat)
+DLG| It was never my seat, Marc. It was his. It's always been his.
+PAGE|
+
+SUB| TAG
+
+SLUG| INT. SMILLEY HOUSE — CORNELIUS'S STUDY — ATLANTA — NIGHT
+SUPER| THURSDAY, APRIL 20, 2023 — 11:58 PM EDT
+ACT| The only light in the house. Cornelius at his desk, the phone in front of him, face-up, showing a call log: "ESTHER — OUTGOING — 23 (NO ANSWER)."
+ACT| The Pettus Bridge lithograph is swung open. The safe is open. The binder lies on the desk.
+ACT| "THE BULLOCK FILE."
+ACT| He opens it to the last tab, "2022 — DOT / CHARTERS," and turns past it to a blank page. Takes out a fresh tab divider. Uncaps a fountain pen. His hand is perfectly steady.
+ACT| He writes on the tab: "2023 — CANDIDATE."
+ACT| He sits back. Looks at it. Then he reaches across the desk, picks up a framed photograph, the one that's been face-down on his desk since January, and turns it over.
+ACT| A young man, twenty-two, in a sharp late-sixties suit, standing on the steps of the Georgia State Capitol with his arm around a beautiful young woman in a Spelman sweater. They're laughing at something just outside the frame.
+ACT| THADDEUS SMILLEY and JOAN MERCER. Atlanta. Spring, 1969.
+ACT| Cornelius looks at the photograph for a long, long time.
+CHAR| CORNELIUS
+PAR| (very quietly)
+DLG| They take everything, Thad.
+PAR| (beat)
+DLG| Not this time.
+ACT| He sets the photo down. Face-up, this time. Picks up his phone and scrolls past twenty-three unanswered calls to his daughter. Finds a different name. Dials.
+ACT| It rings twice.
+CHAR| WES THORNTON (V.O.)
+PAR| (through the phone, Ohio accent, amused)
+DLG| Well, well. Cornelius Smilley. A Democrat calling me at midnight. Either somebody died or I'm about to get very rich.
+CHAR| CORNELIUS
+DLG| Mr. Thornton. I believe we have a mutual problem.
+CHAR| WES THORNTON (V.O.)
+DLG| The kid in the usher's vest.
+CHAR| CORNELIUS
+DLG| My son-in-law.
+CHAR| WES THORNTON (V.O.)
+DLG| Hell of a thing, calling the other team on your own family.
+CHAR| CORNELIUS
+DLG| He's not family, Mr. Thornton. He's a Donohue.
+PAR| (beat)
+DLG| Breakfast. Saturday. Washington. I'll bring the file.
+ACT| He hangs up. Closes the binder. Doesn't put it back in the safe.
+ACT| On the desk, under the lamp, Thaddeus and Joan keep laughing at whatever it was, fifty-four years ago, just outside the frame.
+TRANS| SMASH TO BLACK.
+SUPER| END OF CHAPTER THREE
+
+PAGE|
+SUB| CONTINUITY LEDGER — CHAPTER 3
+ACT| **Timeline:** Thu Apr 20, 2023, 8:33 AM CDT → 11:58 PM EDT (Daylight Saving Time in effect: PDT = UTC−7, EDT = UTC−4). **THE ANNOUNCEMENT: 4:20 PM PDT / 7:20 PM EDT**, on Instagram Live, at Lyric's 9th birthday party at Sunrise Hill. Peak live viewership: about 20 million.
+ACT| **Ages (on Apr 20, 2023):** Marc 31 · Esther 30 · Emma & Victoria 10 (turn 11 May 10) · Lyric 9 (today) · Amond 31 · Harmony 30 · Tyrese 31 · Tyler 31 · Tayia 31 · Arianna 30 · Elxa 32 · Grace 29 · Natasha 51 · Robert 54 · Victor 76 · Joan 75 · Odessa 94 · Cornelius 64 · Lorraine 61 · Neil 39 · Simone 35 · Dante Reyes 42 · Todd Wexler 44 (fictional). Real people: David Muir 49 · Joe Biden 80 · Donald Trump 76 · Robert F. Kennedy Jr. 69 · Ron DeSantis 44.
+ACT| **Real events recapped:** McCarthy elected Speaker on the 15th ballot (Jan 7, 12:39 AM); Biden documents and Special Counsel Robert Hur (Jan 12); Hamlin discharged (Jan 11) and fully cleared (Apr 18); East Palestine (Feb 3); balloon shot down (Feb 4); Turkey–Syria earthquake (Feb 6); Biden in Kyiv (Feb 20); Haley (Feb 14), Ramaswamy (Feb 21), and RFK Jr. (Apr 19) announcements; SVB collapse (Mar 10); Covenant School shooting (Mar 27); Trump indicted (Mar 30) and arraigned on 34 counts (Apr 4); March CPI 5.0% (Apr 12); WGA strike authorization at 97.85% (Apr 17); DeSantis prison remark (Apr 17); Fox–Dominion $787.5M settlement (Apr 18); McCarthy debt-limit plan (Apr 19); Starship explosion (Apr 20, 8:33 AM CDT launch); Twitter removing legacy blue checks (Apr 20); Biden's expected announcement on Tue Apr 25.
+ACT| **Our-world events (Jan–Apr):** Jan 5: Marc's 31st birthday, paying off Buffalo Public Schools' lunch debt. Feb 10: DOT closes its airlift review with a warning letter and no fine, and Marc frames the letter (Feb 11). Feb 17: Quantumania is a hit with an acclaimed Kang (still played by Jonathan Majors at this point). Mar 14: Whitfield announces retirement; Mar 16: AJC asks "Esther Bullock for Congress?" Mar 21: Jaxon Wilde launches "Wilde Card," and Tayia claps back. Mar 29: Donohue's pre-emptive limits on DeSantis's board revealed. Apr 12: Grace turns 29. Apr 20: Grace loses her blue check and refuses to pay $8.
+ACT| **New canon:** Lyric lives in View Park (near Baldwin Hills) and has a pink landline. The party: "LYRIC ON BROADWAY," with a marquee borrowed from the Pantages and 30 third-graders from her Windsor Hills school. Lyric gets a puppy, name to be revealed. Marc's exact words: "...You know what? Bet. I'm running for President of the United States." He declares as a Democrat and says, "we'll fix that too." Esther had decided to tell Cornelius NO on the Atlanta seat. Esther's rule: never announce anything without telling her first. Victoria wants to be "Secretary of Snacks." Emma wrote a twelve-point plan with footnotes. Lorraine sees Marc as the better route to power, and the parents' split begins. Odessa: "first time in sixty-four years that boy didn't have a speech ready." Donohue stock up about 3% after hours, and Natasha orders FEC, securities, and constitutional lawyers. ABC discloses its conflict on air. Simone tells the "casserole" story (age 11 is when Marc first met the Smilleys, consistent with meeting Esther in 2003). Tyler's father (a Reagan voter in Houston) is "listening." Cornelius makes 23 calls to Esther, all unanswered, opens a new Bullock File tab, "2023 — CANDIDATE," turns the photo of Thaddeus and Joan (Georgia State Capitol, spring 1969) face-up, and calls GOP strategist Wes Thornton for breakfast Saturday, Apr 22, in Washington.
+ACT| **Fictional people introduced:** Todd Wexler (44, talent agent, Lyric's classmate's father). "Wilde Card" is Jaxon Wilde's podcast.
+ACT| **Looming event (in-world):** the 2024 presidential election. Marc-Anthony Bullock is now a candidate.
