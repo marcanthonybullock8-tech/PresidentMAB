@@ -1,0 +1,1096 @@
+CHAPTER| THE BULLOCK PRESIDENCY
+SUB| BOOK ONE: BEFORE
+SUB| Chapter 4 — "War Room"
+SUB| Thursday, April 20, 2023 – Thursday, August 24, 2023
+PAGE|
+
+SUB| PART ONE — "DAY ZERO OF THE CAMPAIGN"
+
+SLUG| INT. SUNRISE HILL — FORMAL DINING ROOM — NIGHT
+SUPER| THURSDAY, APRIL 20, 2023 — 8:05 PM PDT / 11:05 PM EDT
+SUPER| 3 HOURS AND 45 MINUTES AFTER "BET."
+ACT| A dining room built for state dinners, now unrecognizable. The twenty-four-seat table is buried under laptops, legal pads, three phone chargers per seat, and the remains of Lyric's birthday cake on a silver platter like a centerpiece of war.
+ACT| A rolling whiteboard has been dragged in from the kids' homework room. Across the top, in Elxa's ruthless block capitals: "DAY ZERO."
+ACT| Below that, three columns: "LEGAL." "MONEY." "PEOPLE."
+ACT| Standing at the head of the table, still in the dress she wore to a nine-year-old's birthday party, now with her hair tied up in a pencil: ELXA BULLOCK (32). She has two phones and a tablet. She has not sat down in three hours. She will not sit down for nine more.
+ACT| Around the table, in various states of shock: Grace (29), Arianna (30), Tyler (31), Tayia (31), Amond (31). Tyrese (31), lying on the floor under the table with his phone on his chest because "the floor is where I think."
+ACT| Marc (31) is in the doorway, still in the usher's vest with the bow tie hanging loose, holding a bowl of cereal.
+CHAR| ELXA
+DLG| Sit.
+CHAR| MARC
+DLG| I'm eating.
+CHAR| ELXA
+DLG| You can eat sitting. You announced for President sitting on a bounce house.
+CHAR| MARC
+DLG| I was standing next to a bounce house.
+CHAR| ELXA
+DLG| SIT.
+ACT| He sits. Elxa uncaps a marker. Turns to the board.
+CHAR| ELXA
+DLG| Okay. Here's where we are. Three hours and forty-five minutes ago my baby brother told twenty million people he's running for President of the United States. He has no committee, no treasurer, no lawyer, no campaign manager, no website, no bank account, no plan, no policy book, and, I want to emphasize this, no constitutional eligibility.
+CHAR| MARC
+DLG| I have vibes.
+CHAR| ELXA
+DLG| You have VIBES. Grace, write that down. "Assets: Vibes."
+CHAR| GRACE
+PAR| (writing on a legal pad)
+DLG| "Vibes, comma, immaculate."
+CHAR| ELXA
+DLG| And by Monday, every news network in America is going to be asking whether this is real. So it has to look real by sunrise. Not by Monday. By sunrise. Arianna. Legal.
+
+SLUG| INT. SUNRISE HILL — FORMAL DINING ROOM — CONTINUOUS
+SUPER| 8:11 PM PDT
+ACT| Arianna stands. She has already filled six pages of a legal pad in tiny, perfect handwriting.
+CHAR| ARIANNA
+DLG| Three things, in order. One: the Federal Election Commission. The second Marc raises or spends more than five thousand dollars, he's legally a candidate, and he has fifteen days to file a Statement of Candidacy, FEC Form 2, and designate a principal campaign committee. That committee has ten days after that to file a Statement of Organization, Form 1. My advice: we don't wait. We file both tonight. Before anyone can say he's raising money illegally.
+CHAR| ELXA
+DLG| Tonight.
+CHAR| ARIANNA
+DLG| Tonight. The FEC's e-filing system doesn't sleep. Two: the committee needs a treasurer. A real one. A professional, not a family member, not anyone at Donohue, nobody with a conflict. Every dollar that comes in is going to be audited by people who want to find something.
+CHAR| ELXA
+DLG| I have a name. Howard Tran. He was the treasurer for two Senate campaigns and a governor. Clean as a whistle, boring as a tax form.
+CHAR| ARIANNA
+DLG| Perfect. Boring is the goal. Three...
+ACT| She hesitates. Looks at Marc.
+CHAR| ARIANNA
+DLG| Three is the thirty-five problem. And I need everybody to understand that it isn't a PR problem. It's a constitutional wall. Article Two, Section One, Clause Five. You can run. You can campaign. You can, in theory, win. You cannot legally serve until you're thirty-five, which is January fifth, 2027.
+CHAR| MARC
+DLG| So we change the Constitution.
+CHAR| ARIANNA
+DLG| Marc, people have tried to amend the Constitution over eleven thousand times. It's worked twenty-seven.
+CHAR| MARC
+DLG| So we're due.
+ACT| Tyler snorts. Arianna doesn't.
+CHAR| ARIANNA
+DLG| Here's the strategy memo I'll have on your desk by six AM. Three tracks. Track one: the amendment. A joint resolution in Congress lowering or removing the age requirement. Two-thirds of the House, two-thirds of the Senate, thirty-eight states. That's the moonshot. Track two: ballot access. Some secretaries of state will try to keep you off primary ballots because you're ineligible. We fight every one of those in court, state by state. Track three: the fallback. Section Three of the Twentieth Amendment. If a President-elect "shall have failed to qualify," the Vice President-elect acts as President until he does.
+ACT| A silence. Everyone in the room processes that at once.
+CHAR| TAYIA
+DLG| Wait. So if he wins and the amendment fails, his running mate becomes President?
+CHAR| ARIANNA
+DLG| Acting President. Until January fifth, 2027. Then Marc takes the oath.
+CHAR| TYLER
+DLG| So the running mate has to be thirty-five.
+CHAR| ARIANNA
+DLG| In the fallback scenario, yes. Which is a decision for another night. Not this one.
+ACT| Marc's eyes, unconsciously, drift across the table to Amond. Amond, unconsciously, looks down at his phone. Nobody notices. Except Elxa, who notices everything.
+CHAR| ELXA
+DLG| Track one's a moonshot, track two's a slog, track three's a coin toss. Got it. Arianna, you're counsel. Interim. Until we hire a firm.
+CHAR| ARIANNA
+DLG| I'm an actress.
+CHAR| ELXA
+DLG| You're an actress with a Harvard law degree and an active California bar card. You're counsel.
+CHAR| ARIANNA
+PAR| (a long beat)
+DLG| ...I'm going to need more legal pads.
+
+SLUG| INT. SUNRISE HILL — FORMAL DINING ROOM — LATER
+SUPER| 8:31 PM PDT
+CHAR| ELXA
+DLG| Money. Grace.
+CHAR| GRACE
+DLG| I bought the domains. BullockForAmerica dot com, dot org, Bullock2024, MarcForPresident, and, just in case, "BetPresident" dot com, because if I didn't, some guy in Ohio was going to buy it and sell weed vapes on it.
+CHAR| ELXA
+DLG| Good. The committee name is "Bullock for America." Write it down. Nobody changes it. Platform?
+CHAR| GRACE
+DLG| ActBlue. It's what every Democrat uses for small dollars. I already started the account. It needs the FEC committee ID before it can take a dime.
+CHAR| ELXA
+DLG| Which we'll have by eleven.
+ACT| Marc raises his spoon.
+CHAR| MARC
+DLG| Question. Why do we need people's money? I have money. I have, like, the most money.
+ACT| Every single person at the table turns and looks at him.
+CHAR| ELXA
+DLG| That's exactly why.
+CHAR| MARC
+DLG| I don't follow.
+CHAR| ELXA
+DLG| Marc. You are worth nine hundred and ninety billion dollars. If you pay for this campaign yourself, the first headline is "Richest Man in History Tries to Buy the Presidency." The second headline is the same headline in Spanish. The third is a Fox News graphic of you lighting a cigar with the Constitution.
+CHAR| MARC
+DLG| I don't smoke cigars.
+CHAR| ELXA
+DLG| They'll Photoshop it. Listen to me. You need people to give you money. Not because you need the money. Because the money is proof. Every twenty-dollar donation is a person saying, "I'm with him." Ten million twenty-dollar donations is a movement. One nine-hundred-billion-dollar check is a hostage situation.
+ACT| Marc considers it. Then he sets down the cereal.
+CHAR| MARC
+DLG| Okay. Then here's my rule. We don't take a single dollar from a corporate PAC. No lobbyists. No super PAC. Nobody gets to say they bought anything.
+CHAR| ELXA
+DLG| Agreed.
+CHAR| MARC
+DLG| And for every dollar anybody gives the campaign, I personally give a dollar to a charity in their zip code. My money. Not the campaign's. Separate. Food banks, schools, clinics, whatever's there.
+ACT| Arianna's pen stops.
+CHAR| ARIANNA
+DLG| That's... legal, actually. It's your personal charitable giving. It has to be completely walled off from the campaign. Separate entity, separate lawyers. No coordination on messaging. But it's legal.
+CHAR| ELXA
+DLG| Grace, can ActBlue do a zip code thing?
+CHAR| GRACE
+DLG| ActBlue takes zip codes for compliance. I can't share them with a foundation. But I can publish the totals by zip code publicly, and the foundation can read the public number like anybody else.
+CHAR| ARIANNA
+PAR| (writing furiously)
+DLG| Publicly available data. That works.
+CHAR| TYLER
+DLG| So if a grandma in Midland, Texas gives you ten bucks, her local food bank gets ten bucks from you.
+CHAR| MARC
+DLG| Exactly.
+CHAR| TYLER
+DLG| Marc, Midland is the most Republican town in America.
+CHAR| MARC
+DLG| Then they're about to have the best-funded food bank in America.
+ACT| Tyler stares at him. Then he slowly takes his cowboy hat off and puts it over his heart.
+CHAR| TYLER
+DLG| ...I'll be damned. Elxa, write me down. I'm volunteering. "Republicans for Bullock." I'm the chair. I'm the only member. For now.
+CHAR| ELXA
+PAR| (writing)
+DLG| "Republicans for Bullock. Chair: Tyler. Members: Tyler."
+CHAR| TYLER
+DLG| And my daddy. He's "listening."
+
+SLUG| INT. SUNRISE HILL — FORMAL DINING ROOM — LATER
+SUPER| 9:14 PM PDT / 12:14 AM EDT
+ACT| Elxa paces with a phone on speaker. It rings. And rings.
+CHAR| PATTI GROVE (V.O.)
+PAR| (groggy, Baltimore accent, furious)
+DLG| It's after midnight on the East Coast. Whoever this is better be dying or the President.
+CHAR| ELXA
+DLG| Ms. Grove, this is Elxa Bullock.
+ACT| A long pause on the line. The sound of a bedside lamp being turned on.
+CHAR| PATTI GROVE (V.O.)
+DLG| ...Oh, hell.
+CHAR| ELXA
+DLG| On January first, on "This Week," you said, and I'm quoting from the transcript I'm currently holding, "He'd win fifty states and Puerto Rico."
+CHAR| PATTI GROVE (V.O.)
+DLG| I was being FUNNY. It was a ROUNDTABLE. That's what roundtables are FOR.
+CHAR| ELXA
+DLG| You ran two presidential primary campaigns, a Senate race in Pennsylvania, and a governor's race in Virginia. You were deputy chief of staff in the Obama White House. You know the Democratic primary calendar better than the DNC does, because you helped write the last one. I'd like you to be campaign manager.
+ACT| Silence.
+CHAR| PATTI GROVE (V.O.)
+DLG| Elxa. Honey. He's thirty-one.
+CHAR| ELXA
+DLG| I'm aware.
+CHAR| PATTI GROVE (V.O.)
+DLG| He's running against a sitting President of his own party.
+CHAR| ELXA
+DLG| Who hasn't announced yet.
+CHAR| PATTI GROVE (V.O.)
+DLG| He announced at a CHILD'S BIRTHDAY PARTY.
+CHAR| ELXA
+DLG| In front of twenty million people. Live. On a Thursday. Patti, how many people watched Biden's 2020 launch video in its first day?
+ACT| A long pause.
+CHAR| PATTI GROVE (V.O.)
+DLG| ...Not twenty million.
+CHAR| ELXA
+DLG| Not twenty million.
+ACT| Another pause. Then a long exhale.
+CHAR| PATTI GROVE (V.O.)
+DLG| I need three things. One: I run it. Not your mother. Not the network. Not the Bullpen. Me. Two: he does what I say on message, and when he goes off message, which he will, because he's a comedian, he warns me first. Three...
+CHAR| ELXA
+DLG| Three?
+CHAR| PATTI GROVE (V.O.)
+DLG| Three: I want to hear him say it. Put him on.
+ACT| Elxa holds out the phone. Marc takes it.
+CHAR| MARC
+DLG| Ms. Grove. Hi. Big fan of your roundtable work.
+CHAR| PATTI GROVE (V.O.)
+DLG| Why are you doing this?
+ACT| The table goes quiet. Marc doesn't make a joke.
+CHAR| MARC
+DLG| Because a little girl asked me why I couldn't fix it, and I didn't have an answer. And I've never not had an answer for a kid before. Not once. I didn't like how that felt.
+PAR| (beat)
+DLG| And because everybody keeps telling me it's impossible. And everything good I've ever done started with somebody telling me that.
+ACT| Long silence on the line.
+CHAR| PATTI GROVE (V.O.)
+DLG| ...I'll be on the first flight out of BWI. Six AM. Somebody pick me up at LAX who knows how to drive on the 405 without getting me killed.
+CHAR| MARC
+DLG| I'll pick you up.
+CHAR| PATTI GROVE (V.O.)
+DLG| You will NOT pick me up. You're a presidential candidate. You have security. Act like it.
+ACT| She hangs up. Marc hands the phone back to Elxa.
+CHAR| MARC
+DLG| I like her.
+CHAR| ELXA
+DLG| Everybody likes her. Nobody survives her. Grace, write it down.
+CHAR| GRACE
+PAR| (writing)
+DLG| "Campaign manager: Patti Grove. Survival rate: unknown."
+
+SLUG| INT. SUNRISE HILL — KITCHEN — NIGHT
+SUPER| 9:52 PM PDT
+ACT| A side room off the main event. Marc on a barstool, phone on speaker on the island. Natasha's voice. Elxa listening in the doorway with her arms crossed.
+CHAR| NATASHA (V.O.)
+DLG| Your stake in Donohue goes into a blind trust. Tomorrow. The lawyers have the papers drawn. You step down from every advisory role at Bullock Holdings. You don't attend a single meeting. You don't take a single call from Paul about ABC News. If ABC covers you, and they will, you find out what they said the same way everybody else does: by watching it.
+CHAR| MARC
+DLG| Okay.
+CHAR| NATASHA (V.O.)
+DLG| I'm not finished. If you're asked about the writers' strike —
+CHAR| MARC
+DLG| I'm with the writers, Mama.
+ACT| Silence on the line.
+CHAR| NATASHA (V.O.)
+DLG| I'm sitting across the table from them in eleven days.
+CHAR| MARC
+DLG| I know. And I love you. And I'm with the writers. I'm SAG. I've been in the union since I was ten. Without writers I'm just a guy standing on a couch. I'm not going to pretend otherwise because my mother runs the studio.
+CHAR| NATASHA (V.O.)
+PAR| (very quietly)
+DLG| ...Your grandmother walked a picket line in 1980. Did you know that? The actors' strike. Against her own husband's studio. Your grandfather didn't speak to her for a week. Then he settled.
+CHAR| MARC
+DLG| I didn't know that.
+CHAR| NATASHA (V.O.)
+DLG| She'll tell you, if you ask her. He's still proud of her for it.
+PAR| (beat)
+DLG| Do what you think is right, baby. Just know I'll be doing the same. And sometimes those are going to be two different things.
+CHAR| MARC
+DLG| I know, Mama.
+CHAR| NATASHA (V.O.)
+DLG| And Marc. Cornelius called Esther twenty-three times tonight.
+ACT| Marc looks up. Elxa straightens in the doorway.
+CHAR| MARC
+DLG| How do you know that?
+CHAR| NATASHA (V.O.)
+DLG| Because Lorraine called me. Ten minutes ago. First time she's called me in twelve years.
+ACT| A silence on both ends.
+CHAR| NATASHA (V.O.)
+DLG| She said, quote, "Tell your son to protect my daughter. Cornelius is not well." Then she hung up.
+
+SLUG| INT. SUNRISE HILL — FORMAL DINING ROOM — NIGHT
+SUPER| 11:02 PM PDT / 2:02 AM EDT
+ACT| Arianna at a laptop. Elxa over her shoulder. Everyone else gathered behind them. On the screen: the FEC's electronic filing confirmation page.
+CHAR| ARIANNA
+DLG| Form 1, Statement of Organization. "Bullock for America." Treasurer: Howard Tran. Principal campaign committee for Marc-Anthony Bullock, candidate for President of the United States. Submitting.
+ACT| Click. A loading wheel. Then: "FILING ACCEPTED." A committee ID number appears.
+ACT| Elxa turns to Marc and slides a tablet across the table with a stylus.
+CHAR| ELXA
+DLG| Form 2. Statement of Candidacy. You sign. Nobody signs for you. This is the one that makes it legal.
+ACT| Marc looks down at the tablet. His name. "Office Sought: President." "Party Affiliation: Democratic Party." "Election Year: 2024."
+ACT| He picks up the stylus. Hesitates for just a moment. The room is very quiet.
+ACT| He signs: a big, looping, ridiculous signature, the one he's been signing on autographs since he was ten. Then, at the end, he draws a tiny bluebird.
+CHAR| ARIANNA
+DLG| You can't put a bird on a federal form.
+CHAR| MARC
+DLG| Is there a rule?
+CHAR| ARIANNA
+PAR| (beat)
+DLG| ...I don't actually know.
+CHAR| MARC
+DLG| Then I'm a bird guy now.
+ACT| Click. "FILING ACCEPTED."
+SUPER| 11:05 PM PDT — MARC-ANTHONY BULLOCK IS OFFICIALLY A CANDIDATE FOR PRESIDENT OF THE UNITED STATES.
+ACT| Applause. Not wild, just stunned. Amond starts it. Then everyone joins.
+ACT| Tyrese, still on the floor under the table, raises a fist.
+CHAR| TYRESE
+DLG| Mr. President.
+CHAR| MARC
+DLG| Not yet.
+CHAR| TYRESE
+DLG| Practice.
+ACT| He pulls out his phone, types something, and hits a button.
+CHAR| TYRESE
+DLG| Three thousand three hundred dollars. Max individual contribution for the primary. Just went through.
+CHAR| ELXA
+DLG| ActBlue isn't live yet.
+CHAR| TYRESE
+DLG| Then I'm first in line. I'll keep refreshing.
+CHAR| AMOND
+DLG| I thought you were "publicly apolitical."
+CHAR| TYRESE
+DLG| I am publicly apolitical. This is privately political. FEC reports aren't public for three months. By then he'll be winning.
+
+SLUG| INT. SUNRISE HILL — FORMAL DINING ROOM — LATER
+SUPER| 11:47 PM PDT
+ACT| Grace, at a laptop, both hands up like a pianist about to perform.
+CHAR| GRACE
+DLG| Website. Ready. Logo: a bluebird. Not Benny, Arianna, don't look at me like that, it's a generic bluebird, I checked the trademark. Slogan...
+ACT| She turns the screen. A clean white page. The bluebird. And beneath it, in bold:
+ACT| "BULLOCK FOR AMERICA — LET'S FIX IT."
+CHAR| MARC
+DLG| "Let's fix it."
+CHAR| GRACE
+DLG| That's the official slogan. Elxa approved it. Very presidential. Very serious.
+PAR| (she clicks again)
+DLG| And THIS is the merch.
+ACT| A baseball cap. Navy blue. White embroidered letters, all caps:
+ACT| "BET."
+ACT| Marc laughs out loud, a huge, uncontrolled laugh. Patti Grove would hate it. Everyone else loves it.
+CHAR| MARC
+DLG| Yes. YES.
+CHAR| ELXA
+DLG| The hat is merch. Merch only. It does not go on a podium. It does not go on a debate stage. It does not go in an ad.
+CHAR| GRACE
+DLG| It's going to be the best-selling political hat since the red one.
+CHAR| ELXA
+DLG| That's exactly what I'm afraid of.
+CHAR| GRACE
+PAR| (clicking)
+DLG| Website live in three. Two. One.
+SUPER| 11:47:00 PM PDT — BULLOCKFORAMERICA.COM GOES LIVE
+ACT| Grace stares at her screen. A traffic monitor. The number of concurrent visitors climbs: 10,000... 80,000... 400,000... the page slows... 1.1 million...
+CHAR| GRACE
+DLG| It's crashing. It's crashing! Why is it crashing?
+CHAR| TAYIA
+DLG| Because you put a website for the most famous man on earth on a server meant for a cupcake shop?
+CHAR| GRACE
+DLG| I put it on the BEST server!
+ACT| Amond, quietly, picks up his phone. Dials a number.
+CHAR| AMOND
+DLG| Hey, it's Amond Baker. Yeah. I know what time it is. You run the cloud infrastructure at Bullock Holdings, right? ...Yeah. We need to borrow, like, all of it.
+
+SLUG| INT. SUNRISE HILL — FORMAL DINING ROOM — LATER
+SUPER| FRIDAY, APRIL 21, 2023 — 12:00 AM PDT
+ACT| ActBlue goes live. The donation counter on Grace's screen sits at $0.
+ACT| For about one second.
+ACT| Then: $3,300. (Tyrese, refreshing.)
+ACT| Then: $14,011.
+ACT| Then: $211,904.
+ACT| Then the counter starts spinning like a slot machine.
+CHAR| GRACE
+DLG| Oh my God.
+CHAR| ELXA
+DLG| Grace. Numbers.
+CHAR| GRACE
+DLG| Six hundred thousand. Eight hundred. One million. ONE MILLION DOLLARS. In four minutes.
+ACT| Tyler is standing on a chair. Nobody tells him to get down.
+CHAR| GRACE
+DLG| Average donation is twenty-two dollars. TWENTY-TWO DOLLARS. These are REAL PEOPLE. Midland, Texas. Bakersfield. Dayton. Flint. Somebody in Flint gave five dollars and wrote "for the pipes."
+ACT| Marc doesn't say anything. He's reading over her shoulder. Each donation comes with an optional note, and they're scrolling past too fast to read, but he's trying anyway.
+ACT| INSERT — THE DONOR NOTE FEED, SCROLLING:
+ACT| "$10 — Bakersfield, CA — For Lyric."
+ACT| "$25 — Chicago, IL — You got my mother home from Midway. Now get the rest of us home."
+ACT| "$3 — Jackson, MS — All I got. Bet."
+ACT| "$50 — Houston, TX — I'm a Republican and I don't care. — R.C."
+ACT| "$1 — Buffalo, NY — Paid off my son's lunch debt in January. This is from his piggy bank. He's 7."
+ACT| Marc stops reading. Puts his hand over his mouth. Turns away from the screen.
+ACT| Amond, beside him, puts a hand on his back. Doesn't say anything. Doesn't need to.
+CHAR| TYLER
+PAR| (from the chair, looking at his phone)
+DLG| "R.C." in Houston. That's my daddy. Roy Chapman. He gave fifty dollars.
+PAR| (beat)
+DLG| He hasn't given a Democrat money in his whole life.
+
+SLUG| MONTAGE — SUNRISE HILL — FRIDAY, APRIL 21, 2023 — 12:30 AM TO 5:59 AM PDT
+ACT| — 12:41 AM: Dante Reyes (42) at the front gate, with LAPD West Bureau officers. Four hundred people on Bellagio Road. Candles. "BET." written on poster board in Sharpie. Someone has brought a guitar and is playing "Afterglow."
+ACT| — 1:15 AM: Arianna, alone at the end of the table, typing. On her screen, a document titled: "THE THIRTY-FIVE STRATEGY — PRIVILEGED & CONFIDENTIAL."
+ACT| — 1:48 AM: Tayia, on the couch in the next room, with a legal pad labeled "WILDE CARD — RAPID RESPONSE." A list of every lie Jaxon Wilde has told about Marc since 2005, numbered. There are a lot of numbers.
+ACT| — 2:30 AM: Grace in the kitchen, staring at her phone. She opens Twitter. Taps "Get Verified." "$8/month." She closes her eyes. Taps "Subscribe."
+CHAR| GRACE
+PAR| (whispering)
+DLG| For America.
+ACT| — 3:12 AM: Tyrese asleep under the table. Amond has covered him with a Bills blanket.
+ACT| — 3:40 AM: Elxa, still standing, finally pulls a chair out. Sits. For exactly forty-five seconds. Then stands back up because her phone rang.
+ACT| — 4:22 AM: Marc in the doorway of the twins' room, watching them sleep. On Emma's nightstand: the twelve-point plan on notebook paper, footnotes and all. He picks it up. Point one, in careful ten-year-old handwriting: "1. Be nice to everybody (even Grandpa Cornelius)." With a footnote: "(Especially Grandpa Cornelius. He is sad.)"
+ACT| Marc reads it twice. Folds it carefully. Puts it in his pocket.
+ACT| — 5:15 AM: Amond and Marc on the back terrace, watching the sky turn gray over the city. Two coffees. The same two boys who broke a trampoline in 1999.
+CHAR| MARC
+DLG| I didn't ask you.
+CHAR| AMOND
+DLG| Nope.
+CHAR| MARC
+DLG| I'm asking you now. Co-chair. Campaign co-chair. You and Elxa. I can't do this without you. I've never done anything without you.
+ACT| Amond sips his coffee. Takes his time.
+CHAR| AMOND
+DLG| Twenty-seven years, bro.
+CHAR| MARC
+DLG| I know.
+CHAR| AMOND
+DLG| You finally asked me something before you did it.
+CHAR| MARC
+DLG| Technically after.
+CHAR| AMOND
+DLG| Technically after.
+PAR| (a slow smile)
+DLG| Yeah. Obviously yeah. Idiot.
+ACT| They clink coffee mugs.
+ACT| — 5:59 AM: Grace, asleep face-down on the dining room table, cheek on a legal pad. Elxa gently pulls the laptop out from under her hand. Looks at the number on the screen.
+ACT| INSERT — THE ACTBLUE DASHBOARD:
+ACT| "BULLOCK FOR AMERICA — TOTAL RAISED: $31,408,227 — DONORS: 1,061,904 — AVERAGE: $29.58 — ELAPSED: 5 HRS 59 MIN"
+ACT| Elxa stares at it for a long, long time.
+CHAR| ELXA
+PAR| (to herself, very quietly)
+DLG| ...Okay, little brother. Okay.
+ACT| She writes the number on the whiteboard under "MONEY," and under it, one word, and underlines it three times:
+ACT| "REAL."
+
+POST| Twitter | @ActBlue | We've seen a lot of first days. We haven't seen one like this. | 41K Retweets · 188K Likes · 6:14 AM PDT
+POST| Twitter | @BullockForAmerica | 1,061,904 of you. In six hours. Average gift $29.58. No corporate PACs. No lobbyists. And for every dollar you gave, Marc is personally giving a dollar to charity in your zip code. Let's fix it. | 302K Retweets · 1.6M Likes · 6:30 AM PDT
+POST| Twitter | @GraceBullock (verified, $8/month) | I paid the eight dollars. Don't talk to me. It was for my country. | 88K Retweets · 701K Likes · 2:33 AM PDT
+POST| Twitter | @MidlandFoodBank_TX | Woke up to an anonymous notice that a donation is coming tied to Midland-area contributions to a presidential campaign. We don't endorse candidates. We do say thank you. | 21K Retweets · 140K Likes
+
+HEAD| POLITICO — FRIDAY, 7:02 AM EDT | Bullock files with FEC overnight, raises $31M in six hours from more than 1 million donors | The haul, from small donors averaging under $30, is among the largest opening hauls in modern presidential history, before a single event.
+HEAD| AXIOS | Scoop: Bullock hires Patti Grove, Obama-era veteran, as campaign manager
+HEAD| THE WALL STREET JOURNAL | Bullock to Place $180 Billion Donohue Stake in Blind Trust
+HEAD| THE HOLLYWOOD REPORTER | Marc-Anthony Bullock Says He Stands With WGA, Putting Him Across the Table From His Mother's Studio
+PAGE|
+
+SUB| PART TWO — "THE CALL"
+
+SLUG| INT. SUNRISE HILL — LIBRARY — MORNING
+SUPER| FRIDAY, APRIL 21, 2023 — 7:12 AM PDT / 10:12 AM EDT
+ACT| The quietest room in the house. Floor-to-ceiling books, most of them read. A rolling ladder. A fireplace that has never once been lit, because Marc is afraid of the twins near it. Morning light through tall windows.
+ACT| Esther (30) sits in a leather chair, knees pulled up, in one of Marc's old Kid Mayor sweatshirts. Her phone is on the side table in front of her. She has been looking at it for twenty minutes.
+ACT| Marc stands in the doorway.
+CHAR| MARC
+DLG| You don't have to call him today.
+CHAR| ESTHER
+DLG| I said tomorrow. It's tomorrow.
+CHAR| MARC
+DLG| Want me in here?
+CHAR| ESTHER
+DLG| No. If you're in here, he'll talk to you instead of me. He always does. Even when you're not on the phone.
+ACT| Marc nods. Starts to close the door. Stops.
+CHAR| MARC
+DLG| Lorraine called my mom last night. She said he's "not well."
+ACT| Esther looks up. Something flickers across her face: fear, quickly hidden.
+CHAR| ESTHER
+DLG| Close the door, Marc.
+ACT| He does. She picks up the phone. Dials. Puts it on speaker. Sets it on the side table and sits back, arms around her knees, as though it might bite.
+ACT| One ring.
+
+SLUG| INTERCUT — INT. SMILLEY HOUSE — CORNELIUS'S STUDY — ATLANTA — SAME TIME
+ACT| Cornelius (64) at his desk, in the same shirt as last night. He hasn't slept. The Bullock File is open in front of him. The photograph of Thaddeus and Joan is face-up beside it. A packed overnight bag by the door: his flight to Washington is at 2 PM.
+ACT| The phone rings once. He answers before the second.
+CHAR| CORNELIUS
+DLG| Esther.
+CHAR| ESTHER
+DLG| Good morning, Daddy.
+CHAR| CORNELIUS
+DLG| Twenty-three times.
+CHAR| ESTHER
+DLG| I know.
+CHAR| CORNELIUS
+DLG| I called my daughter twenty-three times last night, and she didn't pick up once.
+CHAR| ESTHER
+DLG| I was with my family.
+CHAR| CORNELIUS
+DLG| I AM your family.
+ACT| The volume of that line surprises them both. Cornelius closes his eyes. Recalibrates. When he speaks again, his voice is velvet. That's the most dangerous version of it.
+CHAR| CORNELIUS
+DLG| I'm sorry. I'm tired. It's been a long night for everyone. Let's start over. Did the girls have a nice time at the party?
+CHAR| ESTHER
+DLG| They did.
+CHAR| CORNELIUS
+DLG| Good. That's good. Now. I'm not going to ask what happened, because I watched it, along with the rest of the planet. I'm going to ask what happens next. You told me you'd give me an answer after the party. I'd like my answer.
+ACT| Esther takes a breath.
+CHAR| ESTHER
+DLG| The answer is no, Daddy. I'm not running for Congress.
+ACT| Silence.
+CHAR| CORNELIUS
+DLG| I see.
+CHAR| ESTHER
+DLG| And I need you to hear this part. That was my answer before Marc said anything. Before the party. Before Lyric. I decided weeks ago. I was going to tell you last night.
+CHAR| CORNELIUS
+DLG| You decided weeks ago.
+CHAR| ESTHER
+DLG| Yes.
+CHAR| CORNELIUS
+DLG| And then your husband stood on a stage and made sure you'd never change your mind.
+CHAR| ESTHER
+DLG| That's not what happened.
+CHAR| CORNELIUS
+DLG| That's exactly what happened. He saw the seat opening. He saw the Journal-Constitution headline. He saw his wife about to have something of her own, something that wasn't his, and he made sure it could never happen. Twenty million people. On the night you were supposed to give me your answer. You think that's a coincidence?
+CHAR| ESTHER
+DLG| I think a nine-year-old asked him a question.
+CHAR| CORNELIUS
+DLG| A nine-year-old who's been coached since birth to worship him.
+CHAR| ESTHER
+PAR| (sharp)
+DLG| Don't you dare. Don't you dare talk about Lyric.
+ACT| Cornelius stands. Walks to the window. Below, in the yard, the dogwoods his father planted in 1961.
+CHAR| CORNELIUS
+DLG| Esther. Listen to me very carefully. Do you know what he did last night? Not the speech. Do you know what he actually did? He took everything this family has ever stood for and turned it into a punchline. Your grandfather marched across that bridge in Selma with blood in his shoes. He sat in a jail cell in Albany, Georgia. He built a voting machine out of church basements and car pools so that Black people in this state could have a voice in their own government. And your husband stood in a bounce-house backyard in Bel Air and said "Bet."
+CHAR| ESTHER
+DLG| Granddaddy also had a mistress for eleven years and ran a slush fund out of the collection plate.
+ACT| Dead silence.
+ACT| On Cornelius's end, he turns very slowly from the window. His face has gone a color it hasn't been since 1997.
+CHAR| CORNELIUS
+PAR| (very, very quiet)
+DLG| What did you say?
+CHAR| ESTHER
+DLG| You heard me. Everybody heard it in 1997. Robert Bullock made a movie about it, and you sued, and you lost, because it was true. Big Mama told me. When I was sixteen. She said, "Baby, your granddaddy was a great man and a sinner, and both of those things are true, and your daddy has never been able to hold both in his head at the same time."
+ACT| Cornelius grips the back of his desk chair so hard his knuckles go white.
+CHAR| CORNELIUS
+DLG| Your grandmother is ninety-four years old.
+CHAR| ESTHER
+DLG| And she's never once lied to me. Which is more than I can say for you.
+CHAR| CORNELIUS
+DLG| Be careful, Esther.
+CHAR| ESTHER
+DLG| Or what?
+ACT| A long pause. When Cornelius speaks again, the velvet is gone. What's left is something cold and flat and absolutely sure of itself.
+CHAR| CORNELIUS
+DLG| Or I stop protecting him.
+ACT| Esther's hand tightens around her knees.
+CHAR| CORNELIUS
+DLG| Do you think I've been sitting quietly for ten years, Esther? Do you think I watched that man take my daughter, give her a baby out of wedlock, steal her name, and humiliate me on national television, and did NOTHING?
+PAR| (he sits, puts his hand flat on the binder)
+DLG| I have four hundred pages. Every law he's ever broken with that smile on his face. Every customs violation from the PPE flights. Every FDA rule he broke with the formula. Every charter regulation from Christmas. Every lawsuit he filed against a school district that tried to follow its own rules. Every offensive joke he's told in twenty years of stand-up, transcribed, timestamped, sorted by which voting bloc it will offend most. I have it all.
+CHAR| ESTHER
+PAR| (very steady)
+DLG| The Bullock File.
+ACT| A beat. Cornelius goes still.
+CHAR| CORNELIUS
+DLG| How do you know that name?
+CHAR| ESTHER
+DLG| Mama told me. In 2019. She said, "Your father keeps a binder in the safe behind the bridge. If he ever threatens you with it, remember I told you first."
+ACT| Cornelius looks toward the open study door. The empty hallway. Lorraine is nowhere in sight. He turns back to the phone.
+CHAR| CORNELIUS
+DLG| Your mother talks too much.
+CHAR| ESTHER
+DLG| Mama talks exactly enough.
+CHAR| CORNELIUS
+DLG| Then she can tell you this, too, since she's so well informed. Here is what happens. Your husband withdraws. He goes back on his little Instagram and says it was a bit for the child's birthday. Everyone laughs. In a week, nobody remembers. You come home to Atlanta, you reconsider your answer, and the Smilley name goes back on a ballot where it belongs. And that binder goes back in the safe and stays there forever.
+CHAR| ESTHER
+DLG| And if he doesn't?
+CHAR| CORNELIUS
+DLG| Then by Memorial Day, every page goes to people who know exactly what to do with it.
+CHAR| ESTHER
+DLG| What people?
+ACT| Cornelius glances at the overnight bag by the door. The boarding pass printout on top: "ATL → DCA — FRI APR 21 — 2:05 PM."
+CHAR| CORNELIUS
+DLG| People who will be very grateful.
+CHAR| ESTHER
+DLG| Republicans.
+CHAR| CORNELIUS
+DLG| Whoever can use it.
+CHAR| ESTHER
+DLG| You. Cornelius Smilley. Lifelong Democrat. Congressman. You'd hand oppo research on a Democratic candidate to the Republican Party.
+CHAR| CORNELIUS
+DLG| I'd hand it to the devil himself if he promised to burn it right.
+ACT| Esther stands up out of the chair. She's shaking, but her voice isn't.
+CHAR| ESTHER
+DLG| Then let me tell YOU something, since we're sharing. I know about Harlan Whitfield. I know you told him to retire. I know Jamal Whitfield starts at Smilley Strategies in June. I know you promised Harlan an Emory seminar with his name on the door. And I know where the money for Jaxon Wilde's podcast came from. A Delaware LLC, two shell companies, and a lobbying client of yours who owed you a favor.
+ACT| On his end, Cornelius sits down very slowly.
+CHAR| CORNELIUS
+DLG| Who told you that?
+CHAR| ESTHER
+DLG| It doesn't matter.
+CHAR| CORNELIUS
+DLG| Was it Simone? Was it your brother? Neil couldn't find a shell company with a map and a flashlight —
+CHAR| ESTHER
+DLG| It doesn't MATTER, Daddy. What matters is I know. And if you send one page of that binder to anyone, I'll make sure every reporter in America knows exactly whose money is behind the podcast and exactly how Harlan Whitfield's seat opened up.
+ACT| A long, dangerous silence. Then Cornelius laughs. Low. Humorless.
+CHAR| CORNELIUS
+DLG| Prove it.
+CHAR| ESTHER
+DLG| I don't have to prove it. I just have to say it. And people believe me. That's the whole thing you built me for, isn't it? America's sweetheart. Shirley Temple. People believe me.
+CHAR| CORNELIUS
+DLG| People believed Shirley Temple, too. Until she grew up.
+ACT| Esther doesn't flinch.
+CHAR| CORNELIUS
+DLG| And since we're talking about who people believe, let's talk about your daughters.
+ACT| Esther freezes.
+CHAR| ESTHER
+DLG| ...What?
+CHAR| CORNELIUS
+DLG| May tenth, 2012. Cedars-Sinai. Two baby girls, born to a nineteen-year-old Donohue Channel star who was not married. Conceived, by my arithmetic, in the summer of 2011, when she was eighteen years old, at a party at the Donohue house in Holmby Hills. While her father was told she was at a summer acting intensive in New York.
+CHAR| ESTHER
+PAR| (barely audible)
+DLG| Stop.
+CHAR| CORNELIUS
+DLG| And when those babies were born, Natasha Bullock's lawyers made two labor-and-delivery nurses sign nondisclosure agreements so the press wouldn't find out for eleven months. I have copies of those agreements, Esther. I've had them since 2014.
+CHAR| ESTHER
+DLG| Daddy, stop.
+CHAR| CORNELIUS
+DLG| So imagine how that plays. The "family values" candidate. The man with "Republican values." The great father. And it turns out his family started with a pregnant teenager, a cover-up, and two nurses paid to keep quiet. Imagine Fox News with that. Imagine your little friend Jaxon with that.
+PAR| (beat, softer, worse)
+DLG| Imagine Emma reading it. On her phone. In middle school. Imagine what the other girls say to her at lunch.
+ACT| Esther makes a sound she has never made in her life: half breath, half something animal. She grips the back of the chair.
+CHAR| ESTHER
+DLG| You leave my daughters out of this.
+CHAR| CORNELIUS
+DLG| They're my granddaughters.
+CHAR| ESTHER
+DLG| NOT ANYMORE.
+ACT| It echoes off the library walls. In the hallway, Marc's footsteps, running.
+CHAR| ESTHER
+PAR| (into the phone, shaking, ferocious)
+DLG| You listen to me, Cornelius Smilley. If you ever, EVER use my children as a weapon, if one word about how they were born comes out of you or your binder or your podcast or your Republican friends, I will stand on every stage in America and tell them exactly who you are. I'll tell them everything. And I won't need a binder. I'll just need a microphone. And you taught me how to use one.
+CHAR| CORNELIUS
+PAR| (ice)
+DLG| And who am I, Esther? Tell me. Since you know everything.
+ACT| The library door bursts open. Marc. He stops in the doorway. Esther holds up one hand: stay there. He stays.
+ACT| Esther looks at the phone. When she speaks, her voice drops to almost nothing. Almost gentle. That makes it worse.
+CHAR| ESTHER
+DLG| You're a sixteen-year-old boy at his big brother's funeral, Daddy. That's all you've ever been. You never forgave Joan Mercer for leaving Uncle Thaddeus. You never forgave the Donohues for making the movie. And you'll never forgive me for marrying the grandson of the woman who broke your brother's heart.
+PAR| (beat)
+DLG| It was never about me. It was never about the seat. It was always about Thaddeus.
+ACT| On Cornelius's end, a long, horrible silence.
+ACT| His hand, on the desk, slowly reaches out and touches the edge of the photograph. Thaddeus and Joan, laughing on the Capitol steps.
+ACT| When he speaks, his voice cracks right down the middle, and the rage pours out through the crack.
+CHAR| CORNELIUS
+DLG| DON'T YOU EVER SAY HIS NAME. You don't know ANYTHING about him. You don't know what they did, you don't know what it did to this family, to your grandmother, to me, you weren't THERE, you were never THERE —
+ACT| A click on the line. A second extension picking up.
+CHAR| LORRAINE (V.O.)
+PAR| (on the extension, calm, cold)
+DLG| Cornelius. That's enough.
+ACT| Cornelius whirls toward the study door. Down the hall, in the kitchen, Lorraine stands with the old wall phone pressed to her ear, still in her robe.
+CHAR| CORNELIUS
+DLG| Get off the line, Lorraine.
+CHAR| LORRAINE (V.O.)
+DLG| No.
+CHAR| CORNELIUS
+DLG| GET OFF THE LINE.
+CHAR| LORRAINE (V.O.)
+DLG| I've been on this line since "Good morning, Daddy." Thirty-nine years I've let you talk to our children any way you wanted. I'm done. Esther, baby. I'm here.
+CHAR| ESTHER
+PAR| (tears finally coming)
+DLG| Mama.
+CHAR| LORRAINE (V.O.)
+DLG| You did nothing wrong. You hear me? You did nothing wrong in 2012, and you did nothing wrong today. Those girls are a blessing. They were always a blessing.
+CHAR| CORNELIUS
+DLG| Lorraine, I swear to God —
+CHAR| LORRAINE (V.O.)
+DLG| Don't swear to God in your mother's house, Cornelius. She's upstairs. She can hear you. The whole street can hear you.
+ACT| Cornelius stands frozen in the middle of his study. Then, without another word, he hangs up.
+ACT| The line goes dead on Esther's end. Then, a moment later, it clicks again: just Lorraine.
+CHAR| LORRAINE (V.O.)
+DLG| Is Marc there?
+CHAR| ESTHER
+DLG| He's here.
+CHAR| LORRAINE (V.O.)
+DLG| Put him on.
+ACT| Marc crosses the room. Kneels by the side table. Picks up the phone.
+CHAR| MARC
+DLG| Mrs. Smilley.
+CHAR| LORRAINE (V.O.)
+DLG| He's flying to Washington at two o'clock. He's meeting someone tomorrow morning. A Republican. I don't know who. I heard him on the phone at midnight. He said "I'll bring the file."
+ACT| Marc closes his eyes.
+CHAR| LORRAINE (V.O.)
+DLG| I'm not on your side, Marc. I want you to understand that. I'm on HER side. And right now, her side and your side are the same side. That's the only reason I'm telling you.
+CHAR| MARC
+DLG| I understand.
+CHAR| LORRAINE (V.O.)
+DLG| Protect my daughter. Protect those babies. And don't you dare let him see you flinch. He feeds on it.
+ACT| Click.
+ACT| Marc sets the phone down. Esther is standing in the middle of the library with her arms wrapped around herself. He crosses to her and folds her into his arms, and she finally breaks, completely, the way she hasn't since she was nineteen.
+ACT| He holds her. For a long time. The only sound is the clock on the mantel.
+CHAR| ESTHER
+PAR| (muffled, into his chest)
+DLG| He threatened the girls, Marc. He said Emma. He said Emma by name. Middle school. The lunch table.
+ACT| Over her head, Marc's face does something nobody has ever seen it do. Not on camera. Not in twenty years. Not at the Oscars, not on the tarmac, not on the couch on New Year's. The warmth goes out of it entirely. What's underneath is very quiet and very, very still.
+CHAR| MARC
+DLG| He said Emma.
+CHAR| ESTHER
+DLG| He has the NDAs. The nurses. From 2012. Your mother's lawyers —
+CHAR| MARC
+DLG| I know about the NDAs.
+ACT| Esther pulls back. Looks at him.
+CHAR| MARC
+DLG| I found out in 2014. Mama told me after the fact. I was furious. I made her void them. Both nurses got letters releasing them. And a check. And an apology from me personally.
+CHAR| ESTHER
+DLG| You never told me.
+CHAR| MARC
+DLG| You'd just had twins and your father wasn't speaking to you. I didn't want you to carry one more thing.
+PAR| (beat)
+DLG| That was wrong. I should've told you. I'm telling you now.
+ACT| Esther stares at him. Then she laughs, a wet, broken, disbelieving sound.
+CHAR| ESTHER
+DLG| You fixed it. Nine years ago. Before he could even use it.
+CHAR| MARC
+DLG| I fixed the part I could fix.
+ACT| He wipes her face with his thumbs.
+CHAR| MARC
+DLG| Here's what we do. We don't wait for him. We don't wait for Memorial Day. We tell it first. Ourselves. Our way. You and me. The whole story. Nineteen and scared. The NDAs and why they were wrong. The nurses, if they want to talk. And the two best things that ever happened to us.
+CHAR| ESTHER
+DLG| Marc. That's our daughters' story.
+CHAR| MARC
+DLG| Which is exactly why it's going to be told by people who love them. Not by him.
+ACT| Esther looks at him for a long time.
+CHAR| ESTHER
+DLG| We ask the girls first.
+CHAR| MARC
+DLG| We ask the girls first.
+ACT| A knock on the open door. Dante Reyes, in the doorway. Calm. Professional. His jaw is very tight.
+CHAR| DANTE
+DLG| Sir. Ma'am. I'm sorry. I heard part of that. The door was open.
+CHAR| MARC
+DLG| It's okay, Dante.
+CHAR| DANTE
+DLG| With respect, sir, it isn't. A family member just made an explicit threat involving your minor children. I'm required to log it. I'm going to increase coverage at the girls' school starting Monday. And I'd like your permission to find out who Mr. Smilley is meeting tomorrow.
+CHAR| MARC
+DLG| Legally.
+CHAR| DANTE
+DLG| Always legally, sir. I was Secret Service for eleven years. I know how to find out who's eating breakfast with whom in Washington without breaking a single law.
+ACT| Marc looks at Esther. She nods once.
+CHAR| MARC
+DLG| Do it.
+ACT| Dante nods and disappears. Marc turns back to Esther.
+CHAR| MARC
+DLG| One more thing.
+CHAR| ESTHER
+DLG| What?
+ACT| He takes a folded piece of notebook paper out of his pocket. Emma's twelve-point plan. He unfolds it. Points to number one.
+ACT| INSERT — EMMA'S PLAN: "1. Be nice to everybody (even Grandpa Cornelius)."
+ACT| Footnote: "(Especially Grandpa Cornelius. He is sad.)"
+ACT| Esther reads it. Covers her mouth.
+CHAR| MARC
+DLG| She's ten. And she's right. He is sad. He's the saddest man I've ever met.
+PAR| (beat)
+DLG| We're still going to beat him. But we're going to be nice about it.
+ACT| Esther laughs through her tears. She can't help it.
+CHAR| ESTHER
+DLG| You're insane.
+CHAR| MARC
+DLG| I'm a presidential candidate. It's the same thing.
+PAGE|
+
+SUB| TIME JUMP
+
+SLUG| MONTAGE — APRIL 21 TO AUGUST 21, 2023 — HEADLINES, POSTS, AND MOMENTS
+
+HEAD| THE NEW YORK TIMES — SAT, APR 22 | Bullock's Day One: $31 Million, a Blind Trust, and a Campaign Built Overnight
+ACT| — SATURDAY, APRIL 22, 8:30 AM EDT. A private dining room at the Hay-Adams hotel, across Lafayette Square from the White House. Through a window: Cornelius Smilley, and across from him WES THORNTON (44), Ohio GOP strategist, eating eggs Benedict. Between them on the tablecloth: a thick binder. Across the square, on a park bench, a man in a Nationals cap reading a newspaper takes a single photograph with his phone. It's one of Dante's old Secret Service colleagues. Retired. Legal. Very patient.
+HEAD| POLITICO — TUE, APR 25 | Biden Launches Re-Election Bid: "Let's Finish the Job" | The President's video, five days after Bullock's announcement, makes no mention of his newest challenger.
+HEAD| THE WASHINGTON POST — APR 26 | First poll of Democrats since Bullock's entry: Biden 52%, Bullock 29%, Kennedy 11%
+HEAD| DEADLINE — TUE, MAY 2 | Writers Guild Goes on Strike for the First Time Since 2007
+ACT| — TUESDAY, MAY 2, 10:00 AM PDT. Outside the Donohue Studios main gate in Burbank. A picket line of writers in red WGA t-shirts. And among them, carrying a sign that reads "PAY THE WRITERS (MY MOM KNOWS WHY)": Marc. Upstairs, in the executive tower, Natasha watches from her window. She doesn't close the blinds. At noon she sends down two hundred lunches. No note. Everyone knows.
+POST| Twitter | @WGAWest | Spotted on the line in Burbank this morning: a SAG-AFTRA member and presidential candidate, picketing his mother's studio. Solidarity looks like this. | 112K Retweets · 690K Likes
+HEAD| VARIETY — MAY 3 | Natasha Bullock Sends Lunch to Picketers — Including Her Son — Outside Donohue Studios
+ACT| — WEDNESDAY, MAY 10. Sunrise Hill. The twins' 11th birthday. Before the cake, before the presents, Marc and Esther sit with Emma and Victoria on the floor of their room and tell them the whole story. How they were born. How young their parents were. How scared. How happy. And that some people might try to make it ugly. Victoria listens, then asks if this means she's "technically a scandal." Emma asks if she can write the footnotes.
+HEAD| PEOPLE — MON, MAY 15 | EXCLUSIVE: Marc-Anthony and Esther Bullock Tell Their Story — "We Were 19 and Terrified. We'd Do It All Again." | In a joint interview, the couple reveals the twins' 2012 birth, the NDAs the actor later voided and personally apologized for, and the day Esther's father stopped speaking to her.
+HEAD| THE ATLANTA JOURNAL-CONSTITUTION — MAY 16 | Cornelius Smilley Declines Comment on Daughter's Revelations
+POST| Twitter | @TheBullpenDaily — MAY 15 | They told the whole story themselves. The NDAs, the age, everything. And he apologized to the nurses in 2014?? Whoever was planning to use this as oppo just lost their whole bag. | 71K Retweets · 402K Likes
+POST| Twitter | @SimoneSmilley — MAY 15 | Proud of my sister. That's all I'm going to say. That's all anyone in my family is going to say, apparently. | 54K Retweets · 380K Likes
+ACT| — MONDAY, MAY 29, MEMORIAL DAY. Cornelius's study. He sits with the binder open to the tab "2012 — PREGNANCY." Every page in it is now public, told better, by the people in it. He closes the tab. Very slowly, he takes the pages out and feeds them one by one into a shredder. Then he opens the next tab: "2017 — THE ROAST." He does not shred that one.
+HEAD| POLITICO — SAT, JUN 3 | Biden Signs Debt Ceiling Deal, Averting Default
+HEAD| AP — THU, JUN 8 | Trump Indicted on Federal Charges Over Classified Documents
+HEAD| THE HILL — JUN 21 | Bipartisan Group of House Members Introduces Amendment to Lower Presidential Age Requirement | Sponsors cite the 26th Amendment and Biden's own Senate election at 29 as precedent; the measure faces long odds.
+HEAD| POLITICO — SAT, JUL 15 | Bullock Raises $214 Million in Second Quarter From 4.1 Million Donors — More Than Biden Campaign and DNC Combined | Bullock's charity match has sent an estimated $214 million to more than 38,000 U.S. zip codes.
+HEAD| DEADLINE — FRI, JUL 14 | SAG-AFTRA Joins Writers on Strike; Hollywood Shuts Down
+ACT| — JULY 14. Outside Donohue Studios again. Now there are thousands of picketers. Marc, Esther, Amond, Harmony, Grace, Tayia, Arianna, and Tyler, all on the line. Even Tyrese, in a hat and sunglasses, carrying a sign that says only "SAG." Natasha sends lunch again. This time, the note is signed: "— Mom."
+HEAD| AP — TUE, AUG 1 | Trump Indicted in Federal Election Interference Case
+HEAD| AP — AUG 9 | Maui Wildfire Death Toll Climbs as Lahaina Is Leveled
+POST| Instagram | @marcanthonybullock — AUG 10 | [Photo: pallets of water and medical supplies on a tarmac at Kahului Airport. No faces.] Caption: No speech. No campaign logo. Just help. Donate to the Hawaii Community Foundation's Maui Strong Fund. That's it. That's the post. | 22M likes
+HEAD| THE ATLANTA JOURNAL-CONSTITUTION — MON, AUG 14 | Fulton County Grand Jury Indicts Trump, 18 Others in Georgia Election Case
+HEAD| CNN — WED, AUG 16 | CNN to Host First Democratic Primary Debate in Atlanta on August 22; Biden Campaign Declines to Participate | Bullock, Kennedy, and Williamson qualify. The DNC says it "will not sanction primary debates against an incumbent," but won't penalize candidates who attend.
+HEAD| THE NEW YORK TIMES — AUG 16 | Biden Will Skip Debate, Citing Tradition of Incumbents Not Debating Primary Challengers | Aides point to President Carter's refusal to debate Senator Edward Kennedy in 1980.
+HEAD| FOX NEWS — AUG 17 | Trump Confirms He Will Skip First GOP Debate in Milwaukee: "The Public Knows Who I Am"
+POST| Twitter | @PattiGrove | Both parties' frontrunners skipping their first debates in the same week. Somebody tell the podiums they're not being personally rejected. Our guy will be there. In a suit. Probably. | 31K Retweets · 177K Likes
+PAGE|
+
+SUB| PART THREE — "THE MORNING AFTER THE DEBATES"
+
+SLUG| INT. ABC NEWS — "GOOD MORNING AMERICA" — TIMES SQUARE STUDIO — NEW YORK CITY — MORNING
+SUPER| THURSDAY, AUGUST 24, 2023 — 7:00 AM EDT / 4:00 AM PDT
+SUPER| 126 DAYS AFTER "BET."
+ACT| Times Square through the studio windows, already crowded at 7 AM. Tourists press against the glass holding signs: "HI MOM," "BET.," and one that says "BULLOCK 2024 (WHEN HE'S OLD ENOUGH)."
+ACT| At the desk: GEORGE STEPHANOPOULOS (62), ROBIN ROBERTS (62), and MICHAEL STRAHAN (51).
+CHAR| ROBIN ROBERTS
+DLG| Good morning, America. It is Thursday, August twenty-fourth. And what a week it has been in politics. Two debates, two nights, two empty podiums.
+CHAR| MICHAEL STRAHAN
+DLG| And tonight, history: a former President of the United States is expected to surrender at a county jail in Atlanta.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| A lot to get to. Let's start with the debates. Because for the first time this cycle, Americans got to see the candidates side by side. Twice. And on both nights, the frontrunners didn't show up.
+CHYRON| DEBATE WEEK: BULLOCK DOMINATES DEM DEBATE — RAMASWAMY, HALEY BREAK OUT IN MILWAUKEE
+
+SLUG| INT. SMILLEY HOUSE — KITCHEN — ATLANTA — SAME TIME
+SUPER| 7:01 AM EDT
+ACT| Not the parlor this time. The kitchen. Odessa (94) at the breakfast table with grits and a small TV on the counter. Lorraine (61) at the stove. The room feels different. Lighter. Cornelius's chair at the head of the table is empty. Since April, Cornelius has been taking breakfast in his study.
+CHAR| ODESSA
+DLG| Turn it up, Lorraine. They're talking about my grandson-in-law.
+CHAR| LORRAINE
+DLG| Mother Smilley, you've never once called him that.
+CHAR| ODESSA
+DLG| I've never once had to. He was just "that boy." Then Tuesday night he came to Atlanta and stood on a stage at Morehouse and made Bobby Kennedy look like a substitute teacher. Now he's my grandson-in-law. Turn it up.
+
+SLUG| BACK TO: "GOOD MORNING AMERICA"
+CHAR| GEORGE STEPHANOPOULOS
+DLG| Tuesday night, here in Georgia, the first Democratic primary debate of the cycle, hosted by CNN at Morehouse College in Atlanta. President Biden declined to participate, which isn't unusual for an incumbent. So the stage belonged to three challengers: Robert F. Kennedy Jr., author Marianne Williamson, and the candidate who's been at the center of this race since a birthday party in April.
+ACT| Footage: The stage at Morehouse's Martin Luther King Jr. International Chapel. Three podiums. Moderators JAKE TAPPER (54) and DANA BASH (52). The audience packed with Morehouse men in maroon and Spelman women in blue, and in the second row, on the aisle, a man in a navy suit with his arms folded: Cornelius Smilley.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| An estimated thirty-one million people watched, a record for a primary debate, surpassing the twenty-four million who watched the first Republican debate in 2015. And by nearly every measure, Marc-Anthony Bullock, still thirty-one, still constitutionally ineligible, won it.
+
+SLUG| FLASHBACK — INT. MARTIN LUTHER KING JR. INTERNATIONAL CHAPEL — MOREHOUSE COLLEGE — ATLANTA — NIGHT
+SUPER| TUESDAY, AUGUST 22, 2023 — 9:04 PM EDT
+ACT| The stage. Bright lights. Marc (31) at center podium in a navy suit that fits like it was sewn onto him, no tie, a tiny enamel bluebird pin on his lapel. To his right, ROBERT F. KENNEDY JR. (69), lean, intense, his voice a rasp. To his left, MARIANNE WILLIAMSON (71), elegant, unafraid, with the energy of a preacher who has read a lot of Rumi.
+CHAR| JAKE TAPPER
+DLG| Mr. Bullock, let's start with the obvious question, the one you've been asked a thousand times since April. You're thirty-one years old. The Constitution says thirty-five. Why should Democratic voters support a candidate who, as of today, can't legally serve?
+ACT| Marc nods. Smiles. Looks out at the audience.
+CHAR| MARC
+DLG| Jake, thank you, and thank you to Morehouse for having us. I've got family in this audience tonight, and I want to say hello to them.
+ACT| A beat. He looks straight at the second row. At Cornelius. Cornelius doesn't move.
+CHAR| MARC
+DLG| Hi, Dad.
+ACT| A ripple of laughter. Some of the audience knows exactly who he's talking to. Cornelius's face is stone.
+CHAR| MARC
+DLG| Here's my answer. In November 1972, a young man in Delaware was elected to the United States Senate at twenty-nine years old. The Constitution said thirty. Everybody said he was too young. He turned thirty two weeks after the election, he was sworn in that January, and he went on to serve thirty-six years in the Senate, eight as Vice President, and now he's President of the United States.
+PAR| (beat)
+DLG| Joe Biden was the "too young" guy once. Somebody gave him a chance. I'm asking for the same chance. And if he were here tonight, I'd thank him for proving my point.
+ACT| The audience ERUPTS. Applause, whooping. Tapper tries to move on and has to wait.
+CHAR| JAKE TAPPER
+DLG| But the Senate is thirty, and he was twenty-nine for two weeks. You'll be thirty-three on Inauguration Day. That's two years. It requires a constitutional amendment.
+CHAR| MARC
+DLG| Then I'll get one. There's a bipartisan joint resolution sitting in the House right now. Republicans and Democrats. And I'll campaign for it in every state legislature in America.
+PAR| (a grin)
+DLG| Look, Joe Biden's eighty. I'm thirty-one. Average us out, you get fifty-five and a half, which, honestly, is the perfect age for a President.
+ACT| Huge laughter. Even Williamson laughs. Kennedy doesn't.
+ACT| Later in the debate. Dana Bash turns to Kennedy.
+CHAR| DANA BASH
+DLG| Mr. Kennedy. You've said Mr. Bullock is, quote, "the corporate media's candidate." Explain.
+CHAR| RFK JR.
+PAR| (rasping, precise, not nerfed for a second)
+DLG| Thank you, Dana. I'll explain. This young man owns twelve percent of the largest media company on earth. That company owns ABC News. ESPN. A hundred-year-old propaganda machine that has shaped what Americans think since before my father was born. He says he put it in a "blind trust." Fine. But his mother runs the company. His grandfather chairs it. Every night, the network that covers him is run by his family. You want to talk about capture? There is no candidate in American history more captured by a corporation than Marc-Anthony Bullock. He IS the corporation.
+ACT| A real silence. It's a strong hit. Everyone in the room knows it. Cornelius, in the second row, unfolds his arms for the first time all night.
+ACT| Marc doesn't laugh. Doesn't joke. He turns and looks at Kennedy with genuine respect.
+CHAR| MARC
+DLG| Bobby, that's a fair hit. I mean it. That's a real question, and voters deserve a real answer.
+PAR| (to the audience)
+DLG| Here's my real answer. Everything Bobby just said is true. My family runs a company that's too big. I've said that. I'll say it again. If I'm President, my administration will review Donohue Entertainment exactly the way it'll review every other giant company in this country, with the same antitrust standards, and I'll recuse myself from every single decision. And if my mother hates me for it, she can tell me at Thanksgiving. She'll still make the mac and cheese. She's a professional.
+ACT| Laughter. But it's warm now, not mocking. Kennedy nods slightly. He knows he's been out-maneuvered without being insulted.
+CHAR| MARC
+DLG| And Bobby, I want to say one more thing. Your father ran for President in 1968 because he thought the country was broken, and he wanted to fix it. I'm running for the same reason. You and I disagree about a lot. Vaccines, for one. I'm vaccinated, my kids are vaccinated, and I'll say that on every stage I stand on. But I will never question why you're up here. I know why you're up here. Same reason I am.
+ACT| Kennedy, after a long beat, gives him a small, grudging nod. On social media, the moment goes viral as "the most civil exchange in a presidential debate in a decade."
+ACT| Later still. Dana Bash to Marc.
+CHAR| DANA BASH
+DLG| Mr. Bullock. You've chartered jets in violation of federal aviation rules. You imported baby formula before FDA approval. You moved PPE through customs in ways the government flagged. Your supporters call it "the Marc Move." Your critics say you believe the law doesn't apply to you. If you're President, which laws will you break?
+ACT| The hardest question of the night. Marc takes a breath.
+CHAR| MARC
+DLG| Dana, I've broken rules. I'm not going to stand up here and pretend I haven't. And I'd do every one of them again. I'd fly every grandma home. I'd fly every can of formula in. Because a law that stops a baby from eating isn't a law, it's a mistake somebody forgot to fix.
+PAR| (beat)
+DLG| But here's the difference. As a private citizen, when I break a rule, I pay the fine. I hang the letter on my wall. I take the consequences. As President, I don't get to break the rules. I get to CHANGE them. Legally. Through Congress. That's the whole point. That's why I'm running. I've spent my whole life working around broken rules. I want to spend the next eight years fixing them.
+ACT| Applause. Long applause.
+ACT| Later. Tapper asks about Donald Trump's indictments.
+CHAR| MARC
+DLG| I'm not going to talk about Donald Trump's legal troubles tonight. He's turning himself in Thursday at the Fulton County Jail, which, by the way, is about four miles from this stage. So if you're in Atlanta, Thursday, maybe avoid Rice Street.
+ACT| Big laughter.
+CHAR| MARC
+DLG| No, look. I'll say this. I think he should get the same justice as anybody else. No more, no less. And I hope when he's in that booking room, somebody's nice to him. Because I think a lot of what's wrong with this country is that we stopped being nice to each other, even the people we can't stand.
+PAR| (beat)
+DLG| ...And then I hope he gets a really bad mugshot angle. I'm not a saint.
+ACT| The room DIES laughing. Williamson is wiping her eyes. Kennedy laughs despite himself. Dana Bash has to look down at her notes.
+ACT| Closing statements. Marianne Williamson, given the last word before Marc, delivers something genuinely moving: about love as a political force, about poverty as a moral crisis, about children going hungry in the richest nation in history. The audience gives her a standing ovation. Marc applauds her the whole time.
+ACT| Then Marc.
+CHAR| MARC
+DLG| Four months ago, a nine-year-old girl in a Bills hat asked me why I couldn't fix it. I didn't have an answer. I still don't have all of them. Nobody does. But I've got four million people who've given an average of twenty-nine dollars to help me find them. I've got Republicans in Midland, Texas whose food banks are funded because they took a chance on me. And I've got a goddaughter who's going to grow up in whatever country we build.
+PAR| (beat)
+DLG| Marianne just said love is a political force. She's right. And I'll add one thing. Love isn't soft. Love is the hardest thing there is. Love is getting up every day and fixing what's broken even when everybody tells you it can't be fixed.
+PAR| (beat, a small smile)
+DLG| They told me I'm too young. They told me it's impossible. They told me Joe Biden won't debate me.
+PAR| (beat)
+DLG| Bet.
+ACT| The audience, every single person, Morehouse men and Spelman women and Atlanta church ladies and political reporters, comes to its feet. A chant starts in the back of the chapel and rolls forward like a wave:
+CHAR| AUDIENCE
+DLG| BET! BET! BET! BET!
+ACT| In the second row, Cornelius Smilley is the only person in the chapel still sitting.
+ACT| Two rows behind him, unseen, Lorraine Smilley stands. And chants.
+
+SLUG| BACK TO: "GOOD MORNING AMERICA" — STUDIO
+SUPER| 7:09 AM EDT
+CHAR| GEORGE STEPHANOPOULOS
+DLG| A CNN instant poll of debate watchers found sixty-one percent said Bullock won the debate, twenty-two percent said Kennedy, eleven percent said Williamson. The campaign says it raised more than eighteen million dollars during and immediately after the debate.
+CHAR| ROBIN ROBERTS
+DLG| And that Biden line, "the too young guy once," has been viewed more than ninety million times.
+CHAR| MICHAEL STRAHAN
+DLG| I gotta say, George, that mugshot joke. I saw it six times on my phone before I went to bed.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| The Biden campaign, for its part, put out a statement yesterday saying the President is, quote, "focused on governing, not on debates with candidates who are not constitutionally eligible to serve." The President, vacationing at Lake Tahoe, smiled at reporters' shouted questions about Bullock and kept walking.
+ACT| Strahan laughs.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| Then, last night, the Republicans.
+
+SLUG| MONTAGE — FISERV FORUM — MILWAUKEE, WISCONSIN — WEDNESDAY, AUGUST 23, 2023 — 9:00 PM EDT (8:00 PM CDT)
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| In Milwaukee, Fox News hosted the first Republican debate. Eight candidates on stage, moderated by Bret Baier and Martha MacCallum. The frontrunner, Donald Trump, skipped it, and released a taped interview with former Fox host Tucker Carlson on X at exactly the same time.
+ACT| Footage: Eight podiums. RON DeSANTIS (44) at center. VIVEK RAMASWAMY (38), NIKKI HALEY (51), MIKE PENCE (64), CHRIS CHRISTIE (60), TIM SCOTT (57), DOUG BURGUM (67), ASA HUTCHINSON (72). Moderators BRET BAIER (53) and MARTHA MacCALLUM (59).
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| The breakout star, by most accounts, was thirty-eight-year-old entrepreneur Vivek Ramaswamy, who drew fire from nearly everyone on stage. Former Vice President Mike Pence told him, "Now is not the time for on-the-job training." Former New Jersey Governor Chris Christie said he'd "had enough already tonight of a guy who sounds like ChatGPT."
+ACT| Footage: Christie, then boos from the crowd. Ramaswamy, grinning, unbothered.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| Former U.N. Ambassador Nikki Haley had perhaps the night's most memorable lines, calling Trump "the most disliked politician in America," and telling Ramaswamy, "You have no foreign policy experience, and it shows."
+ACT| Footage: The moment the candidates were asked to raise their hands if they would support Trump as the nominee even if he were convicted. One by one, hands go up. Ramaswamy's first. DeSantis glances left and right before raising his. Christie's wavers. Hutchinson's never rises.
+CHAR| GEORGE STEPHANOPOULOS (V.O.)
+DLG| And the moment that may define the night: almost every candidate on that stage raised a hand to say they'd support Trump as the nominee even if he's convicted. Florida Governor Ron DeSantis, who was in second place, had a steady night but no breakout moment.
+CHYRON| GOP DEBATE: RAMASWAMY TAKES FIRE — HALEY SHINES — DESANTIS STEADY — TRUMP SKIPS, AIRS TUCKER INTERVIEW
+
+SLUG| INT. "GOOD MORNING AMERICA" — STUDIO — CONTINUOUS
+SUPER| 7:14 AM EDT
+ACT| George moves to a large touchscreen. Polling graphics.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| So where does it all stand this morning? Let's start with the Democrats. Our ABC News/Washington Post poll, completed before the debate, among Democratic and Democratic-leaning voters:
+ACT| GRAPHIC — DEMOCRATIC PRIMARY (NATIONAL): BIDEN 44% · BULLOCK 37% · KENNEDY 10% · WILLIAMSON 3% · UNDECIDED 6%
+CHAR| GEORGE STEPHANOPOULOS
+DLG| A seven-point race. In April, the President led by twenty-three. And under the hood, a generational divide like nothing we've seen in a Democratic primary in modern history. Among Democrats under forty-five: Bullock leads, sixty-one to twenty-four. Over sixty-five: Biden leads, sixty-eight to twenty. And among Black Democrats, the core of the President's coalition: Biden fifty-two, Bullock forty. Bullock is closing fastest with younger Black voters.
+ACT| A map of the early-state calendar: SOUTH CAROLINA — FEB 3. NEVADA — FEB 6. MICHIGAN — FEB 27. NEW HAMPSHIRE — UNSANCTIONED, JAN 23.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| The DNC moved South Carolina to the front of the calendar, February third, at the President's request, because it's where he won in 2020. That firewall is now the battleground. A Winthrop University poll in South Carolina last week: Biden fifty-one, Bullock thirty-eight.
+ACT| Next graphic.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| The Republicans. Even after four indictments, ninety-one felony counts, and skipping the debate, Donald Trump remains the overwhelming frontrunner:
+ACT| GRAPHIC — REPUBLICAN PRIMARY (NATIONAL AVERAGE): TRUMP 53% · DESANTIS 14% · RAMASWAMY 10% · HALEY 6% · PENCE 5% · SCOTT 3% · CHRISTIE 3% · BURGUM 1% · HUTCHINSON <1%
+CHAR| GEORGE STEPHANOPOULOS
+DLG| Expect Ramaswamy and Haley to tick up after last night. DeSantis, who entered in May with enormous expectations, has drifted from the high twenties to the low teens.
+ACT| Final graphic. Two columns. Head-to-head matchups.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| And the general election. Biden versus Trump: a dead heat, forty-four to forty-four. And this is the number that has Washington talking. When we ask voters about a hypothetical Bullock versus Trump race, setting aside the age question...
+ACT| GRAPHIC — HYPOTHETICAL GENERAL: BULLOCK 51% · TRUMP 41%
+CHAR| GEORGE STEPHANOPOULOS
+DLG| ...Bullock leads by ten. Including twenty-two percent of Republicans who say they'd consider him.
+ACT| Robin lets out a low whistle.
+CHAR| ROBIN ROBERTS
+DLG| Ten points.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| With one enormous asterisk. Under the Constitution as it stands this morning, he can't serve. The amendment to lower the age requirement has picked up co-sponsors in both parties since June, but it would need two-thirds of Congress and thirty-eight states, and it hasn't had a single committee vote.
+CHAR| MICHAEL STRAHAN
+DLG| So he's leading a race he can't legally win.
+CHAR| GEORGE STEPHANOPOULOS
+DLG| He's leading a race he can't legally win yet. He'd tell you that's the whole campaign.
+
+SLUG| INT. SMILLEY HOUSE — KITCHEN — CONTINUOUS
+SUPER| 7:18 AM EDT
+ACT| Odessa sets down her spoon. Lorraine turns off the stove.
+CHAR| ODESSA
+DLG| Twenty-two percent of Republicans.
+CHAR| LORRAINE
+DLG| Simone says it's the food banks. Republicans in small towns who opened their mailboxes and found checks.
+CHAR| ODESSA
+DLG| It's not the food banks, baby. It's the mugshot joke. It's "I hope somebody's nice to him." That boy said something kind about Donald Trump in front of a room full of Black Atlanta and got a laugh AND a standing ovation. Josiah couldn't have done that. Martin couldn't have done that.
+ACT| A creak in the hallway. Both women turn.
+ACT| Cornelius (65), in the kitchen doorway, fully dressed in a suit at 7:18 AM. A leather portfolio under his arm. He turned sixty-five two weeks ago. Nobody threw a party.
+CHAR| CORNELIUS
+DLG| Martin wouldn't have told a mugshot joke.
+CHAR| ODESSA
+DLG| Martin told plenty of jokes, Cornelius. You were too young to hear them.
+ACT| Cornelius crosses to the coffee pot. Pours a cup. Doesn't sit.
+CHAR| LORRAINE
+DLG| You were at the debate Tuesday night.
+CHAR| CORNELIUS
+DLG| Second row.
+CHAR| LORRAINE
+DLG| I know. I was in the fourth.
+ACT| He freezes, cup halfway to his lips.
+CHAR| LORRAINE
+DLG| I stood up at the end. When they chanted. I stood up and chanted with Morehouse and Spelman and half the church ladies in this city. And you were the only person in that building sitting down.
+CHAR| CORNELIUS
+DLG| I saw.
+CHAR| LORRAINE
+DLG| No, you didn't. You never turned around. You haven't turned around since 1974.
+ACT| A very long silence. Odessa looks at her daughter-in-law with something like awe.
+ACT| Cornelius sets his cup down on the counter. Picks up his portfolio.
+CHAR| CORNELIUS
+DLG| I have a meeting.
+CHAR| ODESSA
+DLG| With who?
+CHAR| CORNELIUS
+DLG| The President's campaign, Mother.
+ACT| Both women go still.
+CHAR| CORNELIUS
+DLG| They've asked me to serve as senior adviser for Southern outreach. South Carolina. Georgia. The Black church. The firewall.
+PAR| (beat)
+DLG| Joe Biden needs someone who knows every pastor in the Carolinas by first name, and which ones owe him a favor. I know them all. I've known them for forty years. And I will not let a Donohue take South Carolina.
+CHAR| LORRAINE
+DLG| Cornelius. He's your son-in-law.
+CHAR| CORNELIUS
+DLG| He's my opponent.
+ACT| He walks out. The front door closes. Not a slam. A click.
+ACT| Odessa and Lorraine sit in silence for a moment.
+CHAR| ODESSA
+DLG| Well. At least he picked the Democrats.
+CHAR| LORRAINE
+DLG| This time.
+
+SLUG| INT. BULLOCK FOR AMERICA HQ — CENTURY CITY, LOS ANGELES — MORNING
+SUPER| THURSDAY, AUGUST 24, 2023 — 6:40 AM PDT / 9:40 AM EDT
+ACT| Four floors of a glass tower in Century City that, four months ago, were empty. Now: three hundred staffers, a bullpen of standing desks, whiteboards covered in state maps, a wall of TVs, a coffee bar with a hand-lettered sign that says "COFFEE: FREE / SLEEP: NOT FOUND." A navy "BET." banner hangs over the elevator bank, against Elxa's explicit orders.
+ACT| In a glass-walled corner office, the war room: Elxa (32), Patti Grove (59), Amond (31), Arianna (30), Grace (29). On a speakerphone in the middle of the table, a call coming in from Atlanta. Dante Reyes (42) in the doorway, holding a printed photograph.
+CHAR| PATTI
+DLG| — Biden's people are going to make South Carolina a wall. Clyburn country. They know it. We know it. Every pastor, every AME presiding elder, every Divine Nine chapter president —
+CHAR| DANTE
+DLG| They just hired him.
+ACT| Everyone turns.
+CHAR| DANTE
+DLG| Cornelius Smilley. Biden campaign. Senior adviser, Southern outreach. Announced eleven minutes ago.
+ACT| He lays the photograph on the table. It's the April photo from Lafayette Square: Cornelius at the Hay-Adams with Wes Thornton and the binder.
+CHAR| DANTE
+DLG| And this is who he had breakfast with in April. Wes Thornton. Ohio GOP. Senate campaigns, super PACs, a lot of very expensive opposition research.
+CHAR| ARIANNA
+DLG| He met with a Republican strategist in April and joined the Democratic incumbent in August.
+CHAR| PATTI
+DLG| He's not on a team. He's on a mission.
+CHAR| GRACE
+DLG| Can we leak the photo?
+CHAR| ELXA
+DLG| No.
+CHAR| GRACE
+DLG| It's a Democratic operative giving oppo to Republicans!
+CHAR| ELXA
+DLG| It's my brother's father-in-law, it's my sister-in-law's daddy, it's my nieces' grandfather, and if we leak it, the story isn't "Cornelius Smilley is a traitor." The story is "Bullock Campaign Attacks Wife's Family." We don't touch it.
+CHAR| PATTI
+DLG| She's right. We hold it. We hold everything. You don't fire your best bullet in August.
+ACT| Marc (31) appears in the doorway behind Dante. In a hoodie, unshaven, holding a bowl of cereal. Some things never change.
+CHAR| MARC
+DLG| What'd I miss?
+CHAR| AMOND
+DLG| Your father-in-law joined Biden.
+ACT| Marc takes this in. Sets down the cereal. Picks up the photograph. Looks at it for a long time.
+CHAR| MARC
+DLG| Is he okay?
+ACT| Everyone stares at him.
+CHAR| PATTI
+DLG| Is he — Marc, the man is building a wall in South Carolina to keep you out of the White House.
+CHAR| MARC
+DLG| I know. I heard. I'm asking if he's okay. He turned sixty-five two weeks ago and nobody threw him a party. Lorraine told Esther.
+PAR| (beat)
+DLG| Grace. Send him a cake.
+CHAR| GRACE
+DLG| ...What?
+CHAR| MARC
+DLG| A cake. Today. To the house in Cascade Heights. A real one, from a real Atlanta bakery. Happy belated sixty-fifth. From the girls. Emma writes the card. She'll know what to say.
+CHAR| PATTI
+DLG| You're sending a birthday cake to the man running the opposition's Southern firewall.
+CHAR| MARC
+DLG| Point one of Emma's plan, Patti. "Be nice to everybody. Especially Grandpa Cornelius." It's footnoted.
+ACT| Patti looks at Elxa. Elxa looks at Patti. A long, exhausted, campaign-manager silence.
+CHAR| PATTI
+DLG| ...Is it always like this?
+CHAR| ELXA
+DLG| Since 1992.
+PAGE|
+
+SUB| TAG
+
+SLUG| EXT. FULTON COUNTY JAIL — RICE STREET — ATLANTA — NIGHT
+SUPER| THURSDAY, AUGUST 24, 2023 — 7:30 PM EDT
+ACT| Sodium lights. Helicopters. A motorcade of black SUVs sweeping up Rice Street past crowds of supporters and protesters held back by barricades. Inside the jail, out of sight, the 45th President of the United States is booked, fingerprinted, and assigned inmate number P01135809. Twenty minutes later, the motorcade leaves for the airport.
+
+SLUG| INT. SMILLEY HOUSE — CORNELIUS'S STUDY — NIGHT
+SUPER| 9:41 PM EDT
+ACT| Cornelius at his desk. On the TV, every network shows the same image: the first mugshot of an American President, released minutes ago. He looks at it with no expression.
+ACT| On the corner of his desk, still in its white bakery box with the lid open: a small round cake. Yellow, with chocolate frosting, the way his mother used to make it. One slice missing.
+ACT| Propped against the box, a card in an eleven-year-old's careful handwriting.
+ACT| INSERT — THE CARD:
+ACT| "Dear Granddaddy, Happy Birthday (late). Daddy says you were sad that nobody had a party. We are sorry. Everybody should have a party. We hope this is the kind of cake you like. Big Mama told us. Love, Emma and Victoria. P.S. from Victoria: Daddy says you are his opponent but we are not. We are just your granddaughters. P.P.S. from Emma: (Footnote: This is true.)"
+ACT| Cornelius reads it again. And again.
+ACT| His phone buzzes. He looks at the screen. "WES THORNTON."
+ACT| He lets it ring. Three times. Four. He looks at the card. At the cake. At the photograph of Thaddeus and Joan, still face-up on the desk.
+ACT| Five rings. Six.
+ACT| He answers.
+CHAR| CORNELIUS
+DLG| Yes.
+CHAR| WES THORNTON (V.O.)
+PAR| (Ohio twang, amused)
+DLG| Well, you've had a hell of a week. Your boy won the debate. Your President's down to seven. And I hear you signed with Biden this morning. Man of many parties, Cornelius.
+CHAR| CORNELIUS
+DLG| Debates aren't votes, Mr. Thornton.
+CHAR| WES THORNTON (V.O.)
+DLG| No. But twenty-two percent of my voters say they'd consider him. That's not a poll. That's a funeral for somebody. I'd like it not to be mine. You still have that file?
+ACT| Cornelius looks at the binder on the shelf behind him. Thinner than it was in April. One tab shredded.
+ACT| Then at the card. "We are just your granddaughters."
+ACT| A long, long silence.
+CHAR| WES THORNTON (V.O.)
+DLG| Cornelius? You there?
+CHAR| CORNELIUS
+PAR| (finally)
+DLG| ...I still have it.
+CHAR| WES THORNTON (V.O.)
+DLG| Then let's talk after Labor Day.
+ACT| Click. Cornelius sets the phone down.
+ACT| He picks up a fork. Takes a bite of the cake. Chews slowly. It's exactly right. It's exactly the way his mother made it in 1965, when his brother was alive and the world hadn't broken yet.
+ACT| His eyes are wet. He doesn't wipe them.
+ACT| On the TV, the mugshot. Behind him, the binder. In front of him, the card.
+ACT| He takes another bite.
+TRANS| SMASH TO BLACK.
+SUPER| END OF CHAPTER FOUR
+
+PAGE|
+SUB| CONTINUITY LEDGER — CHAPTER 4
+ACT| **Timeline:** Thu Apr 20, 2023, 8:05 PM PDT → Fri Apr 21 (campaign built overnight; the call at 7:12 AM PDT) → time jump → Thu Aug 24, 2023, 9:41 PM EDT.
+ACT| **Ages:** Apr 20–21: Marc 31 · Esther 30 · Elxa 32 · Grace 29 · Arianna 30 · Tyler 31 · Tayia 31 · Amond 31 · Tyrese 31 · Cornelius 64 · Lorraine 61 · Patti Grove 59 (b. Feb 2, 1964) · Dante 42. Aug 24: Marc 31 · Esther 30 · Elxa 32 (turns 33 Aug 29) · Grace 29 · Amond 31 · Harmony 31 · Tyrese 32 · Arianna 30 · Twins 11 · Lyric 9 · Natasha 52 · Victor 77 · Odessa 94 · **Cornelius 65 (birthday Aug 8)** · Lorraine 61 · Simone 36 · Wes Thornton 44. Real people (Aug 2023): Biden 80 · Trump 77 · RFK Jr. 69 · Williamson 71 · DeSantis 44 · Ramaswamy 38 · Haley 51 · Pence 64 · Christie 60 · Scott 57 · Burgum 67 · Hutchinson 72 · Tapper 54 · Bash 52 · Baier 53 · MacCallum 59 · Stephanopoulos 62 · Roberts 62 · Strahan 51.
+ACT| **Real events:** Biden's launch "Let's Finish the Job" (Apr 25); WGA strike (May 2); debt-ceiling deal signed (Jun 3); Trump federal documents indictment (Jun 8); SAG-AFTRA strike (Jul 14); Trump Jan. 6 indictment (Aug 1); Maui wildfires (Aug 8+); Fulton County indictment (Aug 14); first GOP debate, Fiserv Forum, Milwaukee, Fox News, Baier & MacCallum, Trump absent with a simultaneous Tucker Carlson interview on X (Aug 23), with the Christie "ChatGPT" line, Pence's "on-the-job training," Haley's "most disliked politician" and "no foreign policy experience" lines, and the hands-up question; Trump booked at Fulton County Jail, inmate P01135809, mugshot released (Aug 24); DNC calendar (SC Feb 3, NV Feb 6, MI Feb 27, NH unsanctioned Jan 23); Biden elected to the Senate at 29 in Nov 1972 and sworn in at 30; the 2015 GOP debate record of about 24M viewers.
+ACT| **Our-world events:** FEC Form 1 filed 11:02 PM PDT Apr 20 and Form 2 signed 11:05 PM PDT, making Marc officially a candidate. Committee "Bullock for America"; treasurer Howard Tran (fictional); interim counsel Arianna; campaign manager Patti Grove; co-chairs Elxa and Amond; "Republicans for Bullock" chaired by Tyler. Slogan "LET'S FIX IT," merch hat "BET.," and a generic bluebird logo. No corporate PACs, lobbyists, or super PACs, and a dollar-for-dollar personal charity match by donor zip code (walled off from the campaign). First 6 hours: $31,408,227 from 1,061,904 donors (avg $29.58). Q2 2023: $214M from 4.1M donors. Tyrese gives the $3,300 maximum privately. Roy Chapman (Tyler's father) gives $50. Grace pays the $8 at 2:30 AM. Marc's Donohue stake goes into a blind trust, and he steps back from Bullock Holdings. Joan picketed her own husband's studio in the 1980 actors' strike. Lorraine calls Natasha for the first time in 12 years ("Cornelius is not well"). **The call:** Esther refuses the seat and reveals she knows about Josiah's affair and slush fund (from Odessa, at 16), the Bullock File (from Lorraine, in 2019), the Whitfield deal (Jamal starts in June), and the shell-company funding of Jaxon's podcast. Cornelius threatens to release the file to Republicans by Memorial Day and weaponizes the twins' birth and the 2012 NDAs, naming Emma. Esther: "NOT ANYMORE." Esther names Thaddeus, and Cornelius breaks. Lorraine intervenes on the extension and sides with Esther. Marc voided the NDAs in 2014 and apologized to the nurses. Dante logs the threat and confirms the Apr 22 Hay-Adams breakfast with Wes Thornton (photographed legally). May 10: the twins are told their story. May 15: People exclusive, the story told first. Memorial Day: Cornelius shreds the "2012 — PREGNANCY" tab. Jun 21: bipartisan age amendment introduced. Marc pickets Donohue (May 2, Jul 14), and Natasha sends lunch ("— Mom"). Maui aid (Aug 10). **Democratic debate:** Tue Aug 22, 2023, 9 PM EDT, CNN, Martin Luther King Jr. International Chapel, Morehouse College; Bullock, Kennedy, Williamson; Biden declines; ~31M viewers (a record); instant poll Bullock 61, Kennedy 22, Williamson 11; $18M+ raised. Key lines: "Joe Biden was the 'too young' guy once," "fifty-five and a half," "Bet." Lorraine stands and chants; Cornelius stays seated. Biden smiles and keeps walking at Lake Tahoe. Marc greets Cornelius from the stage: "Hi, Dad." **Polls (Aug 24):** Dem: Biden 44, Bullock 37, Kennedy 10, Williamson 3. GOP: Trump 53, DeSantis 14, Ramaswamy 10, Haley 6, Pence 5, Scott 3, Christie 3, Burgum 1. General: Biden–Trump 44–44; Bullock–Trump 51–41 (22% of Republicans would consider). SC (Winthrop): Biden 51, Bullock 38. **Cornelius joins the Biden campaign as senior adviser for Southern outreach (Aug 24).** HQ in Century City, ~300 staff. The birthday cake and card from the twins. Cornelius takes Wes's call ("I still have it"), and they'll talk after Labor Day.
+ACT| **Fictional people introduced:** Howard Tran (campaign treasurer); Roy Chapman (Tyler's father, Houston).
+ACT| **Looming event (in-world):** the 2024 election, specifically the South Carolina primary on Sat, Feb 3, 2024, and the age amendment.
