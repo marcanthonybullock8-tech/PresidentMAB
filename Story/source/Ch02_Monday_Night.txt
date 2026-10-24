@@ -1,0 +1,621 @@
+CHAPTER| THE BULLOCK PRESIDENCY
+SUB| BOOK ONE: BEFORE
+SUB| Chapter 2 — "Monday Night"
+SUB| Monday, January 2, 2023 – Tuesday, January 3, 2023
+PAGE|
+
+SUB| COLD OPEN
+
+SLUG| INT. DONOHUE STUDIOS — EXECUTIVE TOWER — NATASHA'S OFFICE — BURBANK — MORNING
+SUPER| MONDAY, JANUARY 2, 2023 — 7:12 AM PST
+SUPER| (FEDERAL HOLIDAY — NEW YEAR'S DAY OBSERVED)
+ACT| The top floor of the tower that overlooks the most famous water tower in the world: a sixty-foot steel BENNY BLUEBIRD, wings out, painted on the tank since 1940. Below, the studio lot is empty for the holiday. Soundstages closed. A single golf cart crawls past the commissary.
+ACT| Natasha's office is glass on three sides and absolutely silent on all four. No clutter. One photograph on the desk: three children on a Donohue Dreamland carousel, 1999.
+ACT| Natasha (51), in a charcoal suit on a federal holiday, stands at the window with her phone to her ear. Across her desk, already mid-crisis:
+ACT| DANIELLE "DANI" SHAW (45), President and COO, Chicago-raised, a former crisis-communications prodigy who has never once said "no comment" when "watch me" would do.
+ACT| And PAUL KAVANAGH (57), President of Donohue Media Networks: ABC, ESPN, the Donohue Channel. Irish-Catholic Boston, thirty years in television, a man who measures his life in ratings points.
+CHAR| NATASHA
+PAR| (into phone)
+DLG| ...Critical but stable. Thank you. Tell his family the jet is in Reno if they need it. Anything. Anything at all.
+ACT| She hangs up. Turns around.
+CHAR| NATASHA
+DLG| Jeremy came through surgery. Chest trauma, orthopedic injuries. Critical but stable.
+CHAR| DANI
+DLG| Thank God.
+CHAR| PAUL
+DLG| A snowcat. On New Year's morning. Clearing his own driveway.
+CHAR| NATASHA
+DLG| Trying to help his family get out of the snow. That's the part nobody's going to believe from a movie star, and it's the part that's true.
+ACT| She sits. Folds her hands.
+CHAR| NATASHA
+DLG| Marvel says nothing until his family speaks. No "thoughts and prayers" press release with a Hawkeye still attached. If I see one piece of marketing art on any Donohue account today, someone is getting reassigned to the Antarctica office.
+CHAR| DANI
+DLG| We don't have an Antarctica office.
+CHAR| NATASHA
+DLG| We will by lunch.
+ACT| She turns to Paul.
+CHAR| NATASHA
+DLG| Tonight.
+CHAR| PAUL
+DLG| Bills at Bengals. Monday Night Football. Week Seventeen. It might decide the number one seed in the AFC. Buck and Aikman in the booth, Lisa Salters on the sideline. If the numbers hold, it's our most-watched Monday night of the season. Twenty million, easy.
+CHAR| NATASHA
+DLG| Then nothing goes wrong.
+CHAR| PAUL
+DLG| Nothing ever goes wrong on Monday Night Football, Natasha. It's football.
+ACT| Natasha looks at him for a long moment.
+CHAR| NATASHA
+DLG| Paul. Everything goes wrong. That's why we get paid.
+ACT| On the wall-mounted screens: ESPN, ABC, CNN, Fox News, a muted carousel of the morning. A banner on CNN: "SPEAKER FIGHT: McCARTHY OFFERS KEY CONCESSION TO HOLDOUTS — NO DEAL YET."
+TRANS| CUT TO:
+
+SLUG| INT. LINCOLN DINER (FICTIONAL) — CAPITOL HILL — WASHINGTON, D.C. — MORNING
+SUPER| MONDAY, JANUARY 2, 2023 — 10:20 AM EST
+ACT| A narrow diner three blocks from the Capitol. Laminated menus. A Christmas garland nobody has taken down. A TV over the counter shows C-SPAN with no sound.
+ACT| In the back booth, a plate of untouched grits in front of him: CORNELIUS SMILLEY (64). He flew up from Atlanta last night. He looks rested. He always looks rested.
+ACT| Across from him, hunched over coffee: CONGRESSMAN HARLAN WHITFIELD (73), Democrat of Georgia. A big, tired man with a cane hooked on the table and a voting record nobody can remember. Twelve terms; tomorrow makes thirteen. Looks every one of them.
+CHAR| WHITFIELD
+DLG| You flew up on New Year's Day to watch me eat eggs.
+CHAR| CORNELIUS
+DLG| I flew up to watch you take your oath tomorrow, Harlan. One more time. You've earned it.
+CHAR| WHITFIELD
+DLG| One more time. You keep saying that like it's a eulogy.
+CHAR| CORNELIUS
+DLG| It's a retirement. There's a difference. One of them comes with a pension.
+ACT| Whitfield laughs, a wet rattle. He stirs his coffee.
+CHAR| WHITFIELD
+DLG| My doctor says the same thing you do. "Two more years at most, Harlan." He means my knees. What do you mean?
+CHAR| CORNELIUS
+DLG| I mean you announce in March. You finish this term. You go home to Decatur and you teach a seminar at Emory with your name on the door. Your grandson Jamal gets the associate position at Smilley Strategies he interviewed for. And in January of 2024, you stand at a podium at Greater Mount Calvary and you endorse your successor.
+CHAR| WHITFIELD
+DLG| Your daughter.
+CHAR| CORNELIUS
+DLG| The best candidate.
+CHAR| WHITFIELD
+DLG| Who lives in Bel Air.
+CHAR| CORNELIUS
+DLG| For now.
+ACT| Whitfield sets the spoon down. Looks at Cornelius, really looks, the way only someone who's known you for forty years can.
+CHAR| WHITFIELD
+DLG| Does she know you're doing this?
+CHAR| CORNELIUS
+DLG| She knows the plan.
+CHAR| WHITFIELD
+DLG| That's not what I asked.
+ACT| Cornelius smiles. It's a very good smile. It has won elections.
+CHAR| CORNELIUS
+DLG| Eat your eggs, Harlan.
+ACT| On the diner TV, C-SPAN cuts to a reporter in the Capitol. The chyron: "9 GOP HARDLINERS: McCARTHY CONCESSIONS 'INSUFFICIENT.'"
+CHAR| WHITFIELD
+PAR| (nodding at the screen)
+DLG| Kevin's gonna get eaten alive tomorrow.
+CHAR| CORNELIUS
+DLG| Kevin is going to win. Eventually. On the fifth ballot, or the tenth, or the fifteenth. And he'll have given away so much to get there, he'll spend two years wondering whether the chair was worth it.
+CHAR| WHITFIELD
+DLG| You sound like you've thought about that.
+CHAR| CORNELIUS
+DLG| I've thought about every chair in that building, Harlan. Most of them were supposed to be mine.
+
+HEAD| AXIOS | Nine House Republicans say McCarthy concessions are "insufficient" ahead of Speaker vote | McCarthy offered to let just five members force a vote to oust a sitting Speaker. Hardliners want more.
+HEAD| POLITICO | McCarthy's Speaker bid heads into Tuesday on a knife's edge | Allies whip votes through the holiday; Democrats, united behind Hakeem Jeffries, prepare to watch.
+HEAD| DEADLINE | Jeremy Renner in "Critical but Stable" Condition After Surgery Following Snowplow Accident | The 'Hawkeye' star was injured New Year's morning near his home outside Reno, his representative said.
+PAGE|
+
+SUB| ACT ONE — "BIRTHDAY EVE"
+
+SLUG| INT. SUNRISE HILL — FAMILY ROOM — AFTERNOON
+SUPER| MONDAY, JANUARY 2, 2023 — 1:38 PM PST / 4:38 PM EST
+ACT| The Cotton Bowl on the big screen. Tulane vs. USC, in Arlington, Texas. Fourth quarter. Mayhem.
+ACT| On the couch, wrapped in a cardinal-and-gold USC blanket like a burrito of grief: GRACE BULLOCK (28). USC class of 2016. She took eleven years of acting classes and one semester of statistics, and the statistics semester is the one she still has nightmares about.
+ACT| On the floor in front of her, Victoria (10) and Emma (10), playing a card game neither of them will explain to adults.
+ACT| On screen: TULANE SCORES. With nine seconds left. Tulane 46, USC 45.
+ACT| Grace SCREAMS into a throw pillow.
+CHAR| GRACE
+DLG| NO. NO. NO. NOT TULANE. TULANE IS A WEATHER EVENT, NOT A FOOTBALL TEAM.
+CHAR| VICTORIA
+PAR| (not looking up)
+DLG| Auntie Grace, your team is losing.
+CHAR| GRACE
+DLG| My team is not losing, Victoria. My team is being HUMILIATED on a national holiday. On ESPN. Which your great-grandfather OWNS. I'm calling him. I'm demanding a recount.
+CHAR| EMMA
+DLG| You can't recount football.
+CHAR| GRACE
+DLG| Watch me, Emma Bullock. I'll get Arianna. She has a law degree.
+ACT| From the kitchen, Marc (30) enters carrying a three-tier cake shaped like a guitar, with "HAPPY 31ST, OLD MAN" piped in blue icing. It's a day early. That's the point.
+CHAR| MARC
+DLG| What happened?
+CHAR| GRACE
+DLG| TULANE.
+CHAR| MARC
+DLG| Oh, baby. I'm so sorry. Do you want to talk about it?
+CHAR| GRACE
+DLG| No.
+CHAR| MARC
+DLG| Do you want me to buy Tulane?
+CHAR| GRACE
+PAR| (instantly, through tears)
+DLG| ...Can you?
+CHAR| MARC
+DLG| It's a private university with a forty-thousand-dollar tuition and a very nice med school. Anything's possible. But no. Because then you'd be a Tulane fan, and I can't raise the girls in that environment.
+ACT| The final whistle. USC loses. Grace lies down on the floor next to her nieces in a straight line, arms crossed over her chest like a vampire.
+CHAR| GRACE
+DLG| Bury me in Heritage Hall.
+CHAR| VICTORIA
+DLG| Okay.
+PAR| (to Emma)
+DLG| Your turn.
+
+POST| Twitter | @GraceBullock | I'm not okay. I will never be okay. Tulane is a hurricane, not a school. #FightOn (respectfully, I'm going to bed at 1:45 PM) | 22.1K Retweets · 189K Likes
+POST| Twitter | @GraceBullock's replies | @TulaneDad1998: "Welcome to New Orleans baby, have a beignet" | 40K Likes
+POST| Twitter | @TheBullpenDaily | Grace Bullock live-tweeting her own grief over a college football game is the most relatable thing a Bullock has ever done. We love a nepo baby who suffers. | 7,701 Retweets · 61K Likes
+
+SLUG| INT. SUNRISE HILL — GREAT ROOM — LATE AFTERNOON
+SUPER| MONDAY, JANUARY 2, 2023 — 5:12 PM PST / 8:12 PM EST
+ACT| The house fills up. Not a party this time. A watch party. The cake sits in the middle of the coffee table with thirty-one candles nobody has lit yet.
+ACT| Tyler Chapman (30), Houston-born, guest of honor, birthday on Wednesday, arrives in a Houston Oilers throwback jersey. A team that hasn't existed since 1996.
+CHAR| TYLER
+DLG| You made me a guitar cake.
+CHAR| MARC
+DLG| I made you a guitar cake because you haven't played a real one since 2019, and I wanted you to remember what it looked like.
+CHAR| TYLER
+DLG| ...That's cold.
+CHAR| MARC
+DLG| It's buttercream. It's literally room temperature.
+ACT| Amond Baker (30) comes in behind him in a Joe Burrow jersey, Bengals orange-and-black head to toe, wearing a tiger-stripe bandana like he's about to rob a bank in 1987.
+CHAR| MARC
+DLG| No. Get out of my house.
+CHAR| AMOND
+DLG| My grandmother was from Cincinnati.
+CHAR| MARC
+DLG| Your grandmother was from Cincinnati for eleven months in 1958. You've been a Bengals fan out of spite since the second grade.
+CHAR| AMOND
+DLG| And who are you rooting for?
+CHAR| MARC
+DLG| The Buffalo Bills. Like a decent man.
+CHAR| TYLER
+DLG| Why? You were born in L.A. The Bills have never meant anything to you.
+CHAR| MARC
+DLG| The Buffalo Bills lost the Super Bowl three weeks after I was born. My mother watched it on the couch, holding me, and said, "Baby, never love anything that breaks your heart two years in a row." So I picked them. And they went and lost two more. Out of solidarity. With suffering.
+CHAR| AMOND
+DLG| That's the dumbest reason anyone has ever liked a football team.
+CHAR| MARC
+DLG| And yet I'm emotionally stable and you're wearing a bandana.
+ACT| Harmony (30) enters with Lyric (8), who is wearing a hand-me-down Bills hat from Marc, four sizes too big, and a Bengals shirt from her father, because she refuses to choose sides.
+CHAR| LYRIC
+DLG| I'm for both teams.
+CHAR| MARC
+DLG| That's the most presidential thing I've ever heard.
+CHAR| HARMONY
+DLG| Don't put that on my child.
+ACT| Esther (30) arrives with a tray of wings, sets it down, and kisses Marc on the temple without slowing down.
+CHAR| ESTHER
+DLG| Tyrese just texted. His plane landed at Van Nuys. He'll be here by the second quarter.
+CHAR| MARC
+DLG| Did he sleep?
+CHAR| ESTHER
+DLG| He said, quote, "I'll sleep when I'm dead or when the Bengals win a Super Bowl."
+CHAR| AMOND
+DLG| THAT'S MY BOY.
+ACT| Tayia (30) is already on the floor with the twins, Arianna (30) on the arm of the sofa, Elxa (32) in the kitchen doorway on her phone, half watching and half running someone's life.
+ACT| The ESPN broadcast fills the screen: Paycor Stadium, Cincinnati. Sixty-five thousand people. The Monday Night Football theme. Breath visible in the cold.
+CHYRON| ESPN MONDAY NIGHT FOOTBALL — BILLS (12-3) at BENGALS (11-4) — PAYCOR STADIUM, CINCINNATI
+CHAR| ELXA
+PAR| (lowering her phone)
+DLG| Mama says this is the biggest Monday night of the season. Paul from the network is "cautiously euphoric."
+CHAR| MARC
+DLG| Paul's never been euphoric in his life. Paul's Irish Catholic. He's cautiously Catholic.
+
+SLUG| EXT. PAYCOR STADIUM — CINCINNATI — NIGHT (BROADCAST)
+SUPER| MONDAY, JANUARY 2, 2023 — 8:40 PM EST
+ACT| Kickoff. The broadcast booth: JOE BUCK (53) and TROY AIKMAN (56). Down on the sideline, in a long winter coat: LISA SALTERS (56).
+ACT| Buffalo quarterback JOSH ALLEN (26) and Cincinnati quarterback JOE BURROW (26), the two most electric young players in the league, on the same field, with the AFC's top seed in sight.
+ACT| The offenses trade scores early. The crowd is deafening.
+CHYRON| 1ST QUARTER — BENGALS 7, BILLS 3
+
+SLUG| INT. SUNRISE HILL — GREAT ROOM — CONTINUOUS
+SUPER| 5:52 PM PST / 8:52 PM EST
+ACT| Amond is standing on a chair, the way Marc stands on couches, swinging his bandana over his head.
+CHAR| AMOND
+DLG| WHO DEY! WHO DEY! WHO DEY THINK GON' BEAT THEM BENGALS —
+CHAR| MARC
+DLG| Get off my chair.
+CHAR| AMOND
+DLG| — NOBODY!
+CHAR| TYLER
+DLG| It's seven to three, man. Sit down. It's the first quarter.
+CHAR| VICTORIA
+DLG| Uncle Amond, you're gonna fall off that chair.
+CHAR| AMOND
+DLG| Victoria, I have been standing on furniture since 1996. I have never fallen once.
+CHAR| HARMONY
+DLG| Where have I heard that before.
+ACT| Lyric, wedged between Marc and Esther on the couch, holds Marc's hand absentmindedly. On the screen, a Bengals receiver, TEE HIGGINS (23), catches a pass over the middle.
+ACT| A Bills safety comes up to make the tackle.
+ACT| DAMAR HAMLIN (24), number three, Pittsburgh kid, second-year player, McKees Rocks, Pennsylvania.
+ACT| It's an ordinary hit. Hamlin makes the tackle. Gets up.
+ACT| He takes one step.
+ACT| And then he falls backward onto the turf and does not move.
+SUPER| 8:55 PM EST — 5:58 REMAINING IN THE FIRST QUARTER
+PAGE|
+
+SUB| ACT TWO — "5:58"
+
+SLUG| INT. SUNRISE HILL — GREAT ROOM — CONTINUOUS
+SUPER| 5:55 PM PST / 8:55 PM EST
+ACT| For a few seconds nobody in the room understands what they're looking at.
+ACT| Amond is still on the chair, bandana in mid-swing.
+CHAR| AMOND
+DLG| ...Get up. Come on. Get up, man.
+ACT| On the screen, players start waving frantically toward the sideline. Medical staff run onto the field. Not jog. RUN.
+ACT| Tyler is already on his feet. He played safety at Bellaire High School in Houston. He knows what an ordinary hit looks like. He knows what that wasn't.
+CHAR| TYLER
+PAR| (low)
+DLG| That's not a concussion. Marc. That's not a concussion.
+ACT| Marc doesn't answer. He's looking at his daughters.
+ACT| Emma has gone completely still. Victoria, the wild one, the one who never stops moving, has stopped moving.
+ACT| The broadcast cuts away to a wide shot. Players kneeling. Players in circles. Someone on the Bills sideline with both hands on top of his helmet. A player in orange with his face in his hands.
+ACT| Then the broadcast does something it almost never does. It goes silent. The booth stops talking.
+ACT| Amond climbs down off the chair. Slowly. Sits. His bandana is still in his hand.
+CHAR| VICTORIA
+PAR| (very small)
+DLG| Daddy, why aren't they talking?
+ACT| Marc kneels on the rug in front of both girls. Takes their hands. Lyric scoots off the couch and puts her hand on top of the pile, because that's what you do.
+CHAR| MARC
+DLG| Because sometimes when something serious happens, the grown-ups need to be quiet so the doctors can work. They're not talking because they're being respectful.
+CHAR| EMMA
+DLG| Is he hurt?
+CHAR| MARC
+DLG| Yeah, baby. He's hurt. Real bad, I think.
+CHAR| EMMA
+DLG| Like a broken bone?
+ACT| Marc doesn't lie to his children. He has never lied to his children. He isn't going to start on January second.
+CHAR| MARC
+DLG| I don't know yet. I think it might be his heart. The doctors are trying to help his heart.
+ACT| Lyric's lip trembles. Harmony is already on the floor next to her daughter, arms around her.
+CHAR| LYRIC
+DLG| Is his mommy there?
+ACT| On the TV, as if the universe heard her: Lisa Salters on the sideline, quietly reporting that Hamlin's family is at the game. His mother is in the stadium.
+ACT| Marc closes his eyes for just a second. Opens them. Esther's hand is on the back of his neck.
+CHAR| MARC
+DLG| Yeah, Lyric-bird. His mommy's there.
+
+SLUG| INT. DONOHUE ESTATE — LIBRARY — HOLMBY HILLS — SAME TIME
+SUPER| 5:57 PM PST / 8:57 PM EST
+ACT| Natasha, alone, in front of a wall of monitors that shows the ESPN feed, the ESPN control room, and four competitor networks. She has her phone on speaker on the desk.
+CHAR| PAUL (V.O.)
+PAR| (over the phone, breathing hard)
+DLG| — they're doing CPR, Natasha. On the field. They're doing CPR on the field.
+ACT| Natasha does not sit down. She doesn't move at all.
+CHAR| NATASHA
+DLG| Paul. Listen to me. No replays of the hit. None. Not in the booth, not in the studio, not on SportsCenter, not on any Donohue platform. Not tonight, not tomorrow.
+CHAR| PAUL (V.O.)
+DLG| The truck already showed it once before anybody knew what —
+CHAR| NATASHA
+DLG| Then not ever again. No commercial breaks while that young man is on the field. I don't care what we lose. Stay with the people. Not the body. The people. The players, the coaches, the stadium. If his mother is on camera, you cut away from her. Do you understand me?
+CHAR| PAUL (V.O.)
+DLG| Yes.
+CHAR| NATASHA
+DLG| Say it back.
+CHAR| PAUL (V.O.)
+DLG| No replays. No breaks. Stay with the people, not the body. Cut away from his mother.
+CHAR| NATASHA
+DLG| Good. Get Joe and Troy whatever they need. Let them be quiet if they need to be quiet. Nobody gets fired tonight for silence.
+ACT| Robert (53) appears in the doorway. He's seen it. His face is gray.
+CHAR| ROBERT
+DLG| Tasha.
+CHAR| NATASHA
+DLG| I know.
+CHAR| ROBERT
+DLG| The kids are at Marc's.
+CHAR| NATASHA
+DLG| I know, baby. He'll handle it. He always handles it.
+ACT| She finally sits. For the first time tonight, her hand shakes.
+
+SLUG| EXT. PAYCOR STADIUM — THE FIELD — NIGHT (BROADCAST)
+SUPER| ~9:05 PM EST
+ACT| The broadcast is careful now. Wide shots. Distant. A ring of Bills players, arms locked, backs turned, forming a wall between the cameras and the medical staff.
+ACT| Josh Allen, helmet off, in a circle of teammates, eyes closed. Joe Burrow on the Bengals side, kneeling. Coaches from both teams together near midfield, Bills coach SEAN McDERMOTT (48) and Bengals coach ZAC TAYLOR (39), heads close.
+ACT| An ambulance drives slowly onto the field.
+
+SLUG| INT. SUNRISE HILL — GREAT ROOM — CONTINUOUS
+SUPER| 6:08 PM PST / 9:08 PM EST
+ACT| The front door. Tyrese Avery (31), straight from the airport, still in sunglasses and a travel hoodie, walks in grinning.
+CHAR| TYRESE
+DLG| WHO'S WINNING —
+ACT| He stops. Sees the room. Sees the TV. Takes his sunglasses off.
+CHAR| TYRESE
+DLG| ...What happened?
+CHAR| AMOND
+PAR| (barely audible)
+DLG| Hamlin. Bills safety. He went down. They did CPR.
+ACT| Tyrese doesn't say anything. He sits down on the floor where he stands, right there in the entryway, in his hoodie, and watches.
+ACT| On the screen, the ambulance pulls away from the field. Players from both teams stand in silence. Some of them are crying openly. Grown men, in pads, who were trying to hurt each other ten minutes ago.
+
+POST| Twitter | @nflfan_412 | I'm watching Damar Hamlin get CPR on Monday Night Football and I have never felt so sick in my life. Please God. Please. | 64K Retweets · 301K Likes · 9:03 PM EST
+POST| Twitter | @CincyCaleb | 65,000 people in this stadium and you could hear a pin drop. I've never heard anything like it. Everyone's praying. Bills fans and Bengals fans holding hands. | 41K Retweets · 212K Likes · 9:11 PM EST
+POST| Twitter | @BillsMafiaMom | Pray for Damar. That's all. Pray for Damar. #PrayForDamar | 88K Retweets · 402K Likes · 9:14 PM EST
+POST| Twitter | #PrayForDamar | Trending Worldwide · 1.2M Tweets
+POST| Twitter | @PittPanthersFan | Damar Hamlin is a McKees Rocks kid. Central Catholic. Pitt. Everybody in this city knows that family. Please. | 29K Retweets · 155K Likes · 9:19 PM EST
+
+SLUG| INT. DONOHUE ESTATE — LIBRARY — CONTINUOUS
+SUPER| 6:31 PM PST / 9:31 PM EST
+ACT| On the ESPN feed, Joe Buck is relaying what the booth has been told. Players have gone to the locker rooms. Buck says the network was informed that players would be given five minutes to warm up before play resumed.
+ACT| Natasha's head snaps up.
+CHAR| NATASHA
+DLG| Paul.
+CHAR| PAUL (V.O.)
+DLG| He's reporting what the league told the truck. That's what we were told.
+CHAR| NATASHA
+DLG| Who told the truck?
+CHAR| PAUL (V.O.)
+DLG| I'm finding out.
+CHAR| NATASHA
+DLG| Find out now. Because in about four minutes, sixty million people are going to ask how anyone thought about restarting a football game while that young man was in an ambulance. And when they ask, they're going to ask OUR network. Not the league. Us.
+ACT| Her phone screen lights up with incoming calls. Dani. Victor. A number in Manhattan. A number in Bristol, Connecticut. She ignores all of them except the first.
+CHAR| NATASHA
+PAR| (switching lines)
+DLG| Dani.
+CHAR| DANI (V.O.)
+DLG| Twitter's on fire about the warm-up line. People are saying ESPN made it up.
+CHAR| NATASHA
+DLG| ESPN didn't make it up. ESPN reported it. Get me the timestamps, the names, and the exact words. Tonight. I want them on my desk before the sun comes up, and I want nobody at this company saying one word in public about blame until that young man's family has said whatever they need to say.
+CHAR| DANI (V.O.)
+DLG| And if the league says it never happened?
+CHAR| NATASHA
+DLG| Then the league says it never happened. And we let them. Because tonight isn't about who's right, Dani. Tonight is about Damar.
+
+SLUG| INT. SUNRISE HILL — UPSTAIRS HALLWAY — NIGHT
+SUPER| 6:44 PM PST / 9:44 PM EST
+ACT| Marc carries Victoria up the stairs piggyback. Emma walks beside him holding his free hand. Lyric follows, holding Emma's. A chain of children.
+ACT| Downstairs, the TV murmurs. The cake with thirty-one unlit candles sits abandoned on the coffee table. Nobody has touched a wing.
+
+SLUG| INT. SUNRISE HILL — THE TWINS' ROOM — CONTINUOUS
+ACT| Two beds. Glow-in-the-dark stars on the ceiling, arranged in actual constellations because Emma insisted on accuracy. A Benny Bluebird nightlight. A framed photo of the twins and their dad on a roller coaster at Donohue Dreamland, all three screaming.
+ACT| Marc sits on the floor between the two beds. The girls sit on one, Lyric on the other.
+CHAR| VICTORIA
+DLG| Is he gonna die?
+ACT| A long beat.
+CHAR| MARC
+DLG| I don't know, Vic. I really don't know. And I'm not gonna tell you something I don't know just to make you feel better. That wouldn't be fair to you.
+CHAR| EMMA
+DLG| What do we do, then?
+CHAR| MARC
+DLG| We do the only thing we can do from here. We think about him. We think about his mama. We think about his teammates. We send him every bit of love we've got and we hope it gets there.
+CHAR| LYRIC
+DLG| Can we pray? Mommy says when you don't know what to do, you pray.
+CHAR| MARC
+DLG| Your mommy's right. She's always right. Don't tell your daddy I said that.
+ACT| He holds out both hands. Victoria takes one. Emma takes the other. Lyric climbs down and takes Emma's free hand, then reaches for Victoria's. A circle.
+ACT| In the doorway, unseen, Esther. And behind her, Amond and Harmony.
+CHAR| MARC
+DLG| Lyric. You want to start?
+CHAR| LYRIC
+PAR| (eyes squeezed shut)
+DLG| Dear God. Please help Damar. Please help his heart. Please help his mommy. And please help the football players, because they're sad. And please help Daddy, because he's sad and he's wearing the bandana. Amen.
+ACT| In the doorway, Amond, still holding the tiger-stripe bandana, laughs and cries at the same time, a single sound.
+CHAR| VICTORIA
+DLG| Dear God. Please let him wake up. I'll be good. I'll be good for like a week. Amen.
+CHAR| EMMA
+DLG| Dear God. Please give the doctors steady hands. Amen.
+ACT| Marc looks at Emma, who is ten years old and somehow asked for exactly the right thing.
+CHAR| MARC
+DLG| Dear God. Thank you for these three girls. And please hold Damar Hamlin and his family tonight the way I'm holding these hands. Amen.
+CHAR| ALL THREE GIRLS
+DLG| Amen.
+ACT| Esther turns away from the doorway so no one sees her face.
+
+SLUG| INT. SUNRISE HILL — GREAT ROOM — NIGHT
+SUPER| 7:01 PM PST / 10:01 PM EST
+ACT| The adults, gathered, standing. On the TV, a graphic: an official statement from the NFL. The game has been postponed. Hamlin's condition is critical. He is being treated at the University of Cincinnati Medical Center.
+CHYRON| NFL POSTPONES BILLS-BENGALS — DAMAR HAMLIN IN CRITICAL CONDITION
+ACT| A collective exhale. Not relief. Just the end of holding a breath.
+CHAR| TYLER
+DLG| They're not playing.
+CHAR| ARIANNA
+DLG| They were never going to play. Nobody on that field was going to play.
+CHAR| TAYIA
+DLG| Then why did the booth say five minutes?
+CHAR| ELXA
+PAR| (eyes on her phone)
+DLG| Mama's finding out. You don't want to be the person she's finding out about.
+ACT| Marc comes down the stairs. Quiet. He walks to the coffee table, looks at the guitar cake, and gently pulls out all thirty-one candles one at a time. Sets them in a neat pile.
+CHAR| MARC
+DLG| We'll do this Wednesday. On the real day.
+CHAR| TYLER
+DLG| Yeah. Wednesday.
+ACT| Grace is on her phone, scrolling fast, eyes wide.
+CHAR| GRACE
+DLG| Marc. He has a GoFundMe. A toy drive. For kids in his hometown. He started it in 2020. The goal was twenty-five hundred dollars.
+CHAR| MARC
+DLG| What's it at?
+CHAR| GRACE
+DLG| It was at like three thousand an hour ago. It's past a hundred thousand. It's climbing while I'm looking at it.
+
+POST| GoFundMe | The Chasing M's Foundation Community Toy Drive — organized by Damar Hamlin | Goal: $2,500 · Raised: $1,183,442 · 37,000+ donations · 11:58 PM EST
+POST| Twitter | @SportsCenter | The toy drive Damar Hamlin started for kids in his hometown has now raised more than $1 million tonight. His original goal was $2,500. | 92K Retweets · 511K Likes
+
+CHAR| GRACE
+DLG| Marc. Marc, if you post right now, if you give a million and post it, it'll be at ten million by midnight. You know it will. The Bullpen will follow you off a cliff.
+ACT| Everyone looks at Marc. This is the most predictable thing in the world: the richest man alive, with six hundred and forty million followers, a cause, and a phone.
+ACT| Marc takes out his phone. Opens the GoFundMe. Types for a few seconds. Hits a button.
+ACT| Grace leans over his shoulder. Reads the screen.
+ACT| INSERT — MARC'S PHONE: "Donation: $2,500.00 · Name: Anonymous · Message: For the toys. Matching your original goal. From a Bills fan in L.A."
+CHAR| GRACE
+DLG| ...Twenty-five hundred? Anonymous?
+CHAR| MARC
+DLG| That was his goal. He asked for twenty-five hundred dollars for the kids. I gave him twenty-five hundred dollars for the kids.
+CHAR| GRACE
+DLG| You could make it ten million —
+CHAR| MARC
+DLG| And then it's about me. Then it's "Billionaire Marc-Anthony Bullock Donates." Then it's my face on SportsCenter instead of his. Then it's my name in the headline. Grace, it went from three thousand to a hundred thousand in an hour. Without me. Because regular people, people with mortgages, people who just paid for Christmas, are giving him twenty dollars at a time. Let them. Let it be theirs. This isn't my moment. It's his.
+ACT| Silence. Grace lowers the phone.
+CHAR| GRACE
+DLG| ...You're so annoying.
+CHAR| MARC
+DLG| I know.
+CHAR| GRACE
+DLG| I'm still going to tweet "Pray for Damar."
+CHAR| MARC
+DLG| Tweet it, baby. Everybody should.
+ACT| Tyrese, still on the floor by the front door, finally speaks.
+CHAR| TYRESE
+DLG| I'm gonna give. Anonymous too.
+CHAR| AMOND
+DLG| Me too.
+CHAR| TYLER
+DLG| Me too.
+ACT| One by one, every adult in the room takes out a phone. Nobody posts. Nobody films. Grace looks around the room, at a dozen famous faces lit by screens, quietly giving money they don't want credit for.
+CHAR| GRACE
+PAR| (to herself)
+DLG| Nobody would believe this if I told them.
+CHAR| ESTHER
+DLG| That's the point, Grace.
+PAGE|
+
+SUB| ACT THREE — "THE LONGEST NIGHT"
+
+SLUG| INT. SMILLEY STRATEGIES — CORNELIUS'S OFFICE — K STREET, WASHINGTON, D.C. — NIGHT
+SUPER| MONDAY, JANUARY 2, 2023 — 10:22 PM EST
+ACT| The top floor of a glass building on K Street, the lobbying corridor where Washington's money lives. The office is dark except for one television and one desk lamp.
+ACT| Cornelius sits alone. Tie loosened for the first time all day. On his desk, Speaker whip counts, a yellow legal pad, a cold cup of tea. On the screen: ESPN. The ambulance. The postponement graphic. Players walking off the field with their arms around each other.
+ACT| He watches for a long time.
+ACT| Then, unexpectedly, he lowers his head. His lips move. A prayer. The same one his father used to say over him when he was a boy in Atlanta with a fever, the one he hasn't said out loud since 1974.
+ACT| When he looks up, his eyes are wet. He blinks it away. Picks up his phone.
+
+SLUG| INTERCUT — EXT. SUNRISE HILL — BACK TERRACE — NIGHT
+SUPER| 7:26 PM PST
+ACT| Esther, alone, wrapped in a throw, by the pool. The water glows blue. Her phone buzzes. "DADDY." She hesitates. Answers.
+CHAR| ESTHER
+DLG| Daddy.
+CHAR| CORNELIUS
+DLG| Are the girls all right?
+ACT| That stops her. It's not the question she expected.
+CHAR| ESTHER
+DLG| They saw it. They were watching. Victoria asked if he was going to die.
+CHAR| CORNELIUS
+DLG| What did you tell her?
+CHAR| ESTHER
+DLG| Marc told her the truth. That he didn't know. And then they prayed. All three girls. Lyric led it.
+ACT| A long pause. In the dark office, Cornelius closes his eyes.
+CHAR| CORNELIUS
+DLG| ...That's good. That's right. That's how your grandfather did it. You don't lie to children about death. You pray with them about it.
+CHAR| ESTHER
+DLG| He's a good father, Daddy.
+ACT| Cornelius doesn't answer that. He can't. But he doesn't argue with it either, and both of them notice.
+CHAR| CORNELIUS
+DLG| Kiss my granddaughters for me. Tell them Granddaddy's praying too.
+CHAR| ESTHER
+DLG| I will.
+CHAR| CORNELIUS
+DLG| And Esther —
+CHAR| ESTHER
+DLG| Yes?
+ACT| A beat where something almost happens. Something human, and old, and buried. Then it passes.
+CHAR| CORNELIUS
+DLG| ...Get some sleep. It's a long year.
+ACT| He hangs up. Sits in the dark. On the desk in front of him, the yellow legal pad. At the top of the page, in his handwriting from this morning: "WHITFIELD — MARCH ANNOUNCEMENT — CONFIRMED."
+ACT| Underneath, he writes nothing. For once.
+
+SLUG| INT. DONOHUE ESTATE — LIBRARY — NIGHT
+SUPER| 11:48 PM PST / 2:48 AM EST (TUESDAY)
+ACT| Natasha, still in the charcoal suit from eighteen hours ago. Shoes off. A stack of printed timestamps and transcripts in front of her. Victor (76), in a robe, sits across from her with two glasses of bourbon. Hers is untouched.
+CHAR| VICTOR
+DLG| The Bills put out a statement at 1:50 Eastern. His heartbeat was restored on the field. He's sedated. Critical condition.
+CHAR| NATASHA
+DLG| I read it.
+CHAR| VICTOR
+DLG| And?
+CHAR| NATASHA
+DLG| And the league will say tomorrow that nobody ever considered resuming the game. And maybe they're right. Maybe someone in a truck heard "five minutes" for something else and it got passed up the chain. And Joe said it because Joe was told it. Nobody at this company lied tonight, Daddy.
+CHAR| VICTOR
+DLG| I know.
+CHAR| NATASHA
+DLG| And we'll take the hit anyway.
+CHAR| VICTOR
+DLG| We will. Because we have the biggest platform. That's what the biggest platform is for: you stand in front of things, and you take the hit.
+ACT| He slides her glass closer.
+CHAR| VICTOR
+DLG| You did the right thing. No replays. No breaks. Stay with the people. Your grandfather would have done the same.
+CHAR| NATASHA
+DLG| Your father would have gone to commercial.
+CHAR| VICTOR
+PAR| (a rare laugh)
+DLG| My father would have gone to commercial and sold the ad space twice. That's why he was rich. You did it right. That's why you're going to be richer.
+ACT| Natasha finally drinks. She looks at the photograph on the shelf: the same carousel picture from her office, three children on painted horses.
+CHAR| NATASHA
+DLG| Marc gave twenty-five hundred dollars. Anonymous. Elxa told me.
+CHAR| VICTOR
+DLG| Twenty-five hundred?
+CHAR| NATASHA
+DLG| It was the boy's original goal.
+ACT| Victor sets his glass down slowly. Something shifts in his face, pride so deep it looks like grief.
+CHAR| VICTOR
+DLG| Natasha. Do you understand what you raised?
+CHAR| NATASHA
+DLG| Every day, Daddy.
+CHAR| VICTOR
+DLG| No. I mean, do you understand what the rest of the world is going to do when they figure it out?
+ACT| She doesn't answer. She doesn't have to. Outside, the first sprinklers come on in the dark.
+
+SLUG| MONTAGE — THE INTERNET — TUESDAY, JANUARY 3, 2023 — OVERNIGHT INTO MORNING
+
+POST| Twitter | @BuffaloBills | Damar suffered a cardiac arrest following a hit in our game versus the Bengals. His heartbeat was restored on the field and he was transferred to the UC Medical Center for further testing and treatment. He is currently sedated and listed in critical condition. | 401K Retweets · 1.1M Likes · 1:50 AM EST
+POST| GoFundMe | The Chasing M's Foundation Community Toy Drive | Goal: $2,500 · Raised: $3,402,118 · 120,000+ donations · 7:00 AM EST
+POST| Twitter | @chasing_ms_fan | 120,000 people gave money to a toy drive overnight. Teachers, nurses, Bengals fans, Bills fans, kids with their allowance. This is the country I believe in. | 31K Retweets · 188K Likes
+POST| Reddit | r/nfl | "Last night, 65,000 Bengals fans chanted 'Let's go Damar' as the ambulance left. That's football." | 84.2K upvotes · 6,102 comments
+POST| Twitter | @ProFootballTalk | Questions are emerging about Joe Buck's on-air report that players would be given five minutes to warm up before resuming play. The league is expected to address it today. | 6,804 Retweets · 31K Likes
+POST| Twitter | @TVcriticDana | Whatever you think about the warm-up controversy, ESPN's broadcast last night was a model of restraint. No replays of the collapse after the first moments. No commercials. Long silences. That's a network that knew what mattered. | 12K Retweets · 77K Likes
+POST| Twitter | @anon_toydrive_watch | someone donated $2,500 anonymously with the message "For the toys. Matching your original goal. From a Bills fan in L.A." and I'm not okay | 54K Retweets · 362K Likes
+POST| Twitter | @anon_toydrive_watch's replies | @bullpenbrigade: "a bills fan in LA... I'm not saying it's who I think it is but I'm saying it's who I think it is" | 21K Likes
+POST| Twitter | @anon_toydrive_watch's replies | @SkepticalSteve: "lol there are literally millions of people in LA. Not everything is about Marc-Anthony Bullock." | 34K Likes
+POST| Twitter | @anon_toydrive_watch's replies | @bullpenbrigade: "@SkepticalSteve and that's exactly what HE would want you to think" | 18K Likes
+
+HEAD| ASSOCIATED PRESS | Bills' Damar Hamlin in critical condition after collapsing on field | The 24-year-old safety went into cardiac arrest after making a tackle in Monday night's game in Cincinnati, which was postponed.
+HEAD| ESPN | Bills say Hamlin's heartbeat restored on field; safety sedated, critical
+HEAD| THE NEW YORK TIMES | A Football Game Stops, and a Nation Holds Its Breath
+HEAD| THE ATHLETIC | Inside the 'surreal' scene at Paycor Stadium as players wept and prayed for Damar Hamlin
+HEAD| VARIETY | ESPN Praised for Restraint During Hamlin Coverage — but Faces Questions Over 'Warm-Up' Report | Donohue Media Networks says its booth "accurately relayed information provided to the broadcast"; the NFL is expected to respond.
+HEAD| DEADLINE | Monday Night Football Draws Massive Audience Before Postponement as Country Tunes In
+HEAD| THE HOLLYWOOD REPORTER | How Donohue's ESPN Handled the Hardest Night in 'Monday Night Football' History
+HEAD| POLITICO PLAYBOOK | Speaker Day: McCarthy's moment of truth, a holiday weekend of failed deals, and a city still shaken by Monday night | The 118th Congress convenes at noon.
+HEAD| AXIOS | The new House convenes today with no guarantee it can elect a Speaker | No Speaker vote has gone to a second ballot since 1923.
+PAGE|
+
+SUB| TAG
+
+SLUG| EXT. U.S. CAPITOL — EAST FRONT — MORNING
+SUPER| TUESDAY, JANUARY 3, 2023 — 9:47 AM EST
+ACT| Cold, clear, bright. The dome against a hard blue sky. Television trucks lined up along Independence Avenue like a parade. Staffers in new suits. Members-elect posing for photos with their families on the steps. Somewhere a high school band is warming up for no clear reason.
+ACT| Cornelius Smilley walks up the plaza in a navy overcoat and a scarf the color of old money. Former members keep House floor privileges for life, unless they become registered lobbyists. He became one fourteen years ago. He walks like he never did.
+ACT| A YOUNG CAPITOL POLICE OFFICER at the entrance recognizes him. Straightens up.
+CHAR| CAPITOL POLICE OFFICER
+DLG| Congressman Smilley. Morning, sir.
+CHAR| CORNELIUS
+DLG| It's just Mister now, son.
+CHAR| CAPITOL POLICE OFFICER
+DLG| My grandmother says once a Congressman, always a Congressman.
+CHAR| CORNELIUS
+DLG| Your grandmother is a wise woman. Tell her I said so.
+ACT| He passes through. Inside the rotunda, he stops beneath the dome. Looks up. The fresco, The Apotheosis of Washington, the first President ascending into heaven, surrounded by gods.
+ACT| His phone buzzes. A text.
+TEXT| SIMONE (daughter) — 9:49 AM | Heard you're in the building. Don't do anything I'd have to explain on TV. Love you. Also, the Hamlin toy drive is at $3.4M. Somebody gave anonymously from "a Bills fan in L.A." The Bullpen thinks it's Marc. Just thought you should know.
+ACT| Cornelius reads it twice. Puts the phone away. Looks back up at the dome. At Washington, rising.
+CHAR| CORNELIUS
+PAR| (quietly, to no one)
+DLG| Of course they do.
+ACT| He walks toward the House gallery. At noon the 118th Congress convenes, and within hours it will fail to elect a Speaker on the first of fifteen ballots.
+ACT| Behind him, a tour guide is telling a group of eighth-graders from Ohio that the dome is made of nearly nine million pounds of cast iron.
+CHAR| TOUR GUIDE (O.S.)
+DLG| ...and they kept building it all through the Civil War, because President Lincoln said if the people saw the Capitol going up, they'd know the Union would go on.
+ACT| Cornelius doesn't turn around. But he slows down, just slightly, to hear the end of it.
+TRANS| SMASH TO BLACK.
+SUPER| END OF CHAPTER TWO
+
+PAGE|
+SUB| CONTINUITY LEDGER — CHAPTER 2
+ACT| **Timeline:** Mon Jan 2, 2023 (federal holiday, New Year's Day observed), 7:12 AM PST → Tue Jan 3, 2023, 9:49 AM EST.
+ACT| **Ages (on Jan 2, 2023):** Marc 30 · Esther 30 · Emma & Victoria 10 · Lyric 8 · Amond 30 · Harmony 30 · Tyrese 31 · Tyler 30 (turns 31 Wed Jan 4) · Tayia 30 · Arianna 30 · Elxa 32 · Grace 28 · Natasha 51 · Robert 53 · Victor 76 · Cornelius 64 · Simone 35 · Dani Shaw 45. Real people: Damar Hamlin 24 · Tee Higgins 23 · Josh Allen 26 · Joe Burrow 26 · Sean McDermott 48 · Zac Taylor 39 · Joe Buck 53 · Troy Aikman 56 · Lisa Salters 56 · Jeremy Renner 51.
+ACT| **Real events depicted:** Jeremy Renner's snowcat accident (Jan 1) and "critical but stable" condition after surgery (Jan 2); McCarthy's motion-to-vacate concession and nine hardliners calling it insufficient (Jan 1–2); Tulane 46, USC 45 in the Cotton Bowl (Jan 2); Bills at Bengals, Monday Night Football on ESPN, Paycor Stadium; Damar Hamlin's collapse at 8:55 PM EST with 5:58 left in the first quarter, Bengals leading 7–3; CPR on the field; Hamlin's mother at the game; the ambulance leaving the field; Joe Buck's on-air report about a five-minute warm-up, later disputed by the NFL; the NFL postponing the game around 10:01 PM EST; the Chasing M's toy drive (original goal $2,500) passing $1M around midnight and about $3.4M by Tuesday morning; the Bills' statement at 1:50 AM EST Jan 3 (heartbeat restored on the field, sedated, critical); the 118th Congress convening at noon Jan 3.
+ACT| **Our-world divergences:** ESPN and Marvel are Donohue properties, so Natasha directs the network's conduct (no replays, no breaks, cut away from his mother). Donohue Media Networks President Paul Kavanagh (57, fictional) is introduced. Natasha offers the Donohue jet to the Renner family. Marc donates $2,500 anonymously ("From a Bills fan in L.A."), and the Bullpen suspects him. Everyone at Sunrise Hill gives anonymously.
+ACT| **New canon:** Marc has been a Bills fan since birth, "out of solidarity with suffering" (Super Bowl XXVI, Jan 26, 1992). Amond is a Bengals fan "out of spite" (a grandmother from Cincinnati). Grace is USC class of 2016. Tyler played safety at Bellaire High School in Houston. Tyler's guitar cake is moved to his real birthday, Wed Jan 4. Congressman Harlan Whitfield (D-GA, 73, sworn in Jan 3, 2023 for his thirteenth term, lives in Decatur) is confirmed to announce his retirement in March 2023; the deal includes an associate job at Smilley Strategies for his grandson Jamal and an endorsement of Esther in Jan 2024. Cornelius prays for the first time out loud since 1974 and asks after the twins, a crack in the armor. Victor: "Do you understand what the rest of the world is going to do when they figure it out?"
+ACT| **Fictional people introduced:** Paul Kavanagh (57); Rep. Harlan Whitfield (73); Jamal Whitfield (his grandson; mentioned only).
+ACT| **Looming event (in-world):** the 2024 presidential election. Next: the Speaker vote (Jan 3–7, 2023).
